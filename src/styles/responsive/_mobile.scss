@@ -1,0 +1,1062 @@
+/**
+ * LEGEND:
+ *
+ * 1. Index Page
+ * 2. Company Pages
+ * 3. How we Do IT Pages
+ * 4. Tech Force
+ * 5. Careers
+ * 6. Case Studies
+ * 7. Contact Us
+ * 8. Privacy, Cookies Policy
+ * 9. Blog
+ * 10. FAQ
+ * 11. GDPR
+*/
+
+@import '../base/_variables';
+@import '../helpers/_mixins';
+
+@media all and (max-width: 767px) {
+  .ing-headline {
+    height: auto;
+    max-height: none;
+  }
+  .full-height {
+    @include viewport-unit(height, 100vh);
+    background-color: $bg-section;
+  }
+  .ordering-mobile {
+    order: 1;
+    -webkit-order: 1;
+  }
+  .bg-img-call-to-action div a {
+    padding: 20px 80px;
+  }
+  .modal-content {
+    padding: 10px;
+  }
+  .nav-pills .nav-link {
+    white-space: nowrap;
+  }
+  .navbar-collapse a.buttons {
+    margin-top: 15px;
+  }
+  .navbar-nav {
+    width: 75%;
+  }
+  nav.navbar {
+    .navbar-toggler {
+      margin-left: 15px;
+    }
+  }
+  nav.navbar.full-scale {
+    height: 100%;
+    .navbar-toggler {
+      position: absolute;
+      top: 0;
+      left: -9px;
+    }
+    .navbar-brand {
+      position: absolute;
+      top: 11px;
+      left: 91px;
+    }
+    .navbar-collapse {
+      margin-top: 100px;
+      height: 100%;
+    }
+  }
+  .gdpr-wrapper div > a {
+    margin-right: 10px;
+  }
+  #office-locations {
+    padding: 25px 35px;
+  }
+  // Slick carousel
+  .slick-track {
+    display: block;
+    flex-flow: unset;
+    align-items: unset;
+  }
+  .testimonial-item {
+    padding: 40px;
+    margin: 40px 45px;
+  }
+  .slick-current {
+    box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.2) !important;
+  }
+  /**
+  * 1. Index Page
+  */
+  .home-bg-image {
+    &:after {
+      display: none;
+    }
+  }
+  nav.navbar {
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    .buttons {
+      margin-right: 12px;
+    }
+  }
+  #intro {
+    margin: 35px 0 30px 0;
+    & > div {
+      padding: 0 15px !important;
+    }
+  }
+  .main-desc-text-wrapper {
+    margin-bottom: 10px;
+  }
+  #short > section {
+    width: 100%;
+    margin: 0 15px;
+    &:first-child {
+      margin-bottom: 30px;
+    }
+  }
+  .awards-intro-wrapper {
+    margin: 0 auto;
+  }
+  #citations-section {
+    margin: 85px 0;
+    h2 {
+      padding: 0 15px;
+    }
+    .card-box {
+      width: 93%;
+      &:not(:nth-child(3)) {
+        margin-bottom: 60px;
+      }
+      &:nth-child(3) {
+        margin: 0;
+      }
+    }
+  }
+  #concept-section {
+    padding: 40px 0;
+    & > section {
+      margin: 0 15px;
+    }
+  }
+  #get-started {
+    margin: 0 15px;
+    padding: 40px 0;
+  }
+  .steps-desc-box {
+    .pulsate-circle {
+      left: 4px;
+    }
+  }
+  #client-citations {
+    h2 {
+      margin-bottom: 20px;
+      padding: 0 15px;
+    }
+  }
+  #partnerships {
+    & > section {
+      margin-top: 20px;
+      padding: 0 15px;
+    }
+  }
+  .bg-img-call-to-action {
+    h2 {
+      padding: 40px 15px 0;
+    }
+  }
+  #footer-links {
+    height: auto;
+    span {
+      margin: 0 auto 30px;
+    }
+    section {
+      margin: 20px 0 40px;
+      order: -1;
+      text-align: center;
+      width: 100%;
+      a {
+        margin: 25px;
+      }
+    }
+  }
+  .gdpr-wrapper {
+    font-size: 12px;
+    line-height: 24px;
+    padding: 15px;
+    p {
+      width: 100%;
+      margin-bottom: 0;
+    }
+  }
+  /**
+  * 2. Company Pages
+  */
+  #jobs-pills-tab-content {
+    padding-top: 40px;
+  }
+  .headline-wrapper {
+    position: static;
+    z-index: 1;
+  }
+  .about-ing-headline {
+    margin-top: 40px;
+  }
+  .about-ing-wrapper:after {
+    display: none;
+  }
+  .ing-world-map {
+    position: static;
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+  .about-ing-wrapper {
+    position: static !important;
+    padding: 40px 0;
+    section:nth-child(5) {
+      margin-top: 30px;
+      padding: 20px 35px;
+    }
+  }
+  .bg-we-chose {
+    margin-top: 20px;
+    h2 {
+      margin: 40px 0 60px;
+    }
+  }
+  .we-chose-boxes {
+    padding-bottom: 40px;
+    section {
+      flex: 0 0 49%;
+      &:nth-child(3) {
+        margin-top: 60px;
+      }
+    }
+  }
+  .ing-mission-wrapper {
+    padding: 40px 15px;
+    section {
+      &:nth-child(3) {
+        margin-top: 30px;
+      }
+    }
+  }
+  .ing-team-wrapper {
+    margin: 0;
+    padding-bottom: 60px;
+    h2 {
+      margin: 40px 0 60px;
+    }
+    section {
+      flex: 0 0 49%;
+    }
+    p {
+      margin-bottom: 25px;
+    }
+  }
+  .fixed-price-model-wrapper {
+    padding: 40px 0;
+    h2 {
+      padding: 0 15px;
+    }
+    .fixed-model-usage-item {
+      margin: 10px 15px;
+      flex-basis: 100%;
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: center;
+      align-content: center;
+      padding: 7.5px;
+      p:first-child {
+        flex-basis: 10%;
+        margin: 0;
+      }
+      p:last-child {
+        flex-basis: 90%;
+        margin: 0;
+        display: flex;
+        flex-flow: row wrap;
+        align-content: center;
+      }
+    }
+  }
+  .fixed-model-benefits-wrapper {
+    margin-top: 20px;
+  }
+  .fixed-model-usage-wrapper {
+    h2 {
+      padding: 40px 0 20px;
+    }
+  }
+  .expertise-item {
+    padding: 40px 0;
+    h2,
+    p {
+      padding: 0 15px;
+    }
+  }
+  .page-navigation-wrapper {
+    .row {
+      & > div {
+        a {
+          padding: 20px;
+          flex-basis: calc(33% - 15px);
+        }
+      }
+    }
+  }
+  .faq-tabs {
+    padding: 0 0 40px;
+  }
+  /**
+  * 3. How we Do IT Pages
+  */
+  .proto-wrapper-knowledge {
+    h2 {
+      margin: 40px 15px 15px;
+    }
+    h3 {
+      margin-bottom: 40px;
+    }
+    .row {
+      & > p {
+        &:last-child {
+          margin: 0 15px 40px;
+        }
+      }
+    }
+    section {
+      width: 100%;
+      margin: 0 15px 40px !important;
+    }
+  }
+  .proto-wrapper-helps {
+    padding-bottom: 40px;
+    h2 {
+      margin: 40px 0 15px;
+    }
+    section {
+      &:nth-child(2) {
+        img {
+          margin-left: 35px;
+        }
+      }
+      &:nth-child(3) {
+        img {
+          margin-left: 10px;
+        }
+      }
+    }
+  }
+  .proto-wrapper-project {
+    padding: 0 15px 0;
+    h2 {
+      margin: 40px 0 15px;
+    }
+    .row {
+      & > p {
+        margin-bottom: 40px;
+      }
+    }
+    section {
+      flex-basis: 100%;
+      p {
+        line-height: 30px;
+        margin-bottom: 40px;
+      }
+    }
+  }
+  .dev-ing-text p {
+    padding: 40px 15px;
+  }
+  .ing-app-expertise {
+    padding: 40px 0;
+    .ing-app-item {
+      width: 100%;
+      padding: 0 15px;
+      &>img {
+        display: block;
+      }
+      img {
+        margin: 0 auto;
+      }
+      h3 {
+        margin: 35px 0 20px;
+      }
+      &:nth-child(2) {
+        margin-top: 30px;
+      }
+    }
+  }
+  .software-growth-wrapper {
+    padding: 40px 0;
+    p {
+      width: 100% !important;
+    }
+  }
+  .software-growth-wrapper {
+    div.text-center {
+      padding: 0 15px;
+      p {
+        text-align: justify;
+        margin-bottom: 40px;
+      }
+      h2 {
+        line-height: 36px;
+      }
+    }
+  }
+  .software-growth-item {
+    flex-basis: 100%;
+    padding: 0 15px;
+    h3 {
+      margin-left: 5px;
+    }
+    &:nth-child(-n + 3) {
+      margin-bottom: 0;
+    }
+  }
+  .grey-get-started {
+    h2 {
+      padding: 0 15px;
+    }
+  }
+  .blue-get-started-wrapper {
+    padding: 40px 15px;
+    a {
+      padding: 20px 75px;
+    }
+  }
+  .ing-tech-wrapper {
+    padding: 40px 15px;
+    h2 {
+      margin-bottom: 20px;
+    }
+  }
+  .ing-tech-item {
+    flex-basis: 100%;
+    &:not(:last-child) {
+      margin-bottom: 0;
+    }
+    &:nth-child(3) {
+      h3 {
+        top: 0;
+      }
+      p {
+        top: 0;
+      }
+    }
+    &:nth-child(5) {
+      h3 {
+        top: 0;
+      }
+      p {
+        top: 0;
+      }
+    }
+  }
+  .brand-design-ing-text {
+    padding: 40px 0;
+    p {
+      padding: 0 15px;
+    }
+  }
+  .brand-design-desc-wrapper {
+    padding: 40px 0;
+  }
+  .brand-design-item {
+    flex-basis: 100%;
+    margin-bottom: 20px;
+    padding: 0 15px;
+    div {
+      align-items: center;
+    }
+    img {
+      margin: 0 auto 25px;
+      max-width: 100%;
+      height: auto;
+    }
+    h3 {
+      margin-bottom: 10px;
+    }
+    p {
+      margin-bottom: 15px;
+    }
+  }
+  .brand-design-team-wrapper {
+    padding: 40px 0;
+    .row {
+      section {
+        &:nth-child(3) {
+          & > * {
+            margin-left: 0;
+          }
+        }
+      }
+    }
+  }
+  /**
+  * 4. Tech Force
+  */
+  .tech-force-desc-text-wrapper {
+    padding: 40px 0;
+  }
+  .tech-force-headline-wrapper,
+  .red-box-wrapper {
+    padding: 40px 0;
+  }
+  .blue-box-item {
+    flex-basis: 100%;
+    margin-bottom: 20px;
+    padding: 0 15px;
+    &:nth-child(-n + 3) {
+      p:last-child {
+        margin-bottom: 16px;
+      }
+    }
+  }
+  .blue-box-wrapper {
+    h2 {
+      margin-bottom: 30px;
+    }
+  }
+  .tech-force-optimization-wrapper {
+    padding: 40px 0;
+    h2 {
+      margin:0 15px 30px;
+    }
+  }
+  .tech-force-optimum-item {
+    padding: 0 15px;
+    flex-basis: 100%;
+    margin-bottom: 20px;
+  }
+  .tech-force-steps {
+    padding: 40px 0;
+    h2 {
+      margin: 0 0 20px;
+    }
+  }
+  /**
+  * 5. Careers
+  */
+  .blue-box-wrapper {
+    padding: 40px 0;
+  }
+  .jobs-tabs {
+    padding: 0 0 40px;
+    .row {
+      & > h2 {
+        margin-bottom: 25px;
+      }
+    }
+    .tab-pane {
+      padding: 0 15px;
+      h2 {
+        margin-top: 30px;
+      }
+      p {
+        margin-bottom: 25px;
+      }
+    }
+  }
+  .jobs-desc-item {
+    flex: 0 0 100%;
+  }
+  .jobs-tab-item {
+    flex-basis: 100%;
+    h3 {
+      margin-bottom: 15px;
+    }
+  }
+  .jobs-desc-wrapper {
+    padding: 40px 15px;
+    section {
+      h2 + p {
+        margin: 30px 0 25px;
+      }
+      &:last-child {
+        margin-top: 20px;
+      }
+    }
+    .fixed-model-blue-box {
+      margin: 30px 0 !important;
+      padding: 30px 30px 15px !important;
+    }
+    .bg-color {
+      padding: 30px 40px;
+      margin: 35px 0;
+    }
+  }
+  .jobs-contact-wrapper {
+    padding: 40px 0;
+    p {
+      &:last-child {
+        margin: 15px 0 0;
+      }
+    }
+    h2 + p {
+      font-weight: bold;
+      margin: 15px 0 0;
+    }
+  }
+  .internship-box {
+    padding: 40px 15px;
+  }
+  /**
+    * 6. Case Studies
+  */
+  .clients-image-box p {
+    width: 80%;
+  }
+  .case-studies-carousel-item {
+    padding: 25px;
+  }
+  .more-content-wrapper {
+    padding: 40px 0;
+  }
+  .clients-navigation-wrapper {
+    .clients-tech-used-box {
+      padding: 30px 15px;
+      p {
+        width: 100%;
+      }
+    }
+    .clients-item {
+      & > img {
+        margin: 30px auto;
+      }
+      & > p {
+        margin-bottom: 25px;
+        padding: 0 15px;
+      }
+      & > h2 {
+        padding-top: 40px;
+      }
+    }
+    .clients-info-box {
+      padding: 30px 0;
+      section {
+        &:first-child {
+          padding: 0 15px !important;
+        }
+      }
+    }
+    .case-studies-more-content {
+      padding: 20px 0;
+      & > section {
+        flex-basis: 100%;
+      }
+    }
+  }
+  .team-used-box,
+  .client-testimonial {
+    padding: 30px 0;
+  }
+  .client-testimonial {
+    blockquote {
+      padding: 0 15px;
+    }
+  }
+  /**
+  * 7. Contact Us
+  */
+  .contact-us-form {
+    .form-group {
+      .dropdown {
+        .dropdown-menu {
+          padding-top: 15px;
+          padding-bottom: 15px;
+        }
+      }
+    }
+  }
+  .contact-us-wrapper,
+  .call-us-wrapper {
+    padding: 40px 15px;
+  }
+  .contact-us-item {
+    flex-basis: calc(50% - 10px);
+  }
+  /**
+    * 8. Privacy, Cookies Policy
+  */
+  .policy-wrapper {
+    padding: 40px 0;
+    .policy-items {
+      padding: 7.5px 15px;
+    }
+  }
+  /**
+    * 9. Blog
+  */
+  .blog-headline {
+    padding: 40px 0;
+  }
+  .blog-feed-wrapper {
+    padding: 40px 15px;
+  }
+  .single-article,
+  .blog-sidebar {
+    padding: 0 15px;
+  }
+  .blog-sidebar {
+    flex-basis: 100%;
+    form {
+      width: 75%;
+    }
+  }
+  /**
+    * 10. FAQ
+  */
+  #pills-tab-content {
+    padding-top: 40px;
+  }
+  /**
+    * 11. GDPR
+  */
+  .gdpr-wrapper p {
+    line-height: 22px;
+  }
+}
+
+@media all and (max-width: 767px) and (orientation: landscape) {
+  // Swiper menu on faq.html, jobs.html
+  #faq-pills-tab, #jobs-pills-tab{
+    justify-content: center;
+    a {
+      padding: 10px 30px !important;
+    }
+  }
+  // Swiper menu on case-studies.html
+  .clients-navigation-wrapper .full-width.sub-menu-wrapper .init-swiper {
+    a {
+      padding: 10px 30px !important;
+    }
+  }
+}
+
+@media all and (min-width: 320px) and (max-width: 576px) {
+  // Swiper menu on faq.html, jobs.html & case-studies.html
+  .sub-menu {
+    li.nav-item {
+      a.nav-link.active {
+        &:after {
+          content: '';
+          width: 50%;
+          left: 50%;
+          top: 50px !important;
+          transform: translateX(-50%);
+        }
+      }
+    }
+  }
+  .sub-menu-wrapper {
+    .container.swiper-container {
+      padding: 0;
+    }
+  }
+  /**
+  * 1. Index Page
+  */
+  ul.navbar-nav {
+    li {
+      &:last-child {
+        a {
+          width: 100%;
+          padding: 12px;
+        }
+      }
+    }
+  }
+  #citations-section .card-box {
+    .persons-wrapper-quote {
+      blockquote,
+      h5 {
+        flex-basis: 0;
+      }
+      img {
+        margin-right: 0;
+      }
+    }
+  }
+  .steps-desc-box {
+    .pulsate-circle {
+      left: 19px;
+    }
+  }
+  .timeline-item {
+    .timeline-content,
+    h3 {
+      text-align: center !important;
+    }
+    .timeline-icon {
+      left: 50%;
+      top: -15px;
+    }
+  }
+  .client-info {
+    flex-flow: column wrap;
+    .client-name {
+      margin: 8px 0 15px 0;
+    }
+    .client-firm {
+      margin: 0;
+    }
+  }
+  footer {
+    h4 {
+      padding-top: 13px;
+    }
+    p {
+      margin-bottom: 13px;
+    }
+    hr {
+      margin-bottom: 15px;
+    }
+  }
+  #office-locations {
+    padding: 25px 35px 0;
+  }
+  .footer-aside-menu {
+    &:nth-child(n + 1) {
+      &:before,
+      &:after {
+        display: none;
+      }
+    }
+  }
+  /**
+  * 2. Company Pages
+  */
+  .headline-wrapper {
+    padding: 0 15px;
+  }
+  .about-ing-wrapper {
+    padding: 40px 15px;
+  }
+  .we-chose-boxes {
+    section {
+      flex: 0 0 100%;
+      &:nth-child(2) {
+        margin-top: 60px;
+      }
+    }
+  }
+  .eng-models-get-started-wrapper {
+    .blue-bg-gradient {
+      padding: 40px 15px;
+      & > p {
+        padding-bottom: 0;
+      }
+    }
+  }
+  .ing-team-wrapper {
+    .row {
+      padding: 0 15px;
+    }
+    section {
+      flex: 0 0 100%;
+    }
+  }
+  .faq-tabs-item {
+    margin: 0 15px 20px;
+    padding: 15px 20px 10px;
+  }
+  /**
+  * 3. How we Do IT Pages
+  */
+  .proto-wrapper-helps {
+    section {
+      width: 100%;
+      margin: 10px 15px;
+      &:nth-child(2) {
+        img {
+          margin-left: 0;
+        }
+      }
+      &:nth-child(3) {
+        img {
+          margin-left: 0;
+        }
+      }
+    }
+  }
+  .grey-get-started {
+    padding: 40px 0;
+    div {
+      a {
+        padding: 20px 80px;
+      }
+    }
+  }
+  .software-growth-item h3 {
+    margin-left: 0;
+  }
+  /**
+  * 4. Tech Force
+  */
+  .tech-force-desc-text-item {
+    flex-basis: 100%;
+    padding: 0 15px;
+  }
+  /**
+  * 5. Careers
+  */
+  .nav-pills {
+    & > .nav-item {
+      flex: 1 1 calc(50% - 50px);
+    }
+  }
+  /**
+    * 6. Case Studies
+  */
+  .team-used-box {
+    section {
+      div {
+        &:first-child {
+          margin-right: 0;
+        }
+      }
+    }
+  }
+  .team-roster-wrapper img {
+    margin-bottom: 15px;
+  }
+  /**
+    * 7. Contact Us
+  */
+  .contact-us-item {
+    flex-basis: 100%;
+    text-align: center;
+  }
+  /**
+    * 9. Blog
+  */
+  .blog-posts {
+    flex-basis: 100%;
+  }
+}
+
+@media all and (min-width: 320px) and (max-width: 481px) {
+  .full-width.sub-menu-wrapper {
+    .container {
+      .init-swiper {
+        a {
+          padding: 10px 30px !important;
+        }
+      }
+    }
+  }
+  .accordion .card:not(:first-of-type) .card-header:first-child > p {
+    flex-basis: 60%;
+  }
+  .carousel-dots li {
+    margin: 0 15px;
+  }
+  nav.navbar {
+    padding-bottom: 15px;
+  }
+  .nav-pills .nav-link {
+    font-size: 13px;
+  }
+  nav.navbar .dropdown:hover > .dropdown-menu .dropdown-item {
+    padding: 5px;
+  }
+  nav.navbar.full-scale {
+    height: auto;
+    .navbar-brand {
+      position: relative;
+      top: 11px;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+    }
+    .navbar-collapse {
+      margin-top: 0;
+    }
+  }
+  /**
+  * 1. Index Page
+  */
+  .main-desc-text-wrapper {
+    text-align: center;
+  }
+  #concept-section {
+    padding: 40px 15px;
+    h2 {
+      font-size: 24px;
+      margin-bottom: 45px;
+    }
+    h3 {
+      font-size: 18px;
+    }
+    p {
+      text-align: center !important;
+    }
+  }
+  #client-citations {
+    padding: 50px 0;
+    h2 {
+      font-size: 24px;
+      margin-bottom: 20px;
+      padding: 0 15px;
+    }
+  }
+  .testimonial-item {
+    margin: 30px;
+    padding: 30px 15px;
+  }
+  .steps-desc-box {
+    padding-bottom: 25px;
+  }
+  #partnerships {
+    padding: 60px 0 50px;
+    & > section {
+      margin-top: 10px;
+    }
+    h2 {
+      font-size: 24px;
+    }
+  }
+  #footer-links {
+    & > span {
+      span {
+        &:nth-child(3) {
+          display: block;
+          margin: 10px 0 0;
+          line-height: normal;
+        }
+      }
+    }
+    section {
+      a {
+        margin: 12px;
+      }
+    }
+  }
+  /**
+  * 2. Company Pages
+  */
+  .ing-mission-wrapper {
+    section {
+      &:nth-child(3) {
+        margin-top: 0;
+      }
+    }
+  }
+  .page-navigation-wrapper {
+    .row {
+      & > div {
+        a {
+          padding: 22px;
+          flex-basis: calc(50% - 15px);
+        }
+      }
+    }
+  }
+}

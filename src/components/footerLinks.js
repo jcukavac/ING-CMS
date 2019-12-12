@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react"
-// import { useState } from "react"
 import { injectIntl, Link } from "gatsby-plugin-intl"
 
 import Modal from 'react-bootstrap/Modal'

@@ -64,7 +64,6 @@ const navbar = ({ intl }) => {
         <li className={`nav-item dropdown`}>
           {/* className={`${style.navItem} ${style.dropdown}`}> */}
           <Link
-            // className={`${style.navLink} ${style.dropdownToggle}`}
             className={`nav-link dropdown-toggle`}
             to="/"
             id="navbar-dropdown-company"

@@ -1,0 +1,54 @@
+@import '~_variables.scss';
+@import '~_mixins.scss';
+
+.gdpr-wrapper {
+  line-height: 30px;
+  background-color: rgba($main-text, 0.95);
+  bottom: 0;
+  padding: 20px 40px;
+  z-index: 15;
+  a {
+    text-decoration: underline;
+    transition: all 0.3s ease-in-out;
+    &:hover {
+      color: rgba($white, 0.8);
+    }
+  }
+  p {
+    @include font(null, null, normal, 13px, 24px, null);
+    flex-basis: 65%;
+    margin: 0;
+  }
+  div {
+    flex-basis: 35%;
+    & > a,
+    button {
+      @include font($ff-os-bold, bold, normal, null, 22px, null);
+      color: $white;
+      cursor: pointer;
+      padding: 15px 25px;
+    }
+    & > a {
+      transition: all .3s ease-in-out;
+      text-decoration: none;
+      border: 2px solid $white;
+      border-radius: 5px;
+      margin-right: 20px;
+      &:hover {
+        color: $main-text;
+        background-color: $white;
+      }
+    }
+    & > button {
+      border-radius: 5px;
+      transition: all .3s ease-in-out;
+      border: 2px solid $white;
+      color: $main-text;
+      background-color: $white;
+      &:hover {
+        color: $white;
+        background-color: transparent;
+      }
+    }
+  }
+}

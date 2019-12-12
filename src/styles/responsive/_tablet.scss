@@ -1,0 +1,327 @@
+/**
+ * LEGEND:
+ *
+ * 1. Index Page
+ * 2. Company Pages
+ * 3. How we Do IT Pages
+ * 4. Careers
+ * 5. Case Studies
+ * 6. Contact Us
+ * 7. Blog
+ *
+*/
+
+@import '../base/_variables';
+@import '../helpers/_mixins';
+
+@media all and (min-width: 991px) {
+  .sub-menu-sticky {
+    position: sticky;
+    top: 0;
+    z-index: 15 !important;
+    transition: all .3s ease-in-out;
+    background-color: $card-box;
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
+  }
+}
+
+// iOS fix overflow issue with navigation and <body>
+@media all and (max-width: 991px) and (orientation: landscape) {
+  .ios-header-fix {
+    position: fixed;
+    width: 100%;
+  }
+}
+
+@media all and (max-width: 991px) {
+  .header-bg-color.full-width, .navbar, .navbar > .navbar-collapse{
+    // Fix for iOS Safari and Collapsable.js
+    cursor: pointer;
+  }
+  // Dropdown
+  .dropdown-menu {
+    background-color: transparent;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0;
+  }
+  // Swiper menu on faq.html, careers.html & case-studies.html
+  .full-width.sub-menu-wrapper {
+    .container {
+      max-width: 100% !important;
+      .init-swiper {
+        display: flex;
+        overflow-x: auto;
+        scrollbar-width: thin;
+        -webkit-overflow-scrolling: touch;
+        overflow: -moz-scrollbars-none;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        &::-webkit-scrollbar {
+          display: none;
+          width: 0 !important;
+        }
+        a {
+          padding: 10px 40px !important;
+          flex: 0 0 auto;
+        }
+      }
+    }
+  }
+  .left-carousel-overlay,
+  .right-carousel-overlay {
+    width: 50px;
+    height: 44px;
+    z-index: 10;
+  }
+  .left-carousel-overlay {
+    background: url(../../images/pocket-left.png) no-repeat;
+    left: 0;
+  }
+  .right-carousel-overlay {
+    background: url(../../images/pocket-right.png) no-repeat;
+    right: -5px;
+  }
+  .nav-pills .nav-link {
+    text-align: center;
+    margin: 0;
+    &.active {
+      &:after {
+        content: '';
+        top: 90%;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 50%;
+      }
+    }
+  }
+  .page-navigation-wrapper {
+    .nav-tabs-scroll {
+      a {
+        white-space: nowrap;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    }
+  }
+  .sub-menu-wrapper {
+    .container.swiper-container {
+      padding: 0 30px;
+      max-width: 100%;
+    }
+  }
+  .navbar-nav {
+    width: 50%;
+    margin: 0 auto;
+    li.nav-item {
+      a.nav-link {
+        padding: 12px 0;
+        &:focus, &:hover, &:active {
+          color: $main-text;
+          &:after {
+            border-color: $main-text transparent transparent transparent;
+          }
+        }
+      }
+    }
+    .navbar-collapse {
+      padding: 30px 0;
+    }
+    .dropdown {
+      &>.dropdown-menu {
+        text-align: center;
+        .dropdown-item {
+          padding: 12px 5px;
+        }
+      }
+    }
+  }
+  /**
+    * 1. Index Page
+    *
+  */
+  .gdpr-wrapper {
+    p {
+      flex-basis: 100%;
+    }
+    div {
+      flex-basis: 100%;
+      margin: 10px auto 0;
+    }
+  }
+  .ordering-tablet {
+    order: -1;
+    -webkit-order: -1;
+  }
+  nav.navbar {
+    margin: 0;
+    &>a.d-sm-block {
+      position: absolute;
+      top: 8px;
+      right: 0;
+    }
+    .navbar-toggler {
+      position: relative;
+      left: -9px;
+      margin-left: 0;
+    }
+  }
+  #intro {
+    margin: 75px 0 60px 0;
+  }
+  .main-desc-text-wrapper {
+    aside {
+      margin-top: 30px;
+    }
+  }
+  #citations-section {
+    .card-box {
+      width: 45%;
+      &:nth-child(3) {
+        margin: 65px auto 0;
+      }
+    }
+  }
+  #concept-section {
+    &>section {
+      margin-bottom: 100px;
+    }
+  }
+  .concept-item-wrapper {
+    width: 100%;
+  }
+  #partnerships {
+    h2 {
+      line-height: 44px;
+    }
+  }
+  /**
+    * 2. Company Pages
+  */
+  .ing-mission-wrapper {
+    h2 {
+      margin-top: 30px;
+    }
+  }
+  .fixed-model-usage-item {
+    flex-basis: calc(33% - 44px);
+  }
+  .page-navigation-wrapper {
+    .row {
+      &>div {
+        height: auto;
+        a {
+          padding: 15px 25px;
+        }
+      }
+      .sub-menu {
+        a {
+          &.active {
+            &:after {
+              content: '';
+              top: 50px;
+              width: 50%;
+              left: 50%;
+              transform: translateX(-50%);
+            }
+          }
+        }
+      }
+    }
+  }
+  /**
+    * 3. How we Do IT Pages
+  */
+  .proto-wrapper-helps {
+    section {
+      width: calc(50% - 30px);
+      margin-bottom: 40px;
+    }
+  }
+  .proto-wrapper-helps {
+    section:last-child {
+      img {
+        position: static;
+        left: 0;
+      }
+    }
+  }
+  .ing-app-expertise {
+    .ing-app-item {
+      width: calc(50% - 30px);
+      &:last-child {
+        margin-top: 30px;
+      }
+    }
+  }
+  .brand-design-desc-wrapper {
+    .row {
+      div:nth-child(4) {
+        margin: 0 auto;
+      }
+    }
+  }
+  .dev-ing-text p {
+    padding: 60px 0;
+  }
+  /**
+    * 4. Careers Pages
+    *
+  */
+  .jobs-desc-item {
+    flex: 0 0 650px;
+  }
+  /**
+    * 5. Case Studies Pages
+    *
+  */
+  .scroll-top-wrapper {
+    bottom: 50%;
+    box-shadow: 0 0 10px 2px rgba($black, 0.1);
+    cursor: pointer;
+    height: 50px;
+    opacity: 0;
+    right: 2%;
+    transition: opacity 0.4s linear;
+    width: 50px;
+    z-index: 1200 !important;
+    .arrow-up {
+      border-bottom: 10px solid $main-text;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      height: 0;
+      width: 0;
+    }
+  }
+  .clients-navigation-wrapper {
+    .nav-tabs-scroll {
+      a {
+        padding: 10px 40px;
+      }
+    }
+  }
+  .case-studies-more-content {
+    & > section {
+      flex-basis: calc(50% - 30px);
+    }
+  }
+  /**
+    * 6. Contact Us
+    *
+  */
+  .contact-us-item {
+    flex-basis: calc(33.33% - 20px);
+    &:nth-child(-n + 3) {
+      padding-bottom: 20px;
+    }
+  }
+  /**
+    * 7. Blog
+    *
+  */
+  .blog-posts {
+    flex-basis: calc(50% - 15px);
+  }
+}

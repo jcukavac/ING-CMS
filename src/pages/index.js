@@ -102,9 +102,8 @@ const IndexPage = ({ intl }) => {
                 })}
               </h4>
               <Link
-                to="/"
-                // to="contact.html"
-                className="text-uppercase buttons btn-red"
+                  to="/contact"
+                  className="text-uppercase buttons btn-red"
               >
                 {intl.formatMessage({ id: "button.connect" })}
               </Link>
@@ -359,7 +358,7 @@ const IndexPage = ({ intl }) => {
                   id: "index.concept.item1.text",
                 })}
                 conceptBoxDescriptionLink=" "
-                conceptBoxLink="/"
+                conceptBoxLink="/software-prototyping"
                 conceptBoxBtnText={intl.formatMessage({
                   id: "button.find-more",
                 })}
@@ -380,7 +379,7 @@ const IndexPage = ({ intl }) => {
                   id: "index.concept.item2.text",
                 })}
                 conceptBoxDescriptionLink=" "
-                conceptBoxLink="/"
+                conceptBoxLink="/custom-software-development"
                 conceptBoxBtnText={intl.formatMessage({
                   id: "button.find-more",
                 })}
@@ -401,7 +400,7 @@ const IndexPage = ({ intl }) => {
                   id: "index.concept.item3.text",
                 })}
                 conceptBoxDescriptionLink=" "
-                conceptBoxLink="/"
+                conceptBoxLink="/branding-and-design"
                 conceptBoxBtnText={intl.formatMessage({
                   id: "button.find-more",
                 })}
@@ -422,7 +421,7 @@ const IndexPage = ({ intl }) => {
                   id: "index.concept.item4.text",
                 })}
                 conceptBoxDescriptionLink=" "
-                conceptBoxLink="/"
+                conceptBoxLink="/tech-force-for-startups"
                 conceptBoxBtnText={intl.formatMessage({
                   id: "button.find-more",
                 })}

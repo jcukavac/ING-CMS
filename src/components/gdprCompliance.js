@@ -5,7 +5,7 @@ import Modal from 'react-bootstrap/Modal'
 
 import GdprModal from "../components/gdprModal"
 
-import "../styles/components/_gdpr-box.scss"
+import "../styles/components/gdpr-box.scss"
 
 const GdprCompliance = ({ intl }) => {
   const [show, setShow] = useState(false);
