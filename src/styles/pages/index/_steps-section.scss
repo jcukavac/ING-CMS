@@ -1,0 +1,48 @@
+#get-started {
+  padding-bottom: 100px;
+}
+
+.steps-desc-box {
+  h3 {
+    margin: 20px 0 30px;
+  }
+  p {
+    line-height: 30px;
+  }
+  .pulsate-circle {
+    height: 35px;
+    left: 19px;
+    top: 4px;
+    width: 35px;
+  }
+  &:nth-child(1) {
+    .pulsate-circle {
+      animation: pulse 2s 0.5s infinite;
+    }
+  }
+  &:nth-child(3) {
+    .pulsate-circle {
+      animation: pulse 3s 1.5s infinite;
+    }
+  }
+  &:nth-child(5) {
+    .pulsate-circle {
+      animation: pulse 4s 2.5s infinite;
+    }
+  }
+  &:nth-child(7) {
+    .pulsate-circle {
+      animation: pulse 5s 3s infinite;
+    }
+  }
+  &:nth-child(9) {
+    .pulsate-circle {
+      animation: pulse 5.5s 3.5s infinite;
+    }
+  }
+  &:nth-child(11) {
+    .pulsate-circle {
+      animation: pulse 6s 4s infinite;
+    }
+  }
+}

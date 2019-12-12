@@ -1,0 +1,90 @@
+@import '~_variables.scss';
+@import '~_mixins.scss';
+
+.eng-models-get-started-wrapper {
+  z-index: 1;
+  .blue-bg-gradient {
+    padding-top: 100px;
+  }
+  p {
+    font-size: 18px;
+    line-height: 30px;
+    padding-bottom: 100px;
+    margin-bottom: 0;
+  }
+}
+
+.fixed-price-model-wrapper {
+  padding: 100px 0;
+  p {
+    line-height: 30px;
+  }
+}
+
+.fixed-model-bracket-img-box {
+  margin-bottom: 30px;
+  img {
+    height: 53px;
+  }
+}
+
+.fixed-model-benefits-wrapper {
+  margin-top: 60px;
+}
+
+.benefits-desc-box {
+  div {
+    margin-bottom: 20px;
+    img {
+      height: 25px;
+    }
+  }
+  span,
+  p {
+    @include font($ff-os-bold, bold, normal, 18px, 30px, null);
+    color: $main-text;
+  }
+  span {
+    margin-left: 15px;
+    width: calc(100% - 40px);
+  }
+  p {
+    margin: 40px 0 30px;
+  }
+}
+
+.work-model-desc-box {
+  p {
+    &:first-of-type {
+      font-weight: bold;
+    }
+  }
+}
+
+.fixed-model-usage-wrapper {
+  h2 {
+    padding: 100px 0 40px;
+  }
+}
+
+.fixed-model-usage-item {
+  margin-top: 40px;
+  flex-basis: calc(22% - 44px);
+  p {
+    &:nth-of-type(1) {
+      @include font($ff-os-extraBold, 800, normal, 30px, inherit, null);
+      color: $main-text;
+    }
+    &:nth-of-type(2) {
+      @include font($ff-os-extraBold, 800, normal, 18px, 30px, null);
+      color: $btn-headline;
+    }
+  }
+}
+
+.bg-color-fixed-model {
+  background-color: $bg-section-top;
+  .fixed-model-usage-item {
+    align-self: baseline;
+  }
+}

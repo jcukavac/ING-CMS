@@ -1,0 +1,39 @@
+@import '../base/_variables';
+@import '../helpers/_mixins';
+
+#delete-cookies {
+    text-decoration: underline;
+    cursor: pointer;
+    color: $main-text;
+    font-weight: bold;
+}
+
+.modal-header {
+    .modal-title {
+    @include font($ff-os-bold, bold, normal, 18px, 24px, null);
+    color: $text-opacity;
+    }
+}
+
+.modal-body {
+    p {
+    font-size: 14px;
+    line-height: 19px;
+    }
+}
+
+.card-header {
+    p {
+        @include font($ff-os-bold, bold, normal, 14px, 19px, null);
+        color: $main-text;
+    }
+    button {
+        color: $main-text;
+        text-decoration: none;
+        &:hover,
+        &:focus {
+            text-decoration: none;
+            color: $main-text;
+        }
+    }
+}

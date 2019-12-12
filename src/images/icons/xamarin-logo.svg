@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1"
+	 id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 70.615387 63"
+	 enable-background="new 0 0 70.615387 63" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="63" width="70.615387" x="230.0736237" y="70"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<title>xamarin-logo</title>
+<desc>Created with Sketch.</desc>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#3498DB" d="M20.3753872,0
+	c-1.9071751,0.0040565-3.7740784,1.089548-4.7341576,2.7455046L0.7088479,28.7544842
+	c-0.9451306,1.6603889-0.9451306,3.8306446,0,5.4910297l14.9323816,26.0089798
+	C16.601408,61.9104614,18.4682121,62.9962502,20.3753872,63h29.8646526c1.9071693-0.004055,3.7739716-1.0895386,4.7341576-2.7455063
+	l14.9323807-26.0089798c0.9451294-1.6603851,0.9450226-3.8306408,0-5.4910297L54.9741974,2.7455046
+	C54.0140114,1.089548,52.1472092,0.0037501,50.2400398,0H20.3753872z M20.6464119,15.2155676
+	c0.0410233-0.004056,0.0840492-0.004056,0.125206,0h5.1512051c0.2280178,0.0047331,0.4491978,0.1368647,0.5630703,0.3353262
+	l8.7383995,15.613781c0.0439796,0.0771942,0.0723228,0.1632042,0.0830765,0.2514858
+	c0.0107613-0.0883026,0.0390778-0.1743183,0.0830803-0.2514858l8.7174835-15.613781
+	c0.1174774-0.2044773,0.3490219-0.3373384,0.583889-0.3353262h5.1512032
+	c0.4561462,0.0040569,0.7977409,0.5801315,0.5839882,0.9850359l-8.5297318,15.2994022L50.4270134,46.77845
+	c0.2339897,0.4072266-0.1160164,1.0100136-0.5839882,1.0059814h-5.1512032
+	c-0.2389717-0.0020294-0.4718819-0.1440773-0.583889-0.3562851l-8.7174835-15.6137791
+	c-0.0439873-0.0771942-0.0723267-0.1632156-0.0830803-0.2514858c-0.0107651,0.0882912-0.0390739,0.1743221-0.0830765,0.2514858
+	l-8.7383995,15.6137791c-0.1086864,0.2061996-0.3310432,0.3469009-0.5630703,0.3562851h-5.1512051
+	c-0.4679756,0.0040588-0.8178787-0.5987549-0.5838909-1.0059814l8.5297222-15.2784443L20.187727,16.2006035
+	C19.9832535,15.831172,20.2327175,15.2944212,20.6464119,15.2155676L20.6464119,15.2155676z"/>
+</svg>

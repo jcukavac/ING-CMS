@@ -1,0 +1,78 @@
+@import '~_variables.scss';
+@import '~_mixins.scss';
+
+#intro {
+  margin: 150px 0 75px 0;
+  div {
+    &:nth-child(2) {
+      img {
+        position: relative;
+        left: -35px;
+      }
+    }
+  }
+}
+
+.main-heading {
+  margin-top: 40px;
+  line-height: 50px;
+}
+
+.main-desc-text-wrapper {
+  h4 {
+    @include font($ff-os-bold, bold, normal, 18px, 24px, null);
+    margin: 20px 0 30px;
+  }
+}
+
+.awards-intro-wrapper {
+  margin-top: 20px;
+  figure {
+    &:first-child {
+      margin-right: 30px;
+    }
+  }
+}
+
+#short > section {
+  width: calc(50% - 30px);
+  transition: all 0.3s ease-in-out;
+  h2 {
+    font-size: 24px;
+  }
+  p {
+    line-height: 30px;
+    margin: 13px 0 0;
+  }
+}
+
+
+
+.sub-menu {
+  a {
+    @include font($ff-os-bold, bold, normal, 14px, 24px, null);
+    color: $nav-pills;
+    position: relative;
+    transition: color 0.3s ease-in-out;
+    margin: 0 25px;
+    padding: 15px 0;
+    &:hover {
+      color: $main-text;
+    }
+    &.active {
+      background-color: transparent !important;
+      color: $main-text !important;
+      border-radius: 0;
+      transition: all 0.3s ease-in-out;
+      &:after {
+        content: '';
+        position: absolute;
+        height: 4px;
+        width: 100%;
+        background-color: $btn-headline;
+        top: 93%;
+        left: 0;
+      }
+    }
+  }
+}

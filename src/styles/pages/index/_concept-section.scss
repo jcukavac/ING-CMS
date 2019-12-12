@@ -1,0 +1,30 @@
+@import '~_variables.scss';
+
+#concept-section {
+  padding: 100px 0;
+  background-color: $bg-section;
+  h2 {
+    margin-bottom: 30px;
+  }
+  p {
+    font-size: 18px;
+    line-height: 36px;
+  }
+  & > section {
+    margin-bottom: 100px;
+  }
+  h3 {
+    margin: 10px 0;
+  }
+}
+
+.concept-item-wrapper {
+  margin-top: 63px;
+  width: 47%;
+  & > p {
+    margin-bottom: 35px;
+  }
+  img {
+    height: 48px;
+  }
+}

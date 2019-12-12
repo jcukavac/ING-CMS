@@ -1,0 +1,26 @@
+@import '_variables';
+
+// Reset button outline
+button {
+  outline: none;
+  &:focus,
+  &:hover {
+    outline: none;
+  }
+}
+
+// Reset BS figure margin
+figure {
+  margin-bottom: 0;
+}
+
+// Reset BS <hr/> tag
+hr {
+  margin: 0;
+  border-top-color: $border-separator;
+}
+
+// Remove BS label margin
+label {
+  margin-bottom: 0;
+}

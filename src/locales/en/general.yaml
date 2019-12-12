@@ -1,0 +1,102 @@
+---
+meta:
+  title: Ingsoftware - Full Cycle Software Development Company
+  description: Ingsoftware is a software development company focused on development of turnkey, bespoke software solutions across different industry verticals.
+  link: https://www.ingsoftware.com/
+  site-name: Ingsoftware - Software Development Company
+
+header:
+  company:
+    name: Company
+    about: About Us
+    faq: FAQ
+    expertise: Our Expertise
+    engagement-models: Engagement Models
+  how-we-do-it:
+    name: How We Do It
+    software-prototyping: Software Prototyping
+    custom-software-development: Custom Software Development
+    branding-and-design: branding and design
+  case-studies: Case Studies
+  careers:
+    name: Careers
+    jobs: Jobs
+    internships: Internships
+  blog: Blog
+  contact: Contact
+  startups: For Startups
+
+button:
+  connect: Let's connect
+  find-more: Find out more
+  get-started: Get started now
+  change-preferences: Change preferences
+  save-preferences: Save preferences
+  agree: I agree
+  send: Send
+
+footer:
+  continent-eu:
+    title: Europe
+    serbia:
+      office: Serbia Office
+      country: Serbia
+      mailLink: mailto:contact@ingsoftware.com
+      mail: contact@ingsoftware.com
+    austria:
+      office: Austria Office
+      country: Österreich
+      mailLink: mailto:contact@ingsoftware.com
+      mail: contact@ingsoftware.com
+    switzerland:
+      office: Switzerland Office
+      country: Switzerland
+      mailLink: mailto:contact@ingsoftware.ch
+      mail: contact@ingsoftware.ch
+  continent-ua:
+    title: United States
+    office: New Jersey Office
+    state: New Jersey
+    country: USA
+    mailLink: mailto:contact@ingsoftware.com
+    mail: contact@ingsoftware.com
+  continent-af:
+    title: Africa
+    office: Zimbabwe Office
+    country: Zimbabwe
+    mailLink: mailto:contact@ingsoftware.com
+    mail: contact@ingsoftware.com
+  links:
+    privacy: Privacy
+    cookies: Cookies
+    gdpr: Cookies consent and preferences
+
+gdpr-compliance:
+  text-part1: This web site of Ingsoftware DOO Niš uses cookies to improve your browsing experience and help build personalized content for you. More detailed info about cookies -
+  cookies: Cookies Policy
+  text-part2: By clicking
+  agree: “I agree”
+  text-part3: button, you CONSENT to our use of cookies. By clicking
+  preferences: “Change my preferences”
+  text-part4: button, you could give your consent just to some sort of cookies.
+
+img-alt:
+  check: Checkmark
+  circle-check: Circle Checkmark Icon
+  star: Red star icon
+
+cookie-preferences:
+  title: Cookie Preferences
+  text-1: Cookies are very small text files that are stored on your computer when you visit a website. We use cookies to improve your browsing experience on our website, to analyze website traffic, to understand where our visitors are coming from, and to show you personalized content and targeted ads. You can change your preferences and decline certain types of cookies to be stored on your computer while browsing our website.
+  text-2: "You can also remove any cookies already stored on your computer, but keep in mind that deleting cookies may prevent you from using parts of our website – "
+  text-2-bold: “Delete Cookies”.
+  section-1-title: Strictly necessary cookies
+  section-1-text: These cookies are essential to provide you with services available through our website and to enable you to use certain features of our website. Without these cookies, we cannot provide you certain services on our website.
+  section-1-text-bold: Always active
+  section-2-title: Functionality cookies
+  section-2-text: These cookies are used to provide you with a more personalized experience on our website and to remember choices you make when you use our website. For example, we may use functionality cookies to remember your language preferences or remember your login details.
+  section-3-title: Tracking and performance cookies
+  section-3-text: These cookies are used to collect information to analyze the traffic to our website and how visitors are using our website. For example, these cookies may track things such as how long you spend on the website or the pages you visit which helps us to understand how we can improve our website site for you. The information collected through these tracking and performance cookies do not identify any individual visitor.
+  section-4-title: Targeting and advertising cookies
+  section-4-text: These cookies are used to show advertising that is likely to be of interest to you based on your browsing habits. These cookies, as served by our content and/or advertising providers, may combine information they collected from our website with other information they have independently collected relating to your web browser's activities across their network of websites. If you choose to remove or disable these targeting or advertising cookies, you will still see adverts but they may not be relevant to you.
+

@@ -1,0 +1,58 @@
+@import '~_variables.scss';
+@import '~_mixins.scss';
+
+.page-navigation-wrapper {
+  background-color: $card-box;
+  .nav-tabs-scroll {
+    height: 50px;
+  }
+  .row {
+    &>div {
+      height: 50px;
+      a {
+        padding: 0 25px;
+      }
+    }
+  }
+  p {
+    line-height: 30px;
+  }
+}
+
+.expertise-item {
+  padding: 100px 0;
+  &>* {
+    position: relative;
+    z-index: 1;
+  }
+  h2 {
+    margin-bottom: 25px;
+  }
+  p {
+    &:nth-of-type(1) {
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    &:nth-of-type(2) {
+      margin-bottom: 50px;
+    }
+  }
+  figure {
+    figcaption {
+      @include font($ff-os-semiBold, 600, normal, 16px, normal, null);
+      margin: 25px 0;
+      color: $blog-text;
+    }
+    img {
+      height: 60px;
+      width: 110px;
+    }
+  }
+  .expertise-separator {
+    border-top: 1px dashed $text-form-footer;
+  }
+  h4 {
+    @include font($ff-os-bold, bold, normal, 18px, 36px, null);
+    margin: 25px 0;
+  }
+}

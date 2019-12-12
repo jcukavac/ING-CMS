@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 70 70"
+	 enable-background="new 0 0 70 70" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="70" width="70" x="2.4040813" y="1.5363512"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="Inspo">
+</g>
+<g>
+	<circle fill="#F6F2ED" cx="35" cy="35" r="35"/>
+	<path fill="#C6213B" d="M34.9999657,17.5L19.272438,26.25v17.5l15.7275276,8.75l15.7275963-8.75v-17.5L34.9999657,17.5z
+		 M42.3475647,29.7105942l-5.5236244-3.0730343l5.1403732-2.8598461l5.5235901,3.0730343L42.3475647,29.7105942z
+		 M21.3724518,28.6198807l4.90098,2.7266312l0.0182247,5.5260963l-4.9192047-2.7367477V28.6198807z M22.512064,26.8507824
+		l5.1878033-2.8862476l4.804615,2.6730251l-5.1878357,2.8862133L22.512064,26.8507824z M28.3773193,32.5170326l5.5727234,3.1003723
+		v5.5159111l-5.5544987-3.0901871L28.3773193,32.5170326z M33.9500427,43.5365105v5.9762383l-5.5267944-3.0748711
+		l-0.0197601-5.9871864L33.9500427,43.5365105z M36.0500259,43.5365105l4.8735733-2.7114105l-0.019825,5.9871864
+		l-4.8537483,2.7003937V43.5365105z M36.0500259,41.133316v-5.5159111l4.8998108-2.7260628l-0.0182915,5.5261612
+		L36.0500259,41.133316z M35.0000343,33.7984047l-5.5236244-3.0730343l5.1878014-2.8862476l5.5235901,3.0730667
+		L35.0000343,33.7984047z M39.8046494,22.5761852l-5.1404381,2.8598442l-4.8046494-2.6730576l5.1404037-2.8598785
+		L39.8046494,22.5761852z M21.3724518,36.5389862l4.9271488,2.7412186l0.0197277,5.9871521l-4.9468765-2.7521973V36.5389862z
+		 M48.6275482,42.5151596l-5.619854,3.126606l0.019825-5.9871864l5.600029-3.115593V42.5151596z M43.0354652,37.2470131
+		l0.0182915-5.5261936l5.5737915-3.1010056v5.5160809L43.0354652,37.2470131z"/>
+</g>
+</svg>

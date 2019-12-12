@@ -1,0 +1,237 @@
+@import '../base/_variables';
+@import '../helpers/_mixins';
+
+@media all and (min-width: 1200px) {
+  .border-left-steps {
+    border-left: 1px dashed $border-box;
+  }
+  .border-right-steps {
+    border-right: 1px dashed $border-box;
+  }
+  .pb-100 {
+    padding-bottom: 100px !important;
+  }
+  .pt-100 {
+    padding-top: 100px !important;
+  }
+  .pb-150 {
+    padding-bottom: 150px !important;
+  }
+  .pr-55 {
+    padding-right: 55px;
+  }
+  /**
+  * Index page
+  */
+  #get-started {
+    padding-bottom: 100px;
+  }
+  .bg-opacity {
+    opacity: 0.6 !important;
+  }
+  .shadow-short {
+    box-shadow: 0 8px 40px 0 rgba(0, 0, 0, 0.3);
+  }
+  #short > section {
+    &:hover {
+      h2 {
+        color: $btn-headline;
+      }
+      h2,
+      p {
+        opacity: 1;
+        transition: opacity 0.3s ease-in-out;
+      }
+    }
+  }
+  .europe-separator-laptop {
+    display: none;
+  }
+  /**
+    * Company
+  */
+  .about-us-headline {
+    max-height: 420px;
+    height: 420px;
+  }
+  /**
+   * Blog Post
+  */
+  .blog-heading {
+    flex-basis: calc(70% - 30px);
+  }
+  .blog-sidebar {
+    position: sticky;
+    height: 50%;
+    top: 65px;
+  }
+  .single-article {
+    div:nth-of-type(2) {
+      & > p {
+        a {
+          img {
+            height: 18px;
+          }
+        }
+      }
+    }
+  }
+  .blog-sidebar {
+    .share-btns-wrapper {
+      img {
+        height: 18px;
+      }
+    }
+  }
+  /**
+    * Tech Force
+  */
+  .tech-force-steps {
+    h2 {
+      margin: 0 -15px;
+    }
+  }
+}
+
+@media all and (min-width: 1100px) {
+  // Reset BS Dropdown on click event (except tablet and mobile)
+  nav.navbar {
+    .dropdown {
+      &:hover {
+        &>.dropdown-menu {
+          display: block;
+        }
+      }
+      &>.dropdown-toggle {
+        &:active {
+          pointer-events: none;
+        }
+      }
+    }
+  }
+}
+
+@media all and (max-width: 1199px) {
+  .modal-content {
+    padding: 25px;
+  }
+  .steps-desc-box + a.buttons {
+    margin-top: 50px;
+  }
+  /**
+  * Index page
+  */
+  #get-started {
+    padding: 100px 0;
+  }
+  .navbar-nav li.nav-item a.nav-link {
+    padding-right: 8px;
+  }
+  #intro {
+    div {
+      &:nth-child(2) {
+        img {
+          position: static;
+          left: 0;
+          max-width: 100%;
+          height: auto;
+        }
+      }
+    }
+  }
+  .headline-wrapper {
+    position: static;
+    top: 0;
+  }
+  .ing-world-map {
+    top: 0;
+    text-align: center;
+  }
+  .main-heading {
+    margin-top: 0;
+  }
+  .awards-intro-wrapper {
+    margin-top: 100px;
+  }
+  footer {
+    p {
+      margin-bottom: 25px;
+    }
+  }
+  #office-locations {
+    aside {
+      &:nth-child(3) {
+        &:before {
+          display: none;
+        }
+      }
+    }
+  }
+  .footer-aside-menu {
+    &:nth-child(1) {
+      &:after {
+        content: '';
+        @include viewport-unit(width, 100vw);
+        background-color: $border-separator;
+        height: 1px;
+        margin-left: -50px;
+        position: absolute;
+      }
+    }
+  }
+  /**
+    * Company
+  */
+  .about-us-headline {
+    max-height: none;
+    height: auto;
+  }
+  /**
+   * How We Do IT
+  */
+  .software-growth-item {
+    h3 {
+      margin-left: 0;
+    }
+  }
+  .ing-team-wrapper {
+    margin-top: -40px;
+  }
+  .proto-wrapper-helps {
+    section:last-child {
+      img {
+        position: relative;
+        left: 15px;
+      }
+    }
+  }
+  /**
+   * Blog Post
+  */
+  .single-article {
+    flex-basis: 100%;
+  }
+  .blog-sidebar {
+    flex-basis: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    form {
+      width: 50%;
+    }
+  }
+  /**
+    * Tech Force
+  */
+  .tech-force-steps {
+    padding: 100px 0;
+    h2 {
+      margin-bottom: 100px;
+    }
+  }
+  /**
+    * GDPR box
+  */
+  .gdpr-wrapper p {
+    flex-basis: 55%;
+  }
+}

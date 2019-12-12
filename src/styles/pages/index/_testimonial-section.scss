@@ -1,0 +1,70 @@
+@import '~_variables.scss';
+@import '~_mixins.scss';
+
+#client-citations {
+  padding: 100px 0;
+  h2 {
+    color: $main-text;
+    margin-bottom: 60px;
+  }
+  blockquote {
+    @include font($ff-os-italic, normal, italic, 16px, 30px, null);
+  }
+}
+
+// .testimonial-item {
+//   background-color: $card-box;
+//   box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.1);
+//   padding: 50px;
+//   margin: 30px 45px 65px;
+//   opacity: 0.65;
+//   cursor: grab;
+//   &:focus {
+//     outline: none;
+//   }
+// }
+
+.clutch-rating {
+  align-items: center;
+  border: 1px solid $border-box;
+  color: $text-opacity;
+  display: flex;
+  font-size: 14px;
+  height: 40px;
+  line-height: 16px;
+  margin-bottom: 20px;
+  padding: 12px 15px;
+  transition: color 0.3s ease-in-out;
+  width: 170px;
+  &:hover {
+    color: $text-form-footer;
+  }
+}
+
+.client-info {
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.client-name {
+  @include font($ff-os-bold, bold, normal, 16px, null, null);
+  margin-bottom: 10px;
+  margin-left: 12px;
+}
+
+.client-firm {
+  margin-left: 12px;
+  font-size: 16px;
+}
+
+.case-studies-more-content {
+  padding: 40px 0 20px;
+  & > section {
+    flex-basis: calc(33.33% - 30px);
+  }
+}
+
+.more-content-wrapper {
+  padding: 100px 0;
+}

@@ -1,0 +1,143 @@
+@import '~_variables.scss';
+@import '~_mixins.scss';
+
+.dev-wrapper-headline {
+  padding: 50px 0 20px;
+  img {
+    z-index: 0;
+  }
+}
+
+.dev-ing-text {
+  z-index: 1;
+  p {
+    @include font($ff-os-bold, bold, normal, 18px, 30px, null);
+    padding: 90px 0;
+  }
+}
+
+.ing-app-expertise {
+  padding: 100px 0;
+  p {
+    font-size: 18px;
+    line-height: 30px;
+  }
+}
+
+.ing-app-item {
+  width: calc(33% - 60px);
+  h3 {
+    margin: 45px 0 30px;
+  }
+  p {
+    margin-bottom: 45px;
+  }
+  div {
+    &:nth-last-child(n + 2) {
+      margin-bottom: 15px;
+    }
+    span {
+      line-height: 24px;
+      margin-left: 10px;
+      width: calc(100% - 40px);
+    }
+    img {
+      height: 25px;
+    }
+  }
+}
+
+.software-growth-wrapper {
+  padding: 100px 0;
+  div.text-center {
+    h2 {
+      line-height: 24px;
+      margin-bottom: 20px;
+    }
+    p {
+      line-height: 30px;
+      margin-bottom: 90px;
+    }
+  }
+}
+
+.software-growth-item {
+  flex-basis: calc(50% - 45px);
+  h3 {
+    margin-bottom: 0;
+    margin-left: 10px;
+  }
+  p {
+    line-height: 30px;
+    margin-top: 10px;
+  }
+  &:nth-child(-n + 3) {
+    margin-bottom: 37px;
+  }
+  img {
+    height: 43px;
+  }
+}
+
+.blue-get-started-wrapper {
+  background: linear-gradient(270deg, $bg-blue-gradient 0%, $main-text 100%);
+  padding: 100px 0;
+  h2 {
+    line-height: 48px;
+    margin-bottom: 40px;
+  }
+  a {
+    padding: 20px 110px;
+    border: 2px solid $white;
+    color: $white;
+    transition: all 0.3s ease-in-out;
+    text-decoration: none;
+    &:hover {
+      color: $main-text;
+      background: $white !important;
+    }
+  }
+}
+
+.ing-tech-wrapper {
+  padding: 100px 0;
+  h2 {
+    line-height: 48px;
+    margin-bottom: 80px;
+  }
+}
+
+.ing-tech-item {
+  flex-basis: calc(50% - 85px);
+  & > div {
+    margin-bottom: 10px;
+    img {
+      height: 50px;
+    }
+  }
+  h3 {
+    @include font($ff-os-extraBold, 800, normal, 24px, 36px, null);
+  }
+  p {
+    line-height: 30px;
+  }
+  &:not(:last-child) {
+    margin-bottom: 37px;
+  }
+  &:nth-child(3) {
+    h3 {
+      top: -10px;
+    }
+    p {
+      top: -19px;
+    }
+  }
+  &:nth-child(5) {
+    h3 {
+      top: 18px;
+    }
+    p {
+      top: 23px;
+    }
+  }
+}

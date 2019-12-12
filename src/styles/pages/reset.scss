@@ -1,0 +1,178 @@
+@import '~_variables.scss';
+@import '~_mixins.scss';
+
+// Reset .container class
+@media all and (min-width: 1250px) {
+  .container {
+    max-width: 1200px;
+  }
+}
+
+// Reset BS modal content
+.modal-content {
+  padding: 50px;
+  background-color: $bg-color;
+}
+
+// Reset BS p.h2 class for footer
+p.h2 {
+  color: $main-text;
+  font-family: $ff-os-extraBold;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 36px;
+  margin-bottom: 0;
+}
+
+// Reset BS navbar padding
+.sub-menu-wrapper {
+  .container.swiper-container {
+    a.nav-link {
+      padding: 0;
+    }
+  }
+}
+.navbar {
+  padding: 0;
+}
+
+.nav-pills {
+  a {
+    text-decoration: none;
+  }
+}
+
+// Reset navbar toggler
+.navbar-toggler {
+  padding: 8px;
+  margin-right: 12px;
+  margin-left: 15px;
+}
+
+// Reset BS outline focus
+.form-control,
+.custom-select {
+  &:focus {
+    border: 1px solid $border-separator;
+    box-shadow: none;
+    background-color: $card-box;
+    color: $text-opacity;
+    outline: none;
+  }
+}
+
+// Remove BS padding on open modal
+body.modal-open,
+div.modal.show {
+  padding-right: 0 !important;
+}
+
+// Add text-align left to accordion header
+.btn-link {
+  text-align: left;
+}
+
+// Remove BS style from accordion
+.card {
+  border-radius: 0;
+  border-top: 2px solid $border-separator;
+  background-color: transparent;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+}
+
+.card-header {
+  padding: 5px;
+  background-color: transparent;
+  border-bottom: 0;
+}
+
+// Remove BS .accordion margin-top
+.accordion {
+  margin-top: 25px;
+  background-color: transparent;
+}
+
+// Remove BS .modal-footer, .modal-header props
+.modal-footer {
+  padding: 0 15px 15px;
+  border: 0;
+}
+
+.modal-header {
+  padding: 15px 15px 0;
+  border: 0;
+}
+
+// Reset Slick Carousel width
+.slick-slide {
+  width: 530px;
+
+  background-color: $card-box;
+  box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.1);
+  padding: 50px;
+  margin: 30px 45px 65px;
+  opacity: 0.65;
+  cursor: grab;
+  &:focus {
+    outline: none;
+  }
+}
+
+// Reset Slick currently active slide
+.slick-current {
+  opacity: 1 !important;
+  box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.2) !important;
+}
+
+// Reset Slick Carousel dots indicators
+.carousel-dots {
+  align-items: center;
+  display: flex !important;
+  justify-content: center;
+  list-style-type: none;
+  margin-bottom: 0;
+  padding-left: 0;
+  li {
+    // display: inline-block;
+    background-color: $text-opacity;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 8px;
+    margin: 0 20px;
+    transition: background-color 0.3s linear;
+    width: 8px;
+    button {
+      background: transparent;
+      border: 0;
+      cursor: pointer;
+      left: -8px;
+      padding: 15px;
+      position: relative;
+      top: -10px;
+    }
+    &.slick-active {
+      background-color: $bg-section;
+      border-radius: 8px;
+      border: 2px solid $btn-headline;
+      height: 16px;
+      transition: background-color 0.3s linear;
+      width: 16px;
+    }
+  }
+}
+
+// Reset Slick Carousel align items vertically
+.slick-track {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  // transform: translate3d(-4350px, 0px, 0px) !important;
+}
+
+.main-header {
+  background-color: blue;
+  margin-bottom: 1.45rem;
+}

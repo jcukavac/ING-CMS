@@ -1,0 +1,58 @@
+@import '~_variables.scss';
+@import '~_mixins.scss';
+
+.faq-wrapper-headline {
+  background-color: $bg-section;
+}
+
+#pills-tab-content {
+  padding-top: 100px;
+}
+
+.faq-tabs {
+  background-color: $bg-section-top;
+  padding: 0 0 100px;
+  h3 {
+    line-height: 30px;
+  }
+  p {
+    line-height: 30px;
+  }
+}
+
+.faq-tabs-item {
+  padding: 20px 40px;
+  margin-bottom: 20px;
+  box-shadow: 0px 7px 15px 0 rgba(0, 0, 0, 0.1);
+}
+
+.faq-question {
+  & > span {
+    @include font($ff-os-bold, bold, normal, 24px, 30px, null);
+    span {
+      left: 7.5px;
+      top: 1px;
+    }
+  }
+  h3 {
+    width: calc(100% - 50px);
+  }
+}
+
+.faq-answer {
+  margin-top: 20px;
+  & > span {
+    line-height: 30px;
+    left: 5px;
+    span {
+      top: -4px;
+      left: 7px;
+    }
+  }
+  p {
+    width: calc(100% - 50px);
+    position: relative;
+    top: -6px;
+    margin-bottom: 0;
+  }
+}

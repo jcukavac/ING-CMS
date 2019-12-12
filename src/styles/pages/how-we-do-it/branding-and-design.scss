@@ -1,0 +1,72 @@
+@import "~_variables.scss";
+@import "~_mixins.scss";
+
+.brand-design-ing-text {
+  padding: 100px 0;
+  h2 {
+    margin: 0 15px 30px;
+  }
+  p {
+    line-height: 30px;
+    margin-bottom: 0;
+  }
+}
+
+.brand-design-desc-wrapper {
+  padding: 100px 0;
+  h2 {
+    margin-bottom: 35px;
+  }
+}
+
+.brand-design-item {
+  flex-basis: calc(33% - 50px);
+  img {
+    margin: 0 auto 35px;
+  }
+  h3 {
+    margin-bottom: 20px;
+  }
+  p {
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+  div {
+    span {
+      margin-left: 15px;
+    }
+  }
+}
+
+.brand-design-team-wrapper {
+  padding: 100px 0;
+  img {
+    height: 25px;
+  }
+  .row {
+    section {
+      div {
+        margin-bottom: 20px;
+      }
+      &:nth-child(3) {
+        & > * {
+          margin-left: 40px;
+        }
+      }
+    }
+  }
+  h2 {
+    margin-bottom: 50px;
+  }
+  h3 {
+    margin-bottom: 30px;
+  }
+  div {
+    span {
+      @include font($ff-os-semiBold, 600, normal, 16px, 30px, null);
+      margin-left: 10px;
+      width: calc(100% - 40px);
+    }
+  }
+}

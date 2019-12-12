@@ -1,0 +1,36 @@
+@import "~_variables.scss";
+@import "~_mixins.scss";
+
+.policy-wrapper {
+    padding: 100px 0;
+    a {
+    transition: all 0.3s ease-in-out;
+    text-decoration: underline;
+    &:hover {
+        color: $text-form-footer;
+    }
+    }
+    ol {
+    padding-left: 20px;
+    margin-bottom: 60px;
+    li {
+        padding-bottom: 8px;
+    }
+
+    }
+    .policy-items {
+    padding: 7.5px;
+    p {
+        line-height: 30px;
+    }
+    li {
+        padding: 5px;
+        line-height: 24px;
+    }
+    }
+    .row {
+    &>p {
+        padding: 0 15px;
+    }
+    }
+}

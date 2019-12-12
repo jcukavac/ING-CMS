@@ -1,0 +1,135 @@
+---
+jobs:
+    meta:
+        title: Careers - Ingsoftware
+        description: As a constantly growing company we are looking for passionate individuals who will join our team and use that opportunity to develop their potential.
+        link: https://www.ingsoftware.com/careers
+    main-heading: Careers
+    heading: As a constantly growing company we are looking for passionate individuals who will join our team and use that opportunity to develop their potential.
+    heading-img-alt: Computer Monitor
+    title-left: What We Expect to See
+    title-right: What We Like to See
+    fe:
+        title: Front End Developer
+        text: We are looking for a front-end developer to produce cross-browser, cross-platform, standard-based, pixel-perfect, and CSS-driven layouts. Your responsibility will include creating SEO-friendly, semantically correct markup and maintaining the existing code (debugging existing client-side code when needed, troubleshooting performance issues, and adding/editing existing items in code).
+        check-left-1: Previous experience and proficient understanding of HTML5/CSS3;
+        check-left-2: Deep knowledge of client-side scripting and JavaScript frameworks, including jQuery;
+        check-left-3: Familiarity with browser testing and debugging;
+        check-left-4: Basic understanding of OOP;
+        check-left-5: Knowledge of cross-browser implementation;
+        check-left-6: Experience with responsive web layouts.
+        check-right-1: Knowledge of AJAX client-server communication;
+        check-right-2: Experience with some Content Management Systems ( WordPress, Joomla, Drupal );
+        check-right-3: Ability to manage multiple projects, prioritize and meet deadlines;
+        check-right-4: Ability to work in a cross-disciplinary team.
+    dotNet:
+        title: .Net / C#
+        text: We are looking for a C# developer with the ability to receive and analyze requirements and specifications provided by project managers. You will be in charge of developing modules/applications based on given specifications and development testing (unit testing, integration testing, performance testing). A part of your responsibilities will include maintenance of existing enterprise system (software monitoring, modifying the software on demand, bug fixing).
+        check-left-1: Excellent understanding of object oriented programming and design patterns ( .net/c# development );
+        check-left-2: Profound understanding of relational databases ( t-sql / mssql Server );
+        check-left-3: Good knowledge of asp.net mvc Framework;
+        check-left-4: Experience with version control ( svn/git );
+        check-left-5: Proactive, open-minded and strong team player, but can make decisions autonomously when required.
+        check-left-6: " "
+        check-right-1: Experience in work with linq and orms ( Linq2 sql / Entity framework );
+        check-right-2: Familiarity with web services ( soap, rest );
+        check-right-3: Knowledge of html, css, JavaScript and jQuery;
+        check-right-4: Strong analytical skill and ability to solve complex problems.
+    java:
+        title: Java
+        text: We are looking for a Java developer with the ability to receive and analyze requirements and specifications provided by project managers. You will be in charge of developing modules/applications based on given specifications. Since you will be working on sensitive financial systems where untested code can have significant impact, development testing (unit testing, integration testing, performance testing) is an integral part of the job.
+        check-left-1: Good understanding of object oriented programming concepts and design patterns;
+        check-left-2: Experience in server-side Java web development stack ( Spring mvc, Springj dbc, Hibernate… );
+        check-left-3: Good understanding of relational databases ( Mysql and sql Server databases );
+        check-left-4: Good verbal and written English knowledge.
+        check-left-5: " "
+        check-left-6: " "
+        check-right-1: Experience in unit testing ( Junit ) and tdd;
+        check-right-2: Familiarity with web services;
+        check-right-3: Experience with version control ( svn/git );
+        check-right-4: Knowledge of html, css, JavaScript and jQuery;
+    unity:
+        title: Unity
+        text: We are looking for a Unity 3D game developer to design, develop and maintain a game client using C# in the Unity3D game engine. With strong Unity 3D programming skills, you will work closely with other engineers to implement, debug and refine core gameplay features in a 2D/3D application experience. You will be expected to collaborate effectively with a small, high energy team of artists, designers, and executives.
+        check-left-1: Experience in Unity3D video game and applications development using C#;
+        check-left-2: Knowledge on how to take advantage of Unity3D plugins, external resources, asset bundles and materials/shaders;
+        check-left-3: Good knowledge of object oriented design, design patterns, and data structures;
+        check-left-4: Good foundation in 3D graphics - animation, transformation, meshes, textures, normal maps, lighting, shaders, post-processing effects.
+        check-left-5: " "
+        check-left-6: " "
+        check-right-1: Passion and curiosity for video games, animation, mobile applications and the future of education;
+        check-right-2: Any portfolio, finished or started game demo;
+        check-right-3: Experience with version control software.
+        check-right-4: " "
+    benefits:
+        title: What Are The Benefits?
+        box1-img-alt: Handshake
+        box1-title: Casual Friendly Atmosphere
+        box1-text: We love our office culture and we believe you will like it too - casual, supportive atmosphere inviting you to be free to express yourself.
+        box2-img-alt: Hand
+        box2-title: Tap Into The Big Game
+        box2-text: Experience the trill of working on large enterprise systems. At INGSOFTWARE, you'll get a chance to work on live systems used by hundreds of thousands of people around the globe.
+        box3-img-alt: Bachelor hat
+        box3-title: Learning Opportunities
+        box3-text: In addition to having an office environment where we love to learn from each other, we regularly attend best regional and global IT conferences, seminars and meetings.
+        box4-img-alt: Processor
+        box4-title: Cutting Edge Technologies
+        box4-text: Use the chance to utilize the latest technologies in mobile, web, desktop and enterprise software development. We keep up with innovations across all major development environments, frameworks and platforms.
+    careers:
+        title: Careers
+        text-1: As a constantly growing company we are looking for passionate individuals who will join our team and use that opportunity to develop their potential.
+        text-2: INGSOFTWARE team is made of the most talented software engineers, programmers and designers who happen to be excellent teammates with a tendency to make your working environment casual and stress-free. We have a cheerful office in Niš where we develop some pretty useful skills, drink a lot of coffee, play table tennis, host regular team buildings, throw memorable Wednesdays and create awesome software solutions on the way.
+        text-3: INGSOFTWARE was designed as a delightful place to work. We value people who strive for bigger and better, who put additional effort in their individual growth and embrace open communication. By celebrating diversity, we appreciate all the little things that make our team a unique one.
+        text-4: When it gets down to business, we are a passionate team of smart, dedicated individuals who work to provide incredible software experiences to our clients. The projects we deal with require our undivided attention, and our multi-faceted team loves the challenge of delivering the most impressive results. INGSOFTWARE is a fantastic place to work, and we all as a team contribute to that.
+        img-alt: Lady working
+    contact:
+        title: How to Apply
+        text-1: "If you want to become our next rising star, do not hesitate to let us know by sending your CV to:"
+        mail: job@ingsoftware.com
+        text-2: Once you send us an email we will review your application and if you are successful you will be invited to an interview. The selection process will start with it, giving you the chance to talk about your technical skills and to draw on your past experience. After this part is successfully behind us, we can move on to solving a couple of no-brainers and decide if you work well enough with your assortment of tools to join our team!
+
+internships:
+    meta:
+        title: Internships - Ingsoftware
+        description: We are looking for young and talented IT professionals like you - join our internship program, grow with us and become a part of our success story.
+        link: https://www.ingsoftware.com/internships
+    main-heading: Internships
+    heading: We are looking for young and talented IT professionals like you - join us, grow with us and become a part of our success story.
+    heading-img-alt: Notebook and pen
+    internship:
+        title: Become our Next Rising Star
+        text: "If you are ambitious, intellectually curious and able to learn quickly, we are willing to support you in your efforts to develop your potential. We are looking for an individual who is:"
+        check-left-1: Passionate about software design and development
+        check-left-2: Proactive, fast-learning and motivated
+        check-left-3: Dependable person that works well within a team
+        check-left-4: Good in problem-solving
+        check-right-1: Interested in researching new technologies and languages
+        check-right-2: Fluent in English
+        check-right-3: Has a basic knowledge of OOP concepts and design patterns
+        check-right-4: "Has a basic knowledge of one of the following: C#.NET, JAVA or HTML/CSS"
+    benefits:
+        title: What Are The Benefits?
+        box1-img-alt: Knowledge
+        box1-title: Mentorship
+        box1-text: We offer an individual approach to students in internship program, meaning that each of you will have a personal mentor. An experienced professional at your disposal to guide you through internship, which is crucial for gaining knowledge and new skills in an efficient way.
+        box2-img-alt: Computer code
+        box2-title: Real Life Projects
+        box2-text: Students who pass our internship selection and prove their talent will get the chance to work closely together with one of our teams, having the opportunity to experience real life project workflow.
+        box3-img-alt: Puzzle piece
+        box3-title: Highly Stimulating and Fun Working environment
+        box3-text: Ingsoftware internship will give you the chance to learn from and work with great colleagues who happen to be amazing at offering you the support needed for the development of your potential. And they'll make sure you're having fun on the way!
+        box4-img-alt: Handshake
+        box4-title: Solid Career Opportunity
+        box4-text: Our internship program is designed to create real and valuable opportunities for undergraduate and graduate students, to learn and gain valuable experience which you can use throughout your career, and the best of all is - you can start your career right here!
+    intern:
+        title: Ingternships
+        text-1: INGSOFTWARE thrives not just by providing outstanding quality of services to our customers, but also from attracting the best and brightest young talent.
+        text-2: To become an intern here, you'll have to be good at what you do - and with our mentors' help you will become even better. It's an impact you will feel starting from your first day at work when you'll discover we're as passionate about developing your skills as you are.
+        text-3: We put a clear focus on technical coaching and mentorship, not just to provide you with valuable experience, but also to help you develop your strengths to their full potential.
+        text-4: During your 2 months of the internship, you will gain the understanding of the broad business requirements of our clients and the value our solutions provide to them. You will have the opportunity to develop an end-to-end software solution, leveraging the comprehensive technical training given by our experienced mentors.
+        img-alt: Working team
+    contact:
+        title: How to Apply
+        text-1: "If you want to become our next rising star, do not hesitate to let us know by sending your CV to:"
+        mail: internship@ingsoftware.com
+        text-2: Once you send us an email, we will review your application and if you are successful, invite you to an interview. The selection process will start with it, giving you the chance to convince us that you are the young and talented person we are willing to coach. After this step is successfully behind us, we can move on to solving a couple of no-brainers and see if you have what it takes to become the best software engineer there is with our help on the way.

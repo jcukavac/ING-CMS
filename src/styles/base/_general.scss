@@ -1,0 +1,65 @@
+@import '_variables';
+@import '../helpers/_mixins';
+body {
+  background-color: $bg-color;
+  background: linear-gradient( 0deg, $bg-section 0%, $card-box 98.14%, $card-box 100%);
+  color: $text-opacity;
+  font-family: $ff-os-regular;
+  line-height: normal;
+  overflow-x: hidden;
+  // padding-top: 64px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: $main-text;
+}
+
+h1 {
+  @include font($ff-os-extraBold, 800, normal, 42px, normal, null);
+}
+
+h2 {
+  @include font($ff-os-extraBold, 800, normal, 30px, 36px, null);
+}
+
+h3 {
+  @include font($ff-os-bold, bold, normal, 24px, 36px, null);
+}
+
+main {
+  position: relative;
+  transition: margin-top 0.3s ease-in-out;
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+  transition: color .3s ease-in-out;
+  &:hover {
+    color: $text-form-footer;
+  }
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+img {
+  user-select: none;
+  pointer-events: none;
+}
+
+::selection {
+  background: $btn-headline;
+  color: $white;
+}
+
+

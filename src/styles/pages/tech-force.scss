@@ -1,0 +1,55 @@
+@import "~_variables.scss";
+@import "~_mixins.scss";
+
+.tech-force-headline-wrapper {
+    padding: 100px 0 20px;
+}
+
+.tech-force-desc-text-wrapper {
+    background-color: $card-box;
+    padding: 100px 0 70px;
+    h2 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 30px;
+    }
+    p {
+        line-height: 30px;
+        margin-bottom: 30px;
+    }
+}
+
+.tech-force-desc-text-item {
+    flex-basis: calc(50% - 50px);
+}
+
+.tech-force-optimization-wrapper {
+    padding: 100px 0 20px;
+    background-color: $bg-section-top;
+    h2 {
+        margin-bottom: 80px;
+    }
+}
+
+.tech-force-steps {
+    p {
+        line-height: 30px;
+    }
+}
+
+.tech-force-optimum-item {
+    flex-basis: calc(50% - 50px);
+    margin-bottom: 40px;
+    & > span {
+        @include font($ff-os-extraBold, 800, normal, 24px, 36px, null);
+        color: $main-text;
+        margin-left: 15px;
+    }
+    img {
+        margin-bottom: 10px;
+        height: 43px;
+    }
+    p {
+        line-height: 30px;
+    }
+}

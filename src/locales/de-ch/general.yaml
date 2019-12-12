@@ -1,0 +1,101 @@
+---
+meta:
+  title: Ingsoftware - Full Cycle Software Development Unternehmen
+  description: Ingsoftware ist ein Softwareunternehmen, das sich auf die Entwicklung von schlüsselfertigen, maßgeschneiderten Softwarelösungen für verschiedene Branchen konzentriert.
+  link: https://www.ingsoftware.ch/
+  site-name: Ingsoftware - Software Development Unternehmen
+
+header:
+  company:
+    name: Unternehmen
+    about: Über uns
+    faq: FAQ
+    expertise: Unsere Expertise
+    engagement-models: Engagement Modelle
+  how-we-do-it:
+    name: Wie wir es machen
+    software-prototyping: Software Prototyping
+    custom-software-development: Kundenspezifische Softwareentwicklung
+    branding-and-design: branding und design
+  case-studies: Case Studies
+  careers:
+    name: " "
+    jobs: " "
+    internships: " "
+  blog: " "
+  contact: Kontakt
+  startups: Für Startups
+
+button:
+  connect: In Verbindung treten
+  find-more: Erfahren Sie mehr
+  get-started: Jetzt loslegen
+  change-preferences: Einstellungen ändern
+  save-preferences: Einstellungen speichern
+  agree: Ich stimme zu
+  send: Senden
+
+footer:
+  continent-eu:
+    title: Europa
+    serbia:
+      office: Serbisches Büro
+      country: Serbien
+      mailLink: mailto:contact@ingsoftware.com
+      mail: contact@ingsoftware.com
+    austria:
+      office: Österreichisches Büro
+      country: Österreich
+      mailLink: mailto:contact@ingsoftware.com
+      mail: contact@ingsoftware.com
+    switzerland:
+      office: Schweizer Büro
+      country: Schweiz
+      mailLink: mailto:zug.office@ingsoftware.ch
+      mail: zug.office@ingsoftware.ch
+  continent-ua:
+    title: Vereinigte Staaten
+    office: New Jersey Büro
+    state: New Jersey
+    country: USA
+    mailLink: mailto:contact@ingsoftware.com
+    mail: contact@ingsoftware.com
+  continent-af:
+    title: Afrika
+    office: Simbabwe Büro
+    country: Simbabwe
+    mailLink: mailto:contact@ingsoftware.com
+    mail: contact@ingsoftware.com
+  links:
+    privacy: Datenschutz
+    cookies: Cookies
+    gdpr: Einwilligung und Einstellungen von Cookies
+
+gdpr-compliance:
+  text-part1: Diese Website von Ingsoftware GmbH verwendet Cookies, um Ihr Browser-Erlebnis zu verbessern und Ihnen zu helfen, personalisierte Inhalte für Sie zu erstellen. Detailliertere Informationen über Cookies - 
+  cookies: Cookie-Richtlinie
+  text-part2: Durch Anklicken der Schaltfläche
+  agree: “Ich stimme zu”
+  text-part3: ERKLÄREN Sie sich mit der Verwendung von Cookies durch uns einverstanden. Wenn Sie auf die Schaltfläche
+  preferences: “Meine Einstellungen ändern”
+  text-part4: klicken, können Sie einer bestimmten Art von Cookies zustimmen.
+
+img-alt:
+  check: Flugzeug
+  circle-check: Kreis Flugzeug Icon
+  star: Roter Stern icon
+
+cookie-preferences:
+  title: Cookie Einstellungen
+  text-1: Cookies sind sehr kleine Textdateien, die auf Ihrem Computer gespeichert werden, wenn Sie eine Website besuchen. Wir verwenden Cookies, um Ihr Browsererlebnis auf unserer Website zu verbessern, den Website-Verkehr zu analysieren, zu verstehen, woher unsere Besucher kommen, und um Ihnen personalisierte Inhalte und gezielte Anzeigen zu zeigen. Sie können Ihre Einstellungen ändern und bestimmte Arten von Cookies, die auf Ihrem Computer gespeichert werden sollen, ablehnen, während Sie unsere Website besuchen.
+  text-2: "Sie können auch alle bereits auf Ihrem Computer gespeicherten Cookies entfernen, aber denken Sie daran, dass das Löschen von Cookies Sie daran hindern kann, Teile unserer Website zu nutzen - "
+  text-2-bold: “Cookies löschen”.
+  section-1-title: Zwingend notwendige Cookies
+  section-1-text: Diese Cookies sind unerlässlich, um Ihnen die über unsere Website verfügbaren Dienste zur Verfügung zu stellen und Ihnen die Nutzung bestimmter Funktionen unserer Website zu ermöglichen. Ohne diese Cookies können wir Ihnen bestimmte Dienstleistungen auf unserer Website nicht anbieten.
+  section-1-text-bold: Immer aktiv
+  section-2-title: Funktionale Cookies
+  section-2-text: Diese Cookies werden verwendet, um Ihnen ein personalisierteres Erlebnis auf unserer Website zu ermöglichen und um Ihre Entscheidungen, die Sie bei der Nutzung unserer Website treffen, zu speichern. Beispielsweise können wir Funktionscookies verwenden, um Ihre Sprachpräferenzen oder Ihre Login-Daten zu speichern.
+  section-3-title: Tracking und performance Cookies
+  section-3-text: Diese Cookies werden verwendet, um Informationen zu sammeln, um den Traffic auf unserer Website zu analysieren und um festzustellen, wie die Besucher unsere Website nutzen. Beispielsweise können diese Cookies Dinge verfolgen, wie z.B. wie lange Sie auf der Website sind oder welche Seiten Sie besuchen, was uns hilft zu verstehen, wie wir unsere Website für Sie verbessern können. Die durch diese Tracking und Performance Cookies gesammelten Informationen identifizieren keinen einzelnen Besucher.
+  section-4-title: Targeting und Werbe-Cookies
+  section-4-text: Diese Cookies werden verwendet, um Werbung anzuzeigen, die für Sie aufgrund Ihrer Browserverhaltensweisen von Interesse sein könnte. Diese Cookies, die von unseren Inhalts- und/oder Werbeanbietern verwendet werden, können Informationen, die sie von unserer Website gesammelt haben, mit anderen Informationen kombinieren, die sie unabhängig voneinander im Zusammenhang mit den Aktivitäten Ihres Webbrowsers über ihr Netzwerk von Websites gesammelt haben. Wenn Sie sich dafür entscheiden, diese Targeting- oder Werbe-Cookies zu entfernen oder zu deaktivieren, werden Sie weiterhin Anzeigen sehen, die jedoch für Sie möglicherweise nicht relevant sind.

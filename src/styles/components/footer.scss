@@ -1,0 +1,79 @@
+@import '~_variables.scss';
+@import '~_mixins.scss';
+
+footer {
+  position: relative;
+  z-index: 2;
+  h4 {
+    @include font($ff-os-bold, bold, normal, 14px, 30px, null);
+    color: $main-text;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 18px;
+  }
+  p {
+    @include font(null, normal, normal, 14px, 30px, null);
+    margin-bottom: 0;
+  }
+}
+
+#office-locations {
+  padding: 25px 50px;
+  border-bottom: 1px solid $border-separator;
+  a {
+    @include font(null, normal, normal, 14px, 30px, null);
+    transition: color 0.3s ease-in-out;
+    text-decoration: none;
+    &:hover {
+      text-decoration: none;
+      color: $text-form-footer;
+    }
+  }
+}
+
+.footer-aside-menu {
+  padding: 25px 0;
+  position: relative;
+  &:nth-child(n + 2) {
+    &:before {
+      content: '';
+      background-color: $border-separator;
+      height: 116%;
+      position: absolute;
+      width: 1px;
+    }
+    &:before {
+      left: -35px;
+      top: -22px;
+    }
+  }
+}
+
+#footer-links {
+  font-size: 12px;
+  height: 60px;
+  line-height: 0;
+  padding: 0 45px;
+  &>span {
+    a {
+      text-decoration: underline;
+      transition: color 0.3s ease-in-out;
+      &:hover {
+        color: $text-form-footer;
+      }
+    }
+  }
+}
+
+#social-media a {
+  @include font(null, normal, normal, 14px, 30px, null);
+  margin-bottom: 0;
+  margin-left: 45px;
+  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
+  img {
+    height: 18px;
+  }
+}

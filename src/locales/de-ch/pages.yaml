@@ -1,0 +1,1047 @@
+---
+index:
+  intro:
+    main-heading-part1: Ein Full-Cycle
+    main-heading-part2: Software Development
+    main-heading-part3: Unternehmen
+    heading: Und der ultimative Technologie Partner für Startups
+    img-alt: Büroskizze
+  card-box:
+    box1:
+      title: Wir liefern anpassbare digitale Lösungen
+      text1: Unser Pool aus talentierten und erfahrenen Software-Ingenieuren, Designern und Projektmanagern hat selbst die komplexesten Visionen erfolgreich in digitale Produkte umgesetzt
+      text2: Ob es um die Entwicklung eines MVP für ein Startup oder bei der Nachrüstung des Legacy-Systems eines Unternehmens geht - wir haben es bereits getan. Wie?
+    box2:
+      title: Mit fundiertem Verständnis der Unternehmensdynamik
+      text1: Bei Ingsoftware verstehen wir, dass auch ein fundiertes Verständnis Ihrer Geschäftsdomäne wichtig ist.
+      text2: Die technische Kompetenz des Teams führt Sie bereits auf halbem Wege zum Erfolg. Und unser Ziel ist es, die Rentabilität und Effizienz Ihres Unternehmens / Ihres Startups durch die Entwicklung und Implementierung von Software- und Technologielösungen zu steigern.
+
+  citations:
+    section-title: Wir konzentrieren uns auf die Produktentwicklung für...
+    box1:
+      title: Unternehmen
+      text: Steigerung der Rentabilität und Effizienz von Unternehmen durch Digitalisierung von Prozessen. Wir entwerfen und konstruieren den Grundstein für Ihren digitalen Wandel.
+      citation: “Wir verwenden zuverlässige, hochmoderne Technologien unter Berücksichtigung sicherheitsgeprüfter Methoden.”
+    box2:
+      title: Startups
+      text: Von der Entwicklung eines MVPs bis hin zu einem vollständig integrierten Produkt bietet unser Startup-Angebot alles an (End-to-End). Und wir schätzen Qualität über Quantität.
+      citation: “Wir bauen von auf Wachstum. Und wir machen IT schon seit einem Jahrzehnt.”
+    box3:
+      title: KMUS
+      text: Wir sind ergebnisorientiert, und unsere Mission spiegelt sich darin wider, dass KMUs einen Technologiepartner suchen, um ihre Geschäfte zu steigern und zu transformieren.
+      citation: “Wir bauen Geschäfts- und Technologie-Imperien durch Digitalisierung und digitalen Wandel auf.”
+  
+  client-citations:
+    section-title: Ein Jahrzehnt der Arbeit und großartiger Kunden
+    testimonial-Peter: Ingsoftware war und ist eine wertvolle Ressource. Erfahrene und sachkundige Entwickler. Hohes Maß an Qualität, Reaktionsfähigkeit und Kommunikation. Fähigkeit, sich nach Bedarf an die Anforderungen anzupassen. Sehr zu empfehlen.
+    testimonial-Tony: Wir haben das Team von Ingsoftware mit einem strategischen Projekt beauftragt, das sowohl in Bezug auf die Daten als auch auf die Schnittstellenanforderungen komplex war. Wir waren sehr zufrieden mit der Zusammenarbeit mit ihrem Team und mit den Endergebnissen. Ich schätze ihre Fähigkeit sehr, schnell voll funktionsfähige Lösungen mit minimaler Anleitung durch unser Team anzubieten. Ingsoftware bietet hochprofessionelle Entwicklungsdienstleistungen, skalierbare Teams und termingerechte Ergebnisse zu wettbewerbsfähigen Preisen.
+    testimonial-Gina: Peryton.com arbeitet seit weit über einem Jahr mit dem Ingsoftware-Team zusammen. Unsere Erfahrung lässt sich in einem Wort zusammenfassen - großartig. Dieses Team ist nicht nur kreativ und unglaublich reaktionsschnell, sondern hat auch einen "can do/will do"-Ansatz für Projekte - besonders bei komplexen. Sie finden immer eine Lösung.
+    testimonial-Dimitrije: Das Ingsoftware-Team war und ist ein wertvoller Partner in unserer Softwareentwicklungsabteilung. Wir brauchten ein einfallsreiches, fleißiges und verantwortungsbewusstes Entwicklerteam, das in der Lage war, robuste, skalierbare und mehrbenutzerfähige Systeme zu erstellen und zu verwalten, und das haben wir in Ingsoftware gefunden. Die Projektmanager sind erstaunliche Leute, die bereit sind, alle unsere Bedürfnisse und Wünsche zu erfüllen. Sie kümmern sich effizient um die Teams, ohne dass eine Begleitung durch uns erforderlich ist. Sehr empfehlenswert.
+    testimonial-Dragana: Wir waren beeindruckt von dem aktiven Interesse, das Ingsoftware zunächst für unser Produkt hat/hatte, der Branche, in der wir arbeiten, und den Bedürfnissen, die unsere Kunden haben oder haben könnten. Sie leisteten weit mehr als nur Softwareentwicklung, sie boten aktiv Beratung, die am besten geeigneten neuen Technologien und Zusatzlösungen. Wir hatten das Gefühl mit Kollegen und nicht nur mit einem Lieferanten zusammenzuarbeiten. Ingsoftware überzeugt uns nach wie vor durch eigene Expertise und Flexibilität, die das Ergebnis ständiger Investitionen in die Ausbildung des Teams ist.
+    testimonial-Paul: Der CBO, Miroljub Boskovic und das Ingsoftware-Team waren ein wertvoller Partner bei der Erstellung unserer Online-Präsenz und unseres Marketing-Designs. Ingsoftware arbeitete schnell und effizient, um sicherzustellen, dass unsere Marketingmaterialien und unsere Website den von uns gewünschten Look erhielten. Die Mitarbeiter waren sachkundig und boten während des gesamten Prozesses mehrere kreative Gestaltungsmöglichkeiten in hoher Qualität. Ich war auch sehr zufrieden mit ihrer Reaktionsschnelligkeit und ihrem Kundenservice. Ich freue mich auf die Zusammenarbeit mit ihnen bei zukünftigen Projekten.
+    testimonial-Garin: Unser Projekt mit Ingsoftware ist ein großer Erfolg. Sie sind erfahrene Fachleute in den Bereichen Software-Engineering, großartigem Design und Projektmanagement, die uns mit zeitnahen und detaillierten Informationen versorgen und gleichzeitig klar und effektiv kommunizieren. Würde sie definitiv weiterempfehlen.
+    testimonial-Sebastian: Mit Ingsoftware haben wir als kleines österreichisches Softwareunternehmen den perfekten Partner gefunden, der uns bei der Entwicklung von Lösungen unterstützt, die über unsere Kapazitäten hinausgehen. Wir haben die Erfahrung gemacht, dass die Entwickler fließend Englisch sprechen und die von ihnen verwendete Technologie beherrschen. Das beweist uns, dass wir den richtigen Partner für unsere Projekte haben. Wir freuen uns auf die weitere Zusammenarbeit.
+  concept:
+    title: Vom Konzept zur Lösung
+    text-part1: Unsere funktionsübergreifende Teamstruktur und unser multidisziplinärer kooperativer Ansatz stellen sicher,
+    text-part2: dass alle Bewertungen und Rückmeldungen in den Entwicklungsprozess einbezogen werden.
+    item1:
+      title: Software Prototyping
+      text: Analog zu den klassischen Ingenieurdisziplinen trägt die Durchführung von Software-System-Prototyping dazu bei, die Funktionalität besser zu verstehen, potenzielle Probleme zu erkennen und die richtigen Prioritäten zu setzen.
+    item2:
+      title: Softwareentwicklung
+      text: Als einer der führenden Full-Cycle-Softwareentwickler in Osteuropa unterstützen wir unsere Kunden in jeder Phase der Produktentwicklung - von der Idee über die Implementierung bis hin zu Support und Wartung.
+    item3:
+      title: Branding und Design
+      text: Unsere Leidenschaft, unser Engagement und Ihre Idee verschmelzen zu einem eleganten, individuellen Design, das Ihr Projekt zu einem Erfolg macht.
+    item4:
+      title: Tech Force für Startups
+      text: Startups sind keine kleineren Versionen von Großunternehmen. Sie benötigen eigene Prozesse und Werkzeuge, um erfolgreich zu sein. Unsere funktionsübergreifende Teamstruktur und unser multidisziplinärer kooperativer Ansatz gewährleisten fundierte Fachkompetenz, robuste Prozesse und Flexibilität bei der Entwicklung erstklassiger Lösungen.
+  get-started:
+    step1:
+      img-alt: Sitzende Frau
+      title: Kennenlernen
+      text: Wir verschaffen uns einen 360-Grad-Rundumblick auf Ihr Unternehmen - Dokumentation, Projektanforderungen, Geschäftsdynamik, Ziele und Vorgaben, um die Projektanforderungen und -grenzen zu verstehen.
+    step2:
+      img-alt: Checkliste mit Stift
+      title: Planung
+      text: Basierend auf den gesammelten Daten strukturieren wir die Entwicklungs-Roadmap und entscheiden dann über die nötigen Technologie-Stacks, um eine solide Grundlage für schnelle Feature-Iterationen, stabile Skalierung und einfache Integrationen zu schaffen.
+    step3:
+      img-alt: Gläser auf Tisch
+      title: Design
+      text: Sorgfältige Strukturplanung, die die Benutzerfreundlichkeit der Software unterstützt und Ihren Markenauftritt in das digitale Medium integriert. Und das tun wir mit interaktiven Wireframes, HiFi-Mockups und Design-Prototypen.
+    step4:
+      img-alt: Sitzender Mann
+      title: Entwicklung
+      text: Der Entwicklungsprozess und -ansatz wird durch den Projektumfang und die Anforderungen definiert. Agile, Lean oder Waterfall-Methoden sind uns nicht unbekannt - als Software-Ingenieure bauen wir auf Struktur, Qualität und Sinnhaftigkeit.
+    step5:
+      img-alt: Drei Männer
+      title: Testen, QS und Inbetriebnahme
+      text: Das QS-Team testet jedes Feature auf Grundlage der beschriebenen Anforderungen. Inkonsistenzen werden festgestellt und zur Behebung an das Entwicklungsteam zurückgegeben. Jede Projekt-Iteration durchläuft ein intensives Testverfahren, bevor sie in Betrieb geht.
+    step6:
+      img-alt: Computer
+      title: Laufende Upgrades und Wartung
+      text: Nach der Markteinführung bieten wir Programme an, die sicherstellen, dass Ihr Produkt immer auf dem neuesten Stand ist und sich ständig weiterentwickelt. Unserer Kreativität sind keine Grenzen gesetzt. Nur Meilensteine in unserem Fortschritt.
+  partnerships:
+    title: Ein Jahrzehnt Arbeit und fruchtbare Partnerschaften
+
+company:
+  about-us:
+    meta:
+      title: Unser Unternehmen - Ingsoftware
+      description: Wir sind auf drei Kontinenten vertreten und verfügen über eine Tech-Force, die durchgehend professionelle und anpassbare IT-Services anbietet.
+      link: https://www.ingsoftware.ch/unternehmen
+    main-heading: Unser Unternehmen
+    heading: Wir sind auf drei Kontinenten vertreten und verfügen über eine Tech-Force, die durchgehend professionelle und anpassbare IT-Services anbietet.
+    who-are-we:
+      title: Wer sind wir?
+      text-part1: Ingsoftware ist eine Full-Cycle-Entwicklungsagentur und der ultimative Technologiepartner für Startups.
+      text-part2: Wir haben Niederlassungen auf drei Kontinenten und sind stolz darauf, dass wir eine Tech-Force von 85 Software-Ingenieuren, UX-Designern, Managern und Beratern sind, die professionelle und anpassbare IT-Services von Anfang bis Ende anbieten können.
+      text-part3: Ein Jahrzehnt Arbeit in verschiedenen Branchen, anspruchsvollen Projekten und langjährige Partnerschaften haben uns gezeigt, dass wir für den nächsten großen Schritt bereit sind.
+      check1: GEGRÜNDET 2009
+      check2: ERBRINGUNG VON DIENSTLEISTUNGEN WELTWEIT
+      check3: BETREUUNG HUNDERTER VON KUNDEN
+      check4: IN VERSCHIEDENEN INDUSTRIESEKTOREN
+      check5: BEI DER ARBEIT AN DISRUPTIVEN UND KOMPLEXEN PROJEKTEN
+    citation: Wir haben als Softwareentwicklungsunternehmen mit der Vision angetreten, unseren Kunden modernste Softwarelösungen anzubieten.
+    we-chose:
+      title: Wir haben uns entschieden für...
+      box1:
+        img-alt: Transformations-Icon
+        title: Digitalen Wandel
+        text: statt Digitalisierung
+      box2:
+        img-alt: Partnerschaft Icon
+        title: Technologiepartner
+        text: statt Offshore-Outsourcing
+      box3:
+        img-alt: Full Cycle Icon
+        title: Full-Cycle Development
+        text: statt isolierter Softwarelösung
+    mission-vision:
+      mission-title: Und sind auf der Mission...
+      mission-text: Um Technologie zu einem Vorteil in Ihrem Unternehmen zu machen, und nicht zu einem Problem. Alles mit dem Ziel, die Rentabilität und Effizienz des Unternehmens durch die Entwicklung und Umsetzung von Software- und Technologielösungen zu steigern.
+      vision-title: Mit einer Vision, die auf...
+      vision-text: Kontinuierliches Wachstum und Entwicklung als führender Anbieter von IT-Dienstleistungen setzt. Wir verstehen uns in Zukunft als Anbieter von hochwertigen Business-Lösungen auf Basis aktueller Spitzentechnologien.
+    talent:
+      title: Und Talent, um es zu untermauern
+      text-1: Unser starker Rekrutierungsprozess ermöglicht es uns, Top-Talente zu finden und für uns zu gewinnen. Wir betreiben weder Outsourcing noch Offshoring.
+      text-2: Wir arbeiten kontinuierlich an der Entwicklung und Pflege einer starken Forschungs- und Entwicklungskultur und sind stolz auf ein Unternehmen mit hoher Mitarbeiterbindung und geringer Fluktuation.
+      text-3: Wir überzeugen unsere Kunden auch weiterhin mit unserer firmeneigenen Expertise und Anpassungsfähigkeit, die das Ergebnis ständiger Investitionen in die Ausbildung unseres Teams ist.
+  faq:
+    meta:
+      title: FAQ - Ingsoftware
+      description: FAQ über unser Unternehmen und unsere Prozesse - wir werden versuchen, alle Ihre Fragen zu beantworten, bevor Sie sie überhaupt stellen.
+      link: https://www.ingsoftware.ch/faq
+    main-heading: FAQ
+    heading: FAQ über unser Unternehmen und unsere Prozesse - wir werden versuchen, alle Ihre Fragen zu beantworten, bevor Sie sie überhaupt stellen.
+    question-letter: F
+    answer-letter: A
+    general:
+      title: Allgemeines
+      q-1: Was sind Ihre Arbeitszeiten, in welcher Zeitzone sind Sie?
+      a-1-1: Schweiz liegt in der Zeitzone UTC+1 (Mitteleuropäische Zeit) was uns wenig bis gar keinen Zeitunterschied zu den meisten europäischen Hauptstädten gibt. Darüber hinaus passen unsere Teams ihre Arbeitszeiten oft an die Projektziele des Kunden an.
+      a-1-link: " "
+      a-1-link-text: " "
+      a-1-2: " "
+      q-2: Mit wem werde ich sprechen, wenn wir mit der Arbeit beginnen?
+      a-2-1: "Abhängig von der "
+      a-2-link: how-to-engage
+      a-2-link-text: Art des Auftragsmodels
+      a-2-2: " können Sie wählen, ob Sie eng mit unserem Management-Team kommunizieren oder direkt mit einem Projektmanager/Teamleiter sprechen möchten, der mit der Durchführung Ihres Projekts beauftragt ist. Die Kommunikation kann über E-Mail, Sprach-/Videokonferenz, Messenger und Mobil/Festnetz erfolgen. Bei Bedarf können auch persönliche Besuche vereinbart werden."
+      q-3: Ich weiß nicht, wie man Anforderungen definiert, können Sie mir helfen?
+      a-3-1: "Sicher, "
+      a-3-link: contact
+      a-3-link-text: senden Sie uns Ihre ersten Projektinformationen 
+      a-3-2: " und ein Mitarbeiter wird sich mit Ihnen in Verbindung setzen, um die Details zu klären. Zusammen mit unseren Experten erstellen wir einen klaren und nachvollziehbaren Plan, wie Sie Ihre Idee in die Tat umsetzen können."
+      q-4: Muss ich etwas über Softwareentwicklung wissen?
+      a-4-1: "Überhaupt nicht. "
+      a-4-link: contact
+      a-4-link-text: " Sie können uns auch dann kontaktieren, wenn Sie nur eine Vorstellung "
+      a-4-2:  davon haben, was Sie tun möchten. Nutzen Sie unser kostenloses Kontaktformular, um Ihre Idee mit eigenen Worten zu beschreiben. Unsere Analysten werden ihr Fachwissen und ihre Fähigkeiten in eine Simulation einbringen und Ihnen einen klaren und visionären Lösungsplan zur Abstimmung vorlegen.
+    pricing:
+      title: Kosten & Verrechnung
+      q-1: Wie viel verrechnen Sie?
+      a-1-1: "Dies hängt von der Art Ihres Anliegens mit uns ab. "
+      a-1-link: how-to-engage
+      a-1-link-text: Es gibt drei Kernmodelle, nach denen wir berechnen
+      a-1-2: ": Projektbezogen, Time & Material, dediziertes Team. Jeder Engagement-Plan bietet seinen Nutzen für unsere Kunden. Im Falle eines projektbezogenen Engagements wird ein Pauschalbetrag berechnet. Wenn Sie planen, ein großes Team für ein Projekt zu haben, ist der beste Weg, dies zu tun, indem Sie sich für ein dediziertes Team entscheiden, da die Gebühr verteilt ist und Sie im Gegenzug praktisch eine Erweiterung Ihres eigenen internen Personals erhalten. Zu guter Letzt, wenn Sie unsere Dienstleistungen nur selten in Anspruch nehmen wollen oder wenn Sie sich im Voraus nicht ganz sicher sind, ist die Entscheidung für “Time und Material” wahrscheinlich die beste Option für Sie."
+      q-2: Wie viel wird mich mein Projekt kosten?
+      a-2-1: "Es ist schwierig, diese Frage in der FAQ-Sektion zu beantworten. Für uns ist jede Zusammenarbeit mit einem Kunden einzigartig. Wir müssen Ihre Idee verstehen, um vollständige Informationen über das gewünschte Produkt und seine Funktionalitäten zu erhalten. Dann erstellen wir ein Angebotsdokument und senden es Ihnen zur Überprüfung und ggf. weiteren Anpassung zu. Wenn Sie uns die endgültige Freigabe der funktionalen Anforderungen geben, "
+      a-2-link: our-expertise
+      a-2-link-text: schätzen wir die Kosten auf der Grundlage der enthaltenen Ressourcen, Module und Manpower
+      a-2-2: . Wir beantworten die Folgefragen und erstellen Kalkulationsrichtlinien auf Basis ähnlicher Projektangebote aus der Vergangenheit.
+      q-3: Wie erfolgt die Rechnungsstellung?
+      a-3-1: "Der Rechnungsprozess kann "
+      a-3-link: how-to-engage
+      a-3-link-text: je nach Ihrem Engagement-Modell
+      a-3-2: " variieren. Im “Time und Material” Modell protokollieren wir unsere Zeit und stellen Ihnen alle zwei Wochen eine Rechnung sowie einen transparenten und klaren Bericht über die geleisteten Arbeitsstunden für Ihr Projekt zur Verfügung. Wir sind der Meinung, dass dies der transparenteste und unkomplizierteste Weg ist, Ihnen Rechnungen zu stellen. Wenn Sie sich für das Modell eines dedizierten Teams entscheiden, werden wir Ihnen monatlich eine Rechnung ausstellen. Bei Projekt-Outsourcing mit festen Budgets berechnen wir Ihnen nach der endgültigen Kostenkalkulation mit Ihnen 30% des Budgets, die restlichen 70% werden nach erfolgreicher Projektabwicklung in Rechnung gestellt. Letztendlich gibt es keine strengen Abrechnungsregeln und wir sind bereit, gemeinsam mit Ihnen die bevorzugte Vorgehensweise festzulegen."
+      q-4: Welche Zahlungsmodelle akzeptieren Sie?
+      a-4-1: Wir akzeptieren die üblichen Banküberweisungen sowie PayPal- und Bitcoin-Zahlungen. Zu Ihrer Bequemlichkeit können wir die Zahlung auch über Drittanbieterdienste wie Freelancerplattformen abwickeln.
+      a-4-link: " "
+      a-4-link-text: " "
+      a-4-2: " "
+    projects:
+      title: Projekte
+      q-1: Kann ich mitverfolgen, was Sie in meinem Projekt machen?
+      a-1-1: "Ja, wir erstellen tägliche und wöchentliche Statusberichte, teilen die notwendigen Ressourcen und kommunizieren ständig, damit Sie Klarheit darüber haben, was mit Ihrem Projekt passiert. "
+      a-1-link: company
+      a-1-link-text: "Wir legen großen Wert auf Transparenz"
+      a-1-2: "."
+      q-2: Kann ich Pläne, Funktionen usw. während der Projektlaufzeit anpassen?
+      a-2-1: Sicher. Flexibilität ist eine unserer wichtigsten Prioritäten. Wir werden Sie über die besten Feature-Mixes auf dem Laufenden halten und Sie bei der Entwicklung Ihres aktuellen Engagement-Plans mit uns unterstützen, wenn sich dies als die beste Lösung für Ihre Anpassung der Geschäftsziele erweist.
+      a-2-link: " "
+      a-2-link-text: " "
+      a-2-2: " "
+      q-3: Wem gehört der Code und die Designs, die Sie während des Projekts produzieren?
+      a-3-1: Sie sind der Besitzer von allem. Wir sind nur Dienstleister. Bevor wir mit der Zusammenarbeit beginnen, unterzeichnen wir einen Rahmenvertrag, der Ihr Eigentum an allen Leistungen bescheinigt.
+      a-3-link: " "
+      a-3-link-text: " "
+      a-3-2: " "
+      q-4: Bieten Sie Projektmanagement an?
+      a-4-1: Ja, im Rahmen unseres Projekt-Outsourcing-Engagementplans wird ein Projektleiter ernannt, der ständig den Projektstatus kommuniziert und Ihnen direkt berichtet. Sie können diesen Projektmanager als Ihren Hauptansprechpartner auf unserer Seite wählen.
+      a-4-link: " "
+      a-4-link-text: " "
+      a-4-2: " "
+    expertise:
+      title: Expertise & Mitarbeiter
+      q-1: Sprechen alle Ihre Entwickler fließend Englisch?
+      a-1-1: Ja, das tun sie!
+      a-1-link: " "
+      a-1-link-text: " "
+      a-1-2: " "
+      q-2: Kann ich Ihre Entwickler auch vor Ort einsetzen?
+      a-2-1: Wenn Ihr Projekt wirklich eine Programmier-Task Force vor Ort erfordert, können wir die notwendigen Vorkehrungen treffen. Es fallen jedoch zusätzliche Kosten für Reise, Unterkunft und Verpflegung an.
+      a-2-link: " "
+      a-2-link-text: " "
+      a-2-2: " "
+      q-3: Kann ich einen Vollzeit-Programmierer von Ihnen abwerben und ihn in mein Unternehmen holen?
+      a-3-1: Leider nicht. Wenn Sie sich jedoch unser dediziertes Team-Engagement-Modell ansehen, bieten wir Ihnen die Möglichkeit, Ihr internes Entwicklungsteam virtuell zu erweitern, was genau die richtige Antwort auf Ihre Bedürfnisse sein könnte.
+      a-3-link: " "
+      a-3-link-text: " "
+      a-3-2: " "
+      q-4: Haben Sie Grafikdesigner?
+      a-4-1: "Oh ja. Wir bieten "
+      a-4-link: branding-and-design
+      a-4-link-text: "Branding- und Design-Dienstleistungen"
+      a-4-2: " auf Basis von 'Time und Material' oder auf Basis von projektbezogenen Lieferungen an. Bei der Auswahl eines dedizierten Teams können Sie auch großartiges Grafikdesign von uns wählen, um Ihnen zu helfen, das beste Branding für Ihr Projekt zu definieren."
+      q-5: Verwenden Sie Open-Source-Technologie?
+      a-5-1: "Ja, wir profitieren von Open-Source-Frameworks, Bibliotheken, Tools und sogar von ganzen Projekten oder auch unseren eigenen proprietären Bibliotheken. Wir haben uns entschieden, das Rad nicht neu zu erfinden, besonders wenn es bereits vorhandene Werkzeuge zur Problemlösung gibt. "
+      a-5-link: custom-software-development
+      a-5-link-text: "Wir programmieren jedoch die einzigartigen Teile, die Ihr Produkt individuell und wertvoll machen, immer von Grund auf neu"
+      a-5-2: "."
+  our-expertise:
+    meta:
+      title: Unsere Expertise - Ingsoftware
+      description: Unser Team kann eine breite Palette von Fachwissen in den Bereichen Mobile-, Web-, Desktop- und Enterprise-Softwaretechnologie in allen wichtigen Entwicklungsumgebungen, Frameworks und Plattformen vorweisen.
+      link: https://www.ingsoftware.ch/unsere-expertise
+    main-heading: Unsere Expertise
+    heading: Unser Team kann eine breite Palette von Fachwissen in den Bereichen Mobile-, Web-, Desktop- und Enterprise-Softwaretechnologie in allen wichtigen Entwicklungsumgebungen, Frameworks und Plattformen vorweisen.
+    heading-img-alt: Glasses
+    ui-ux-design:
+      title: UI/UX Design
+      p-1-1: "Wir hören aufmerksam zu, arbeiten kreativ und "
+      p-1-link: branding-and-design
+      p-1-link-text: verfolgen bei jedem von uns entwickelten Produkt einen benutzerorientierten Designansatz
+      p-1-2: ". Ob Web- oder mobile Apps."
+      p-2-1: Wir glauben fest an den individuellen Entwicklungsansatz und lehnen Cookie-Cutter-Lösungen im Design ab. Angetrieben vom Designgedanken versuchen wir, komplexe Probleme zu lösen und gewünschte Lösungen zu finden, indem wir Logik, Kreativität, Intuition und systemisches Denken einsetzen.
+      p-2-link: " "
+      p-2-link-text: " "
+      p-2-2: " "
+    fe-technologies:
+      title: Front - End Technologien
+      p-1-1: Das Frontend ist der zentrale Treffpunkt zwischen dem Endanwender und unserem System. Da wir uns der Bedeutung bewusst sind, legen wir natürlich besonderen Wert auf die Entwicklung von Frontends.
+      p-1-link: " "
+      p-1-link-text: " "
+      p-1-2: " "
+      p-2-1: "Basierend auf einer Reihe von modernen Web-Entwicklungsprinzipien "
+      p-2-link: custom-software-development
+      p-2-link-text: entwickeln wir ansprechende und intuitive Frontend-Anwendungen
+      p-2-2: ". Mit der Nutzung neuer Funktionen von HTML5 und CSS3 in Verbindung mit JavaScript/jQuery und einer Reihe gängiger Frameworks (z.B. Bootstrap, HTML5 Boilerplate, AngularJS) wollen wir aktuelle Trends nutzen. Um die Ziele unserer Kunden zu erreichen, setzen wir modulare Entwicklungsmethoden wie OOCSS / BEM / SMACSS ein und stellen Ihnen reaktionsschnelle Web-Applikationen zur Verfügung, die über Browser- und Plattformgrenzen hinweg verfügbar sind."
+    be-technologies:
+      title: Back - End Technologien
+      p-1-1: "Egal, ob wir eine Web-App, ein kundenspezifisches Backend-System oder eine API entwickeln - "
+      p-1-link: software-prototyping
+      p-1-link-text: wir erstellen Architekturen, die am besten zu Ihrem Produkt passen
+      p-1-2: ". Die von uns verwendeten Technologien sind gut dokumentiert, etabliert, sicher und skalieren gut."
+      p-2-1: Es geht darum, ein Produkt zu entwickeln, das nahtlos funktioniert, die Marktbedürfnisse erfüllt und ein angenehmes Benutzererlebnis schafft. Wir arbeiten mit einer Vielzahl von Kunden zusammen und haben eine große Erfahrung in der Entwicklung von Backend-Lösungen für Handelsplattformen und Bankenlösungen, Enterprise Resource Planning (ERP)-Systemen, Client Relationship Management (CRM)-Systemen, Buchhaltungslösungen und Backends für Web- und mobile Anwendungen.
+      p-2-link: " "
+      p-2-link-text: " "
+      p-2-2: " "
+    data-storage:
+      title: Datenspeicherung
+      p-1-1: Wir betrachten Datenbanken als die Grundlage jeder Anwendung, die wir erstellen. Deshalb legen wir großen Wert auf den Prozess des Datenbankdesigns.
+      p-1-link: " "
+      p-1-link-text: " "
+      p-1-2: " "
+      p-2-1: "Unsere Datenbankentwickler und Programmierer verfügen über fundierte Kenntnisse und "
+      p-2-link: case-studies
+      p-2-link-text: umfangreiche praktische Erfahrungen, die sie durch den erfolgreichen Abschluss anspruchsvoller Projekte
+      p-2-2: " mit verschiedenen, stabilen und getesteten Datenbankmodellen erworben haben."
+    infrastructure:
+      title: Infrastruktur
+      p-1-1: Wir sind uns der Bedeutung des Aufbaus einer flexiblen und kostengünstigen IT-Infrastruktur bewusst, um die IT in ein skalierbares "as a service"-Modell zu überführen. Deshalb verfolgen wir einen ganzheitlichen Ansatz zur Lösung von komplexen Herausforderungen und Infrastrukturproblemen.
+      p-1-link: " "
+      p-1-link-text: " "
+      p-1-2: " "
+      p-2-1: Wir unterstützen Unternehmen bei der Planung, Architektur, Erstellung, Migration und Integration von IaaS-Lösungen in verschiedenen Cloud-Umgebungen. Ob privat, öffentlich oder multicloud, unsere umfassende Expertise in der Zusammenarbeit mit großen Anbietern von Cloud-Infrastrukturen hilft Ihnen, Ihre IaaS-Lösung zu erweitern und nahtlos zu skalieren.
+      p-2-link: " "
+      p-2-link-text: " "
+      p-2-2: " "
+  how-to-engage:
+    meta:
+      title: Engagement Modelle - Ingsoftware
+      description: Unsere Engagement-Modelle sind so flexibel, dass sie auf jedes Entwicklungsprojekt angewendet werden können.
+      link: https://www.ingsoftware.ch/engagement-modelle
+    main-heading: Engagement Modelle
+    heading: Unsere Engagement-Modelle sind so flexibel, dass sie auf jedes Entwicklungsprojekt angewendet werden können.
+    heading-img-alt: 3 redende Männer
+    scope-people-time:
+      title: Umfang, Personen und Zeit
+      text-1: "Das sind die Eckpfeiler eines guten Plans. Unsere Kernmodelle können individuell angepasst und kombiniert werden,"
+      text-2: um die beste Lösung für Ihre Projektanforderungen zu finden.
+    q-1: Was sind die Vorteile?
+    and-text: "Beinhaltet:"
+    q-2: Wie funktioniert das?
+    boxes-title: Wo sollte man dieses Modell verwenden?
+    fixed-model:
+      icon-alt: Fixed icon
+      title: Festpreis-Modell
+      check1: Endgültige Preise
+      check2: Definierte Deadlines
+      check3: Vorhersagbarkeit der Entwicklung
+      check4: Kein Management auf Ihrer Seite
+      check5: Dedizierter Projektmanager
+      check6: Anwendungstests und Qualitätssicherung
+      check7: 30-tägige Garantiezeit nach Lieferung Ihres Projekts.
+      p-1: Der Vertrag basiert auf einer festen Schätzung der zu erbringenden Leistungen.
+      p-2-1: Bevor das Projekt beginnt, bespricht der zuständige Business Analyst und Projektmanager jeden Aspekt des Projekts, um den Bedarf und die Kosten abzuschätzen.
+      p-2-link: " "
+      p-2-link-text: " "
+      p-2-2: " "
+      p-3: Sobald die Projektanforderungen und -schätzungen festgelegt sind, erstellt unser dedizierter Projektmanager einen klaren Plan und definiert die Termine für das Projekt.
+      p-4: Da alle Projektdetails im Voraus definiert sind, kann das Projektmanagement an den zuständigen Projektmanager weitergegeben werden. Eine aufwändige Überprüfen Ihrerseits ist nicht erforderlich.
+      blue-boxes:
+        p-1-1: Das Festpreismodell eignet sich am besten für kleine Projektumfänge. Damit dieses Modell für Ihr Projekt funktioniert, bedarf es einer gründlichen Planung und klarer Projektanforderungen.
+        p-1-link: " "
+        p-1-link-text: " "
+        p-1-2: " "
+        box1: Kleine Projekte
+        box2: mvps
+        box3: Feste Deadlines
+        box4: Begrenztes Budget
+        box5: Klare Anforderungen
+    time-model:
+      icon-alt: Zeit Icon
+      title: “Time und Material” Modell
+      check1: Flexible Anforderungen
+      check2: Stundengenau
+      check3: Produktqualität
+      check4: Transparenz
+      check5: Dedizierter Projektmanager
+      check6: Anwendungstests und Qualitätssicherung
+      check7: " "
+      p-1: Dieses Modell beinhaltet kontinuierliche Arbeit und laufende Zahlungen. Als unser Kunde werden Sie eine größere Rolle im Entwicklungsprozess spielen.
+      p-2-1: Das Projekt ist in Sprints unterteilt und führt zu einem MVP als erstem, wichtigeren Meilenstein. Features können während des Entwicklungsprozesses diskutiert, visualisiert, prototypisiert und hinzugefügt - und auch wieder entfernt - werden.
+      p-2-link: " "
+      p-2-link-text: " "
+      p-2-2: " "
+      p-3: Mehrere Iterationen, Tests und QS gewährleisten die Bereitstellung hochwertiger Software.
+      p-4: Das "Time und Material" Modell bietet Transparenz und ermöglicht es Ihnen, den Projektfortschritt zu verfolgen. Dazu gehört auch die regelmäßige Berichterstattung über die geleistete Arbeit.
+      blue-boxes:
+        p-1-1: "Das “Time und Material” Modell funktioniert am besten bei "
+        p-1-link: tech-force-for-startups
+        p-1-link-text: Projekten, die flexible Abläufe, agile Ausführung und kontinuierliche Entwicklung ohne festgelegten Arbeitsumfang erfordern
+        p-1-2: ". Damit dieses Modell für Sie funktioniert, müssen Sie bereit sein, sich an dem Projekt zu beteiligen - Ihre Vision und Zustimmung sind ein wichtiger Teil des Entwicklungsprozesses."
+        box1: Flexible Anforderungen
+        box2: Unklare Projektbewertung
+        box3: Flexibilität ist eine Voraussetzung
+        box4: Bereitschaft zur Projektleitung
+        box5: Langfristige Projekte
+    dedicated-model:
+      icon-alt: Zugewiesenes Icon
+      title: Dediziertes Team Modell
+      check1: Qualifizierte Entwickler, die exklusiv für Sie arbeiten
+      check2: Möglichkeit der Auswahl und Verwaltung des Teams
+      check3: Höchste Kontrolle und Flexibilität
+      check4: Vorhersehbares Budget und Kostenoptimierung
+      check5: Feste monatliche Kosten pro Programmierer
+      check6: Direkter Zugriff auf jedes Teammitglied
+      check7: " "
+      p-1: Dieses Modell ermöglicht den Auf- oder Ausbau Ihres Kernteams für risikoarme Tätigkeiten.
+      p-2-1: Als unser Kunde haben Sie die Möglichkeit, einen Entwickler auszuwählen, der an Ihrem Projekt arbeitet. Wir stellen keine Freelancer ein. Alle unsere Entwickler arbeiten hauptberuflich bei Ingsoftware. Wir arbeiten kontinuierlich an der Entwicklung und Pflege einer starken Forschungs- und Entwicklungskultur. Wir bieten Entwicklern eine optimale Umgebung für die Arbeit an Ihrem Projekt, was uns wiederum ermöglicht, ein Unternehmen mit hoher Mitarbeiterbindung und geringer Fluktuation zu sein. Und Sie werden in direktem Kontakt mit einem solchen Team stehen.
+      p-2-link: " "
+      p-2-link-text: " "
+      p-2-2: " "
+      p-3: " "
+      p-4: " "
+      blue-boxes:
+        p-1-1: "Das dedizierte Teammodell hilft beim Aufbau "
+        p-1-link: case-studies
+        p-1-link-text: langfristiger strategischer Partnerschaften
+        p-1-2: ". Im Laufe der Jahre haben wir viele davon hergestellt."
+        box1: Langjährige Partnerschaften
+        box2: Vorhersehbares Budget
+        box3: Vertrauenswürdige Beziehung
+        box4: Devops Kostenoptimierung
+        box5: Teamerweiterung
+
+how-we-do-it:
+  software-prototyping:
+    meta:
+      title: Software Prototyping - Ingsoftware
+      description: Die Durchführung von Software-System-Prototyping trägt zu einem besseren Verständnis der Funktionalität bei, erkennt potenzielle Probleme und hilft beim Setzen der richtigen Prioritäten.
+      link: https://www.ingsoftware.ch/software-prototyping
+    main-heading: Software Prototyping
+    heading: Die Durchführung von Software-System-Prototyping trägt zu einem besseren Verständnis der Funktionalität bei, erkennt potenzielle Probleme und hilft beim Setzen der richtigen Prioritäten.
+    heading-img-alt: Software Monitor
+    proto-knowledge:
+      title: Woher wissen Sie, ob Sie Software-Prototyping benötigen?
+      text: Beginnen Sie mit der Beantwortung folgender Fragen
+      icon-alt: Fragezeichen
+      q-1: HABEN SIE BEREITS USABILITY-TESTS DURCHGEFÜHRT UND SICH ENTSCHIEDEN, WAS EIN INTUITIVER WEG FÜR IHRE BENUTZER WÄRE, UM DAS BESTE AUS IHRER ANWENDUNG HERAUSZUHOLEN?
+      q-2: HABEN SIE BEREITS DEN USABILITY-TEST DURCHGEFÜHRT UND ENTSCHIEDEN, WAS EIN INTUITIVER WEG FÜR IHRE BENUTZER WÄRE, UM DAS BESTE AUS IHRER ANWENDUNG HERAUSZUHOLEN?
+      q-3: HABEN SIE DIE BEDÜRFNISSE IHRER BENUTZER AUSREICHEND UNTERSUCHT, UM HOCHGRADIGE FRUSTRATION DER BENUTZER ZU VERMEIDEN?
+      q-4: HABEN SIE BEREITS EINE LISTE ALLER NOTWENDIGEN FEATURES UND FUNKTIONEN FÜR IHR PRODUKT ERSTELLT, DAMIT SIE DIE KOSTEN GENAU ABSCHÄTZEN UND DIE EINFÜHRUNG RECHTZEITIG PLANEN KÖNNEN?
+      text-2: Wenn Sie zögern, eine positive Antwort auf eine dieser Fragen zu geben, sollten Sie die Erstellung eines Software-Prototyps in Betracht ziehen, bevor Sie mit Ihrem Projekt fortfahren.
+    proto-helps:
+      title: Die Erstellung eines Software-Prototypen hilft
+      icon-alt: Kreis Flugzeug
+      box-1-1: Um den Geschäftsprozess
+      box-1-2: zu simulieren
+      box-2-1: Entwicklungsrisiken
+      box-2-2: zu minimieren
+      box-3-1: Investitionen
+      box-3-2: zukontrollieren
+    proto-project:
+      title: Bringen Sie Ihr Projekt voran
+      text-1-1: Treffen Sie keine Annahmen. Visualisieren, prototypisieren und validieren Sie Ihre Idee. Streben Sie nach Wachstum, Optimierung von Anfang
+      text-1-2: an und konzipieren Sie ein Produkt, das sowohl nützlich als auch nutzbar ist.
+      box-1-icon-alt: Anforderungen icon
+      box-1-title: ANFORDERUNGSMANAGEMENT
+      box-1-text: Unter Berücksichtigung der Grundidee und der Ziele Ihrer Software helfen wir Ihnen, die am besten auf das Ziel ausgerichtete Form des Prototypen und das beste Verfahren für seine Realisierung zu identifizieren.
+      box-2-icon-alt: Zeiger Hand icon
+      box-2-title: KLICKBARE WIREFRAMES
+      box-2-text: Wir entwickeln Prototypen für Ihre Software oder Produktlösung, die es ermöglichen, die Funktionalität zu bewerten und das System mit Datenmustern zu testen. Dabei spielen wir verschiedene Szenarien durch.
+      box-3-icon-alt: Mockups icon
+      box-3-title: STATISCHE MOCKUPS (SKIZZEN)
+      box-3-text: Für konzeptionelle Entwürfe und einfache Softwaresysteme erstellen wir einen umfangreichen Satz von Interface-Skizzen für Aufgaben-/Bildschirmabläufe, die es Ihnen ermöglichen, Ihre Vision zu verwirklichen.
+      box-4-icon-alt: Uhr
+      box-4-title: ABSCHÄTZUNG DER VOLLSTÄNDIGEN PRODUKTENTWICKLUNG
+      box-4-text-1: "Schließlich verfeinern wir den Prototyp, bis sich beide Parteien einig sind: Das ist die offizielle 'Definition of done'. Dies ermöglicht es beiden Parteien, die "
+      box-4-text-link: how-to-engage
+      box-4-text-link-text: genauesten Schätzungen von Entwicklungszeit, Kosten und Aufwand
+      box-4-text-2: " zu treffen."
+      box-5-icon-alt: Sichtbar icon
+      box-5-title: VISUELLES MATERIAL
+      box-5-text-1: "Unser dediziertes Team von Grafikdesignern stellt in der Schlussphase eine interaktive GUI für Ihre Anwendung zur Verfügung, die Ihnen ein "
+      box-5-text-link: branding-and-design
+      box-5-text-link-text: vollständiges Erscheinungsbild Ihrer zukünftigen Software oder Lösung
+      box-5-text-2: " bietet."
+  software-development:
+    meta:
+      title: Softwareentwicklung - Ingsoftware
+      description: Seit 2009 bieten wir unseren Kunden, die vom Startup bis zum multinationalen Unternehmen reichen, High-End-Softwareentwicklungsdienstleistungen an.
+      link: https://www.ingsoftware.ch/kundenspezifische-softwareentwicklung
+    main-heading: Softwareentwicklung
+    heading: Seit 2009 bieten wir unseren Kunden, die vom Startup bis zum multinationalen Unternehmen reichen, High-End-Softwareentwicklungsdienstleistungen an.
+    heading-img-alt: Tablett und Gläser
+    ing-text-part1: Ingsoftware verfügt über ein flexibles, dynamisches und qualitätsorientiertes Team, das Softwareentwicklungslösungen
+    ing-text-part2: im Einklang mit den angesagtesten Branchentrends ausarbeitet. Mit uns an Ihrer Seite
+    ing-text-part3: haben Sie bessere Chancen, Ihre Unternehmensproduktivität zu steigern.
+    ing-expertise:
+      app-item-1-img-alt: Mobiltelefon
+      app-item-1-title: Mobile Anwendung
+      app-item-1-text: Wir entwickeln kundenspezifische, bestens optimierte und intuitive native mobile Anwendungen für Android und iOS.
+      app-item-1-check1: Entwicklung mutiger neuer Produkte
+      app-item-1-check2: Lösen von Problemen aus der Praxis
+      app-item-1-check3: Verbesserung von Geschäftsprozessen
+      app-item-2-img-alt: Mobiltelefon
+      app-item-2-title: Web Anwendung
+      app-item-2-text: Wir liefern schnelle, sichere und skalierbare Webanwendungen, die mit modernsten, zuverlässigen Webtechnologien erstellt werden.
+      app-item-2-check1: Intelligente und ergebnisorientierte Geschäftsanwendungen
+      app-item-2-check2: Schöne und markengerechte Websites
+      app-item-2-check3: Effiziente und sichere E-Commerce- und Webportale
+      app-item-3-img-alt: Smartwatch
+      app-item-3-title: Echtzeit-Applikation
+      app-item-3-text: Wir entwickeln maßgeschneiderte Apps, die Echtzeitdaten in genau definierten Intervallen nach der Verarbeitung bearbeiten.
+      app-item-3-check1: Überwachung von Sensordaten
+      app-item-3-check2: Stream-Verarbeitung für IoT-Geräte
+      app-item-3-check3: Erkennung von Betrug (Fraud) und Spam
+    get-started:
+      text-q: Haben Sie eine Idee für Ihr nächstes großes Projekt?
+      text-a: Lassen Sie uns mit dem ersten Schritt beginnen!
+    software-growth:
+      title: Wir entwickeln Software, die auf Wachstum ausgelegt ist
+      text: Leistungsstarke Weblösungen basieren nicht auf einer bestimmten Technologie oder einem bestimmten Framework. Sie sind nach einer Vision gebaut, die auf Wachstum ausgerichtet ist, um Ihr Geschäftsmodell bzw. Ihre Marke zu stärken - und da kennen wir uns aus. Deshalb beginnen wir mit einem umfassenden 360-Grad-Rundumblick auf Ihre Geschäftsanforderungen, -ziele und -vorgaben. Unsere funktionsübergreifende Teamstruktur und unser multidisziplinärer kooperativer Ansatz gewährleisten fundierte Fähigkeiten, einen robusten Prozess und Flexibilität bei der Entwicklung erstklassiger Lösungen.
+      box-1-title: VOLLSTÄNDIGE KUNDENSPEZIFISCHE SOFTWARE-LÖSUNGEN
+      box-1-text-1: "Wir bieten Full-Cycle-Entwicklungsdienstleistungen, die über die grundlegenden Projektanforderungen hinausgehen. Mit agilen und linearen Entwicklungsprozessen sind wir vertraut und können "
+      box-1-text-link: how-to-engage
+      box-1-text-link-text: einen einzigartigen Ansatz entwickeln, der Ihren Projektspezifikationen am besten entspricht
+      box-1-text-2: "."
+      box-2-title: LEGACY SOFTWARE UPGRADE
+      box-2-text-1: "Wir bieten Software-Upgrades für bestehende Altsysteme an, um deren Look and Feel ohne Datenverlust zu modernisieren. Alles mit dem Ziel, "
+      box-2-text-link: software-prototyping
+      box-2-text-link-text: die Benutzerfreundlichkeit und Nutzung zu verbessern
+      box-2-text-2: "."
+      box-3-title: INTEGRATIONEN VON UNTERNEHMENSLÖSUNGEN
+      box-3-text-1: "Wenn es um robuste Integrationen geht, die kritische Geschäftsinformationen aus verschiedenen Systemen sammeln und "
+      box-3-text-link: branding-and-design
+      box-3-text-link-text: Konsolidierung und intuitive Präsentation erfordern
+      box-3-text-2: ", sind wir definitiv Ihre erste Wahl als Technologiepartner."
+      box-4-title: TECHNOLOGIEBERATUNG
+      box-4-text-1: "Wir unterstützen unsere Kunden während des gesamten Entwicklungsprozesses mit professioneller "
+      box-4-text-link: our-expertise
+      box-4-text-link-text: Beratung bei der Auswahl von Technologien und Anwendungsarchitekturen
+      box-4-text-2: ", um konsistente Skalierbarkeit und Datensicherheit zu gewährleisten."
+    get-started-2:
+      text-part1: Wir passen unseren Ansatz auf Basis des Projekts und
+      text-part2: der Anforderungen sowie der Kundenbedürfnisse an.
+    ing-tech:
+      title-part1: Wir verwenden geprüfte, zuverlässige und erstklassige Technologien unter
+      title-part2: sicherheitsgeprüften Bedingungen
+      item-1-icon-alt: Web Monitor
+      item-1-title: WEB-FRONTEND-TECHNOLOGIEN
+      item-2-icon-alt: Mobil
+      item-2-title: MOBILE FRONTEND-TECHNOLOGIEN
+      item-3-icon-alt: Backend Technologie
+      item-3-title: BACKEND-TECHNOLOGIEN
+      item-4-icon-alt: Datenspeicher
+      item-4-title: DATENSPEICHER TECHNOLOGIEN
+      item-5-icon-alt: Web Infrastruktur
+      item-5-title: INFRASTRUKTUR-TECHNOLOGIEN
+  branding-and-design:
+    meta:
+      title: Branding und Design - Ingsoftware
+      description: Markenbildung (Branding) und Design erfordern echte Innovation und Liebe zum Detail. Unser pixelgenau arbeitendes, UX-getriebenes Team hat die Fähigkeiten für beides und mehr.
+      link: https://www.ingsoftware.ch/branding-und-design
+    main-heading: Branding und Design
+    heading: Markenbildung (Branding) und Design erfordern echte Innovation und Liebe zum Detail. Unser pixelgenau arbeitendes, UX-getriebenes Team hat die Fähigkeiten für beides und mehr.
+    heading-img-alt: Marke Mobil
+    ing-brand:
+      title: Branding ist das, was Ihr Unternehmen mit den Menschen verbindet
+      text-part1: In einer digital geführten Kommunikationslandschaft werden Designstrategien, die die menschliche Interaktion stärken, immer wichtiger. Es geht um mehr
+      text-part2: als nur das Design des richtigen Logos. Es ist der gesamte strategische Ansatz, der den Designprozess antreibt, um Vertrauen und einen Wiedererkennungswert zu schaffen.
+    ing:
+      title: Ihre Marke - Innen und Außen
+      text-part1: Wir verinnerlichen Ihre Markenstrategie - deren Innen- und Außenseite. Auf diese Weise erfahren wir mehr über Ihr Unternehmen und die Menschen,
+      text-part2: zu denen Sie sich mit verbinden. Unser Ziel ist es, eine Geschichte zu erzählen und darzustellen, die all das ausdrückt. Um eine klare Botschaft zu vermitteln,
+      text-part3: die unabhängig vom Kommunikationskanal erkannt wird.
+    brand-design:
+      title: Wir tun dies durch...
+      app-item-1-img-alt: Checkliste
+      app-item-1-title: VERBESSERUNG EINER BESTEHENDEN MARKE
+      app-item-1-text-1: Die Zeiten ändern sich und Marken entwickeln sich, um sich an neue Gegebenheiten anzupassen. Und wir sind hier, um Ihnen zu helfen, die Verbindung zu Menschen aufzufrischen, die sich mit Ihrer Marke beschäftigen.
+      app-item-1-text-2: Unser Designteam hilft Ihnen, ein klares, konsistentes und zusammenhängendes Bild Ihrer Marke zu erstellen und zu kommunizieren, um Ihr Handeln in einer digitalen Kommunikationslandschaft auszurichten.
+      app-item-1-text-3: " "
+      app-item-2-img-alt: Gabelstapler
+      app-item-2-title: AUFBAU NEUER MARKENIDENTITÄTEN
+      app-item-2-text-1: Machen Sie den entscheidenden ersten Schritt zur Etablierung Ihrer visuellen Identität, Ihres Klangs und Ihrer Stimme.
+      app-item-2-text-2: Unser Designteam wird Ihnen helfen, ein einheitliches und konsistentes Markenerlebnis in Ihrer Multichannel-Kommunikationsstrategie zu schaffen.
+      app-item-2-text-3: Wir tun dies, indem wir den Stil, den Klang und die Stimme Ihrer Marke identifizieren, die verbessert werden müssen um bei Ihrer Zielgruppe anzukommen. Wir entwerfen mit Blick auf das Wachstum.
+      app-item-3-img-alt: Flugzeug
+      app-item-3-title: STEIGERUNG IHRER KREATIVEN WERBUNG
+      app-item-3-text-1: Die transformative Darstellung Ihrer Geschichte führt zu sinnvollen Interaktionen und höheren Konversionsraten.
+      app-item-3-text-2: Wir helfen Ihnen, Ihre kreative Kraft zu steigern, ohne den Takt zu verlieren.
+      app-item-3-text-3: Und das tun wir, indem wir kreative Dienstleistungen mit dem Vorteil einer externen Perspektive erbringen.
+    get-started:
+      text-part1: Beginnen wir mit einem Gespräch.
+      text-part2: Um eine großartige Geschichte zu visualisieren, zu entwerfen, zu bauen und zu erzählen.
+    brand-design-team:
+      title: Unser Branding- und Designteam
+      title-left: Wird Ihnen helfen mit
+      check-left-1: MARKENBILDUNG & VISUELLE IDENTITÄT
+      check-left-2: DEFINITION VON TON, SPRACHE UND STRATEGISCHEM MESSAGING
+      check-left-3: BRANDBOOKS UND UMFANGREICHE STYLE GUIDES
+      check-left-4: INHALTLICHE AUSRICHTUNG UND EMPFEHLUNGEN
+      title-right: Und Ihnen bieten
+      check-right-1: WUNDERSCHÖNE MIKROSITES
+      check-right-2: FEHLERFREIE & INTUITIVE APP-DESIGNS
+      check-right-3: KREATIVE MARKETINGMATERIALIEN
+      check-right-4: KUNDENSPEZIFISCHE DIGITALE EINZELANFERTIGUNGEN
+
+case-studies:
+  meta:
+    title: Case Studies - Ingsoftware
+    description: Wir messen unseren Erfolg am Erfolg unserer Kunden. Deshalb arbeiten wir mit unseren Geschäftspartnern und Mitarbeitern sehr intensiv zusammen.
+    link: https://www.ingsoftware.ch/case-studies
+  main-heading: Case Studies
+  heading: Wir messen unseren Erfolg am Erfolg unserer Kunden. Deshalb arbeiten wir mit unseren Geschäftspartnern und Mitarbeitern sehr intensiv zusammen.
+  heading-img-alt: Glasses
+  solution-title: Die Lösung die Ingsoftware lieferte
+  technology-title: Verwendete Technologien
+  team-title: Teamliste
+  dev: Entwickler
+  designer: Webdesigner
+  designers: Webdesigner
+  nav-link-more: und mehr...
+  gbi:
+    text-bold: Gold Bullion International
+    text: " ist ein führender institutioneller Edelmetallanbieter für Privatanleger und die Vermögensverwaltungsbranche. Die Technologieplattform von GBI ermöglicht es Kunden, ihre Edelmetallanlagen direkt über GBI oder über ihre bestehenden Vermögensverwaltungskonten zu erwerben und zu verwalten."
+    problem-title: Das Problem, mit dem GBI konfrontiert war
+    problem-text-part1: GBI benötigte ein professionelles und qualifiziertes Team, das eine qualitativ hochwertige Handelsplattform entwickeln und pflegen konnte und gleichzeitig gut skalierte, um die Anforderungen mehrerer Partner weltweit zu erfüllen.
+    problem-text-part2: Ingsoftware wurde mit den Aufgaben der Implementierung, des Managements und der Organisation verschiedener Integrationen betraut, die oft in kurzen Zeitfenstern durchgeführt werden mussten.
+    solution-text-part1: Ingsoftware half bei der Anpassung der Plattform, um sie vollständig in bestehende Kundenplattformen zu integrieren. Neben der Unterstützung der nötigen Funktionen für die Integration haben wir auch das GBI Edelmetall-Handelsportal und das Direct to Client Portal (E-Commerce-Lösung) erstellt und gewartet, wo alle Aufträge, Finanzierungen und Anweisungen elektronisch durch den Endkunden erteilt werden.
+    solution-text-part2: Die Plattform verbesserte die Automatisierung des Betriebs, ermöglichte die Integration mit Banken und ist eine Online-E-Commerce-Plattform. Es vergrößerte die Gesamtreichweite für den steigenden Umsatz der Kunden und senkte die Betriebskosten.
+    quote: "Ingsoftware war und ist eine wertvolle Ressource. Erfahrene und sachkundige Entwickler. Hohes Maß an Qualität, Reaktionsfähigkeit und Kommunikation. "
+    quote-bold: Fähigkeit, sich nach Bedarf an die Anforderungen anzupassen. Sehr zu empfehlen.
+  beyond-pulse:
+    text-bold: Beyond Pulse
+    text: " ist das ultimative Diagnosewerkzeug für Fußballtraining, das die Trainer mit den wichtigsten Gesundheitsdaten versorgt, was zu einem besseren Training, einer verbesserten Gesundheit und Leistung der Spieler führt. Beyond Pulse ist der Ansicht, dass jeder einzelne Spieler und Trainer im gesamten Spiel Zugang zu einer erschwinglichen mobilen Technologie haben sollte. Diese Daten können verwendet werden, um die Weiterentwicklung von Spieler und Trainer aus pädagogischer und gesundheitlicher Sicht zu unterstützen."
+    problem-title: Das Problem, mit dem Beyond Pulse konfrontiert war
+    problem-text-part1: Als junges Startup-Unternehmen ohne eigenes technisches Team benötigte Beyond Pulse einen Entwicklungspartner, der eine anspruchsvolle Aufgabenstellung erfüllen konnte - mit nachgewiesenem Erfolg in der Produktentwicklung von der Idee bis zur Produktion, Bandbreite und Vielseitigkeit in Bezug auf Kompetenzen, Skalierbarkeit in Bezug auf die Teamgröße und Agilität angesichts der hochdynamischen Startup-Welt.
+    problem-text-part2: " "
+    solution-text-part1: Ingsoftware wurde zunächst mit der Entwicklung einer iOS-App zur Erfassung von Herzfrequenz- und Bewegungskennzahlen von jungen Fußballern beauftragt.
+    solution-text-part2: Die Partnerschaft hat sich schnell erweitert und umfasst die Entwicklung einer umfassenden Plattform, die viele digitale Assets umfasst - von Web-Apps für Trainer und Spieler über mobile Apps (Android und iOS) bis hin zur Ausbildungsplattform für Trainer. Einfach ausgedrückt, ist Ingsoftware die technische Triebfeder für das Produkt Beyond Pulse.
+    quote: "Unser Projekt mit Ingsoftware ist ein großer Erfolg. Sie sind erfahrene Fachleute in den Bereichen Software-Engineering, großartigem Design und Projektmanagement, die uns mit zeitnahen und detaillierten Informationen versorgen und gleichzeitig klar und effektiv kommunizieren. "
+    quote-bold: Würde sie definitiv weiterempfehlen.
+  auvere:
+    text-bold: Auvere
+    text: " kreiert Skulpturen und veredelte 22K- und 24K-Gold-Schmuckstücke für Menschen, die Dinge suchen, die die Schönheit von Gold widerspiegeln. Mitbegründet von der Accessoire-Designerin Gina Love und ihrem Partner Steven Feldman, feiert Auvere die Kunst des handgefertigten Goldschmucks in seiner reinsten Form."
+    problem-title: Das Problem, mit dem Auvere konfrontiert war
+    problem-text-part1: Auvere war gerade erst am Start. Gina, als Chief Creative Officer der Marke, arbeitete an Look, Feel und der Stimme von Auvere. Sie benötigte Hilfe bei der Präsentation ihrer Marke im Internet, bei der Erhöhung der Bekanntheit und bei der Bewerbung und dem Verkauf ihrer Produkte.
+    problem-text-part2: " "
+    solution-text-part1: Ingsoftware war von Anfang an dabei. Wir haben für Auvere einen E-Commerce-Shop entworfen, entwickelt und in Betrieb genommen und arbeiten kontinuierlich an dessen Verbesserung. Zusammen mit Gina als CCO haben wir ein ansprechendes E-Commerce-Erlebnis für die Käufer entwickelt. Wir arbeiten kontinuierlich an der Steigerung ihrer kreativen Werbung durch die Bereitstellung von Marketingmaterial und die Optimierung ihrer Newsletter-Kampagnen.
+    solution-text-part2: " "
+    quote: "Peryton.com arbeitet seit weit über einem Jahr mit dem Ingsoftware-Team zusammen. Unsere Erfahrung lässt sich in einem Wort zusammenfassen: großartig. Dieses Team ist nicht nur kreativ und unglaublich reaktionsschnell, sondern hat auch einen “can do/will do”-Ansatz für Projekte - besonders bei komplexen. "
+    quote-bold: Sie finden immer eine Lösung.
+  familipay:
+    text-bold: Familipay
+    text: " ist als umfassendes Komplettpaket zur Lösung gemeinsamer Herausforderungen von Eltern gedacht - ein digitales Toolset für konfliktfreies gemeinsames Elternsein. Eine geräteübergreifende Online-Lösung, die den Stress lindert, den ein Mangel an elterlicher Kommunikation für ihre Kinder verursachen kann."
+    problem-title: Das Problem, mit dem wir konfrontiert waren
+    problem-text-part1: Wir sehen immer wieder viele Paare mit Kindern, die sich in den ersten Jahren der Ehe trennen oder scheiden lassen. Dies gilt insbesondere für die westliche Welt, wo weniger Eltern von Kindern heiraten. Die Heiratsquote der Eltern ist seit 2000 sowohl in der EU als auch in den USA um fast 50 % gesunken.
+    problem-text-part2: Die Scheidungsrate hingegen liegt bei etwa 50% für alle Ehen. Und wir haben die Mission, das zu lösen.
+    solution-text-part1: Wir bauen Familipay mit und für Familien.
+    solution-text-part2: Wir haben bereits einige Funktionen wie den elterlichen Kalender und die Zahlungsmethoden für Kosten-Rückerstattungen konzeptioniert, da dies die häufigsten Probleme und Themen sind, mit denen Eltern konfrontiert sind. Unser Kernteam aus Softwareentwicklern und UX-Designern wird eng mit den Eltern zusammenarbeiten, um Familipay bis Ende 2019 in Großbritannien zu entwickeln und einzuführen. Und wir sind auf der Suche nach weiteren Investoren, die uns nach der Markteinführung unterstützen - in erster Linie Marketingauftritt und Mentoring zur Begleitung der US-Marktdurchdringung.
+    quote: Wir werden dieses Projekt in der Öffentlichkeit realisieren. Wir ermutigen alle, sich für unsere Pre-Alpha User Test Gruppe zu bewerben und uns beim Aufbau von FamiliPay zu unterstützen.
+    quote-bold: " "
+  be-energised:
+    text-bold: be.Energised
+    text: " ist die führende Komplettlösung für den Betrieb von E-Ladeinfrastrukturen. Die Software übernimmt fast alle Aufgaben, die mit der Verwaltung von Ladestationen zusammenhängen."
+    problem-title: Das Problem, mit dem Has-to-be konfrontiert war
+    problem-text-part1: Has-to-be brauchte professionelle und erfahrene Entwickler, die ihnen bei der Entwicklung und Wartung ihrer E-Mobility-Plattform helfen. Sie hatten ein großes Problem mit der Akquisition von Entwicklern in Radstadt und hatten starke Bedenken, mit Remote-Teams zu arbeiten.
+    problem-text-part2: " "
+    solution-text-part1: Ingsoftware stellte eine sorgfältige Auswahl von Senior-Entwicklern zur Verfügung, die als Teil des be.Energised-Teams an der Wartung und Weiterentwicklung ihrer E-Mobility-Plattform gemäß ihren Unternehmensstandards und -verfahren arbeiten. Sie waren in der Lage, mit mehreren anderen Unternehmenszweigen neben dem Entwicklungsteam zu arbeiten, wie z.B. dem Marketing Team, dem Support Team, dem Design Team.
+    solution-text-part2: " "
+    quote: " "
+    quote-bold: " "
+  profit-optics:
+    text-bold: ProfitOptics Inc
+    text: " wurde 2008 in Richmond, VA, USA, gegründet und beschäftigt derzeit rund 40 Mitarbeiter. Sie erzeugen aus Daten von Vertriebsunternehmen Wertschöpfung, indem sie Daten analysieren und Preis- und Margenlösungen anbieten, Chancen aufzeigen und Lösungen mit nachhaltigem Wert entwickeln."
+    problem-title: Das Problem, mit dem ProfitOptics konfrontiert war
+    problem-text-part1: Als ProfitOptics wuchs, benötigten sie ein professionelles Team, das in der Lage sein würde, neue Lösungen für die ständig wachsende Anzahl ihrer Geschäftspartner zu warten, zu aktualisieren und zu bauen, sowie hauseigene Kernlösungen für ihre zukünftigen Projekte zu entwickeln.
+    problem-text-part2: Sie brauchten ein unabhängiges Team von Projektmanagern, Designern und Entwicklern, die in der Lage waren, mit den ständig wachsenden Kundenanforderungen Schritt zu halten.
+    solution-text-part1: Wir haben eine aktualisierte Version der bestehenden Plattform für Vertrieb und Verkauf - Margin Bridge - neu konzipiert, neu entwickelt, konfiguriert und auf den Markt gebracht. Es umfasst die Verwaltung von Mitarbeitern, Produkten, Preisen, Rabatten, Bestellungen, Berichten, Rechnungen, Einzelhändlern, etc.
+    solution-text-part2: Darüber hinaus waren wir in der Forschung und Entwicklung tätig und entwickelten fortschrittliche Algorithmen, die den Kunden halfen, ihre Verkaufsmargen zu ergründen und zu verbessern sowie ihre Preise zu optimieren. Dies ermöglichte es ihren Kunden, Millionen von Dollar an zulässigen, aber bisher nicht in Anspruch genommenen Rabatten zurückzufordern.
+    quote: "Wir haben das Team von Ingsoftware mit einem strategischen Projekt beauftragt, das sowohl in Bezug auf die Daten als auch auf die Schnittstellenanforderungen komplex war. Wir waren sehr zufrieden mit der Zusammenarbeit mit ihrem Team und mit den Endergebnissen. Ich schätze ihre Fähigkeit sehr, schnell voll funktionsfähige Lösungen mit minimaler Anleitung durch unser Team anzubieten. "
+    quote-bold: Ingsoftware bietet hochprofessionelle Entwicklungsdienstleistungen, skalierbare Teams und termingerechte Ergebnisse zu wettbewerbsfähigen Preisen.
+  more:
+    title: Und mehr...
+    eft: Seit ihrer Gründung im Jahr 2000 ist die EFT-Gruppe die führende Stromhandels- und Investmentgruppe in Südosteuropa. Ingsoftware hat ihre Systeme für Bankenwechsel, Geldautomatenmanagement und Kundenkarten entwickelt, die heute in 22 afrikanischen Ländern im Einsatz sind.
+    activio: Activio ist ein Vorreiter im Bereich Herzfrequenz- und Krafttraining und bietet als erstes Unternehmen in seinem Bereich Systeme an, die speziell für das Gruppentraining entwickelt wurden. Ingsoftware half bei der Entwicklung des Activio Fitness Systems, das die drahtlose Kommunikation zwischen den gängigsten Brustgurten auf dem Markt und anderen Bluetooth-Wearables mit dem Smart Device des Benutzers nutzt, um kontinuierlich und in Echtzeit über die körperliche Intensität seines Trainings zu berichten.
+    vistair: Vistair ist ein Luftfahrt-Softwareunternehmen, das Lösungen für das Dokumenten- und Sicherheitsmanagement für die Luftfahrtindustrie anbietet. Ingsoftware ist als Komplettanbieter für einen ihrer wichtigsten Kunden, Delta Airlines, tätig. Wir haben bei der Wartung und Aktualisierung bestehender Lösungen sowie bei der Entwicklung des neuen ASI-Moduls und der Single Event Funktion geholfen.
+    swissWide: Die SwissWide Holding AG ist ein FinTech-Unternehmen mit Sitz in Zug, Schweiz und Kompetenzen in den Bereichen Finanzen, Marketing, Recht, Softwareentwicklung, Web- und App-Entwicklung, Blockchain-Entwicklung uvm. Ingsoftware half bei der Entwicklung von BlockchainBond.io - einer hochmodernen FinTech-Plattform für die Erstellung, Ausgabe, Analyse und Investition in Blockchain-Bonds.
+    findologic: Findologic entwickelt seit 2008 fortschrittliche Suchlösungen für Online-Shops und ist einer der führenden Anbieter. Ingsoftware hat bei der Entwicklung ihres blitzschnellen Suchmoduls geholfen und arbeitet seitdem an der Integration auf anderen Plattformen.
+    asseco: Die Asseco SEE Group (ASEE Group) ist der größte Anbieter in Südosteuropa, gemessen am Umsatz aus dem Verkauf seiner Software und Dienstleistungen, und ein Top-Player im Bankgeschäft. Ingsoftware half bei der Entwicklung von "Experience Scoring" - einer Anwendung, die Banken hilft, wichtige betriebliche Entscheidungen mit prädiktiven Modellen zu automatisieren.
+    saltcreek: Saltcreek's Fuel Card Management System (FCMS) ist eine intelligente und umfassende Softwarelösung, die Dienstleistungen für Unternehmen der Kraftstoffindustrie erbringt. Ingsoftware hat bei der Entwicklung des Saltcreek FCMS mitgewirkt und arbeitet kontinuierlich an der Integration auf verschiedenen Legacy-Treibstoffmanagement-Plattformen.
+    asi: Asset Strategies International ist ein Full-Service-Anbieter von Sachwerten, der sich auf Edelmetalle, Fremdwährungen, seltene Sachwerte und vieles mehr spezialisiert hat. Ingsoftware baute eine nachhaltige Handelsplattform für die Backoffice- und Middleoffice-Abteilungen von ASI auf, die den Handel mit Edelmetallen abwickelt. Wir haben auch gezielte Unterstützung bei der Pflege und Entwicklung neuer Funktionen im Handelssystem geleistet.
+    orion: Orion Telekom wurde 2010 mit dem Zusammenschluss der größten Mobilfunkanbieter in Serbien gegründet. Ingsoftware hat das CRM-System entwickelt, das zur Verwaltung der Kunden, der Dienstleistungen und Angebote des Unternehmens, der Rechnungen und Zahlungen sowie des Berichtswesens verwendet wird, um so den Betrieb des Unternehmens zu verbessern und Kosten zu senken.
+    brenton-point: Brenton Point Wealth Advisors LLC ist eine Finanzberatungsfirma mit Sitz in New York, NY, die die finanziellen Anforderungen von Kunden in 14 Staaten deckt. Ingsoftware half Brenton Point bei der Entwicklung ihrer Markenidentität und entwarf und entwickelte ihre Unternehmenswebsite auf Basis des Wordpress CMS.
+    intorel: Intorel ist ein weltweit führender Entwickler von fortschrittlichen Überwachungs- und Steuerungslösungen für Rundfunkunternehmen und Satellitenkommunikation. Ingsoftware entwickelte und integrierte neue Module für ein bestehendes Produkt - Visionic. Wir haben neue Funktionen entwickelt und getestet, um die Gesamtstabilität und Zuverlässigkeit zu verbessern.
+    banksurance: Banksurance ist ein zentralisierter Ablageort für Bankenversicherungssysteme und -produkte. Es automatisiert die Rückverfolgbarkeit von Lizenzbestimmungen für Versicherungsagenten, Kundenterminen und -empfehlungen sowie Gebühreneinnahmen und -forderungen. Ingsoftware hat bei der Entwicklung und Implementierung neuer Funktionen für das bestehende Altsystem mitgewirkt und die kontinuierliche Wartung übernommen.
+    peryton: Peryton ist eine edle Lederwarenmarke, die von Gina Love entworfen wurde. Ingsoftware war von Anfang an dabei - wir haben Peryton bei der Entwicklung seiner Markenidentität unterstützt. Wir haben einen kleinen, gut gestalteten, kundenspezifischen Webshop auf Basis von WooCommerce gestartet und kontinuierlich an der Gestaltung von Marketingmaterialien gearbeitet.
+    nutraCosmetic: NutraCosmetic produziert und verkauft hochwertige, sichere, zuverlässige und innovative Produkte in der Kosmetikindustrie. Ingsoftware entwickelte einen Algorithmus zur Erkennung von Orientierungspunkten, der auf einem neuronalen Netzwerk basiert, um gewünschte Gesichtsmerkmale (Lippen, Nase, Stirn) zu erkennen, und einen Algorithmus zur Kantenerkennung, der Make-up-Effekte auf diese Bereiche anwendet und ein Bild mit dem simulierten Make-up erzeugt.
+    webelinx: Webelinx ist einer der führenden Hersteller von Free-to-Play-Handyspielen und Apps mit erstklassiger Performance, die von Millionen von Nutzern auf der ganzen Welt genutzt werden. Als strategischer Partner sind wir für den Backend-Server-Support und die Webentwicklung der Produkte von Webelinx verantwortlich. Wir haben Plattformen für das Anzeigenmanagement, den Multiplayer-Support und die Kerngeschäftslogik entwickelt und verbessern sie kontinuierlich.
+    atto-verticale: Atto VERTICALE ist ein außergewöhnliches Konzept von Masera Design, das aus einer einzigartigen Idee geboren wurde - einer Armbanduhr mit einem mechanischen Handaufzugswerk, die auf einem eloxierten Aluminiumgehäuse montiert ist. Ingsoftware wurde von Masera Design beauftragt, einen Webshop für ihre Produkte auf Basis von Magento CMS zu entwickeln.
+    farma: Farm@ ist ein revolutionäres System für das Management von Kuhfarmen, das gemeinsam mit unseren Partnern Eurogenyx entwickelt wurde. Das System ermöglicht es den Landwirten, alle erforderlichen Daten ihrer Rinder an einem Ort abzurufen und zu speichern, die Mikroklimabedingungen zu überwachen und anzupassen und damit Melk- und Ernährungsprozesse zu steuern.
+    monicom: Monicom d.o.o. ist eines der erfolgreichsten Familienunternehmen in Serbien mit Sitz in Nis und Produktionsstätten im Süden des Landes. Ingsoftware war für das komplette Website-Design, Branding und die Entwicklung verantwortlich.
+    seavus: Seavus ist ein internationales Softwareentwicklungs- und Beratungsunternehmen mit Sitz in Malmö, Schweden. Ingsoftware verfügt über ein engagiertes Team, das unter dem Management von Seavus an der Entwicklung mobiler Anwendungen für ihre Kunden arbeitet.
+    mihajlovic-soft: Mihajlovic Soft ist ein führender serbischer Anbieter von Buchhaltung, Lagerverwaltung, Kundenbindungsprogrammen und ähnlichen maßgeschneiderten Unternehmenssoftwarelösungen. Ingsoftware war an der Entwicklung und Wartung von Kundenbindungssystemen, Dokumentenmanagementsystemen und Automatisierungsplattformen für den Kraftstoffvertrieb beteiligt, die Kunden bei der Optimierung ihres Geschäfts und der Senkung ihrer Betriebskosten unterstützten.
+    shareTV: ShareTV ist eine Online-Community für Fans des Fernsehens und offizieller Vertriebspartner von HULU, ABC, Fox, NBC, Syfy und Showtime. Ingosftware war an der Pflege der Website und der CMS-Entwicklung beteiligt, die auf Vanilla-PHP basierte.
+    iteo-spin: Iteo Spin doo ist der Referenzanbieter für die umfassendsten Lösungen und Dienstleistungen im Bereich der Informationsbeschaffung bei der Kapitalanlage von Finanzinstituten. Ingsoftware wurde beauftragt, eine Plattform für die Meldung und Verwaltung von Störfällen für Haushalte zu entwickeln, auf der Benutzer problemlos ein Problem melden und Unterstützung bei der Wartung von Instandhaltungsdienstleistern im Haushalt anfordern können.
+
+contact:
+  meta:
+    title: Kontaktieren Sie uns - Ingsoftware
+    description: Erzählen Sie uns von Ihrem Projekt und lassen Sie es uns realisieren. Auf dieser Seite finden Sie die Kontaktdaten unserer weltweiten Niederlassungen. Nehmen Sie Kontakt auf, wir sind nur eine E-Mail entfernt.
+    link: https://www.ingsoftware.ch/kontakt
+  main-heading: Kontaktieren Sie uns
+  heading: Erzählen Sie uns von Ihrem Projekt und lassen Sie es uns realisieren. Auf dieser Seite finden Sie die Kontaktdaten unserer weltweiten Niederlassungen. Nehmen Sie Kontakt auf, wir sind nur eine E-Mail entfernt.
+  heading-img-alt: Modem
+  form:
+    title: Schicken Sie uns eine E-Mail...
+    field-name: Name
+    placeholder-name: Geben Sie Ihren Namen ein
+    validation-name: Geben Sie Ihren Namen ein...
+    field-email: Email
+    placeholder-email: Geben Sie Ihre Firmen-Emailadresse ein
+    validation-email: Geben Sie Ihre Firmen-Emailadresse ein...
+    field-company: Firmenname
+    placeholder-company: Geben Sie den Namen Ihrer Firma ein
+    validation-company: Geben Sie den Namen Ihrer Firma ein...
+    dropdown: Wobei brauchen Sie Hilfe?
+    dropdown-option1: Softwareentwicklung
+    dropdown-option2: Software Prototyping
+    dropdown-option3: Branding und Design
+    dropdown-option4: Startups
+    dropdown-option5: Press/Media
+    dropdown-option6: Einfache Anfrage
+    validation-dropdown: Bitte wählen Sie eine Option...
+    field-message: Nachricht
+    placeholder-message: Geben Sie hier Ihre Nachricht ein
+    validation-message: Geben Sie hier Ihre Nachricht ein...
+    mandatory: bedeutet Pflichtfeld
+
+startups:
+  meta:
+    title: Tech Force für Startups - Ingsoftware
+    description: Von der Entwicklung eines MVPs bis hin zu einem vollständig integrierten Produkt bietet unser Startup-Angebot umfassende Lösung.
+    link: https://www.ingsoftware.ch/tech-force-fuer-startups
+  main-heading: Tech Force für Startups
+  heading: Von der Entwicklung eines MVPs bis hin zu einem vollständig integrierten Produkt bietet unser Startup-Angebot umfassende Lösung.
+  heading-img-alt: Power up man
+  desc:
+    left-title: Wir arbeiten gut mit Startups zusammen
+    left-text-1: Startups sind keine kleineren Versionen von Großunternehmen. Sie benötigen eigene Prozesse und Werkzeuge, um erfolgreich zu sein.
+    left-text-2: Unsere funktionsübergreifende Teamstruktur und unser multidisziplinärer kooperativer Ansatz gewährleisten fundierte Fachkompetenz, robuste Prozesse und Flexibilität bei der Entwicklung erstklassiger Lösungen.
+    right-title: Als ultimativer Technologiepartner
+    right-text-1: Wir helfen Ihnen, digitale Lösungen zu konzipieren, zu entwerfen, zu prototypisieren, zu entwickeln und auf den Markt zu bringen, die ansprechend sind und den Menschen Spaß machen. Wir verstehen die Notwendigkeit einer schnellen Iteration und eines skalierbaren Wachstums.
+    right-text-2-part1: "Agile, Lean oder Waterfall-Methoden sind uns nicht unbekannt - als Software-Ingenieure "
+    right-text-2-link: /case-studies
+    right-text-2-link-text: bauen wir auf Struktur, Qualität und Sinnhaftigkeit
+    right-text-2-part2: .
+  force-forwarding:
+    title: Um sie vorwärts zu bewegen mit
+    force-step1:
+      img-alt: Leaves of grass in hand
+      title: Minimal Viable product (MVP)
+      text-1-part1: Schnelle Ideenfindung und Entwicklung Ihres MVP. Als technisches Team von Senior-Softwareentwicklern, UX designern, Projektmanagern und weiteren IT-Profis können wir ein ausgefeiltes MVP schnell und kostengünstig liefern und direkt zur Sicherung Ihrer Finanzierungsrunde übergehen.
+      text-1-link1: " "
+      text-1-link1-text: " "
+      text-1-part2: " "
+      text-1-link2: " "
+      text-1-link2-text: " "
+      text-1-part3: " "
+      text-1-link3: " "
+      text-1-link3-text: " "
+      text-1-part4: " "
+      text-2-part1: Die meisten Startups erreichen nie das Beta-Stadium, da es keine Technologiepartner gibt, undefinierte Ziele oder eine schlechte Implementierung oder Integration von DevOps. Mit einem etablierten MVP können Sie Ihr Produkt frühzeitig bewerten und verfeinern, um es an die Marktbedürfnisse anzupassen.
+      text-2-link: " "
+      text-2-link-text: " "
+      text-2-part2: " "
+    force-step2:
+      img-alt: Cycle
+      title: Vollständiger Produktentstehungsprozess
+      text-1-part1: "Wir bieten ganzheitliches Product Engineering für Start-ups. Unser Ziel ist es, digitale Produkte zu entwickeln und einzusetzen, die auf Wachstum und Langlebigkeit ausgerichtet sind. Ein dediziertes Design- und Entwicklungsteam begleitet Ihr Produkt vom "
+      text-1-link1: branding-and-design
+      text-1-link1-text: Konzeptdesign
+      text-1-part2: " über den "
+      text-1-link2: software-prototyping
+      text-1-link2-text: funktionierenden Prototyp
+      text-1-part3: " bis hin zur "
+      text-1-link3: custom-software-development
+      text-1-link3-text: maßgeschneiderten digitalen Lösung
+      text-1-part4: .
+      text-2-part1: Ihr Fall wird mit einem 360-Grad-Rundumblick auf Ihr Startup und Ihre Geschäftsanforderungen untersucht.
+      text-2-link: " "
+      text-2-link-text: " " 
+      text-2-part2: " "
+    force-step3:
+      img-alt: Handshake
+      title: Produktberatung für Startups
+      text-1-part1: Wir bieten Beratung und Unterstützung für Startups in jeder Phase. Unser engagiertes Startup-Team unterstützt Sie bei der Visualisierung eines Konzepts, der Erstellung eines Prototyps, der Validierung der Annahme und der Entwicklung einer maßgeschneiderten Lösung nach den Anforderungen des Startups und dem Feedback, mit Schwerpunkt auf Kostenoptimierung.
+      text-1-link1: " "
+      text-1-link1-text: " "
+      text-1-part2: " "
+      text-1-link2: " "
+      text-1-link2-text: " "
+      text-1-part3: " "
+      text-1-link3: " "
+      text-1-link3-text: " "
+      text-1-part4: " "
+      text-2-part1: "Wir bauen auf Wachstum, das heißt, wir definieren Konzepte und entwickeln frühzeitig Strategien für Design, Entwicklung und Optimierung. Schließlich "
+      text-2-link: /
+      text-2-link-text: sind wir Ihr ultimativer Technologiepartner
+      text-2-part2: .
+    force-step4:
+      img-alt: Arrows
+      title: Technologische Migration & Reengineering
+      text-1-part1: Wenn sich Ihr Startup entwickelt, werden Sie anfangen, neue Märkte zu erschließen. Die technologische Migration birgt eine Reihe von Problemen, die auftreten können und die die Produktivität Ihres Unternehmens beeinträchtigen. Bei Ingsoftware helfen wir Ihnen, diese Probleme zu mildern, indem wir eine detaillierte Analyse des Systems durchführen und effektive Lösungen empfehlen, um die Auswirkungen des Übergangs zu mildern und Ihre Startup-Anforderungen zu erfüllen.
+      text-1-link1: " "
+      text-1-link1-text: " "
+      text-1-part2: " "
+      text-1-link2: " "
+      text-1-link2-text: " "
+      text-1-part3: " "
+      text-1-link3: " "
+      text-1-link3-text: " "
+      text-1-part4: " "
+      text-2-part1: " "
+      text-2-link: " "
+      text-2-link-text: " "
+      text-2-part2: " "
+  force-steps:
+    title: Indem wir sie in jeder Phase unterstützen
+  force-optimization:
+    title: Geleitet von Wachstum, optimiert jeden Schritt des Weges
+    box1-title: ENTDECKEN
+    box1-text1: Der Grundstein für jedes digitale Startup liegt in der Entdeckungsphase. Wir beginnen mit der Definition des Problems und gehen weiter, um bestehende Lösungen für sie zu erforschen.
+    box1-text2: Wir bauen Prototypen, um den besten mit der vielversprechendsten Benutzerfreundlichkeit und Nutzbarkeit zu finden. Menschen suchen nicht nur nach brauchbaren Produkten, sondern auch nach solchen, die sinnvoll und nützlich sind.
+    box1-text3: " "
+    box2-title: MVP (MINIMUM VIABLE PRODUCT)
+    box2-text1: Unser spezialisiertes Startup-Team wird bei der Entwicklung des MVP als die vielversprechendste, ausgefeilteste und benutzerfreundlichste Version des Produkts helfen, das auf den Markt kommen soll. Wir sind auf Wachstum ausgerichtet und nehmen uns Zeit, um Ihre Ziele, Mission und Vision zu lernen und zu verstehen.
+    box2-text2: Diese Strategie trägt dazu bei, den Wert des Produkts zu steigern und die ersten Anwender zu binden - mit dem Ziel, die zukünftige Entwicklung und Einführung kostensparend zu optimieren.
+    box2-text3: " "
+    box3-title: MARKTEINFÜHRUNGS-STRATEGIE
+    box3-text1: Die technische Kompetenz Ihres Startup-Teams kann nur auf halbem Weg zum Erfolg führen.
+    box3-text2: Bei Ingsoftware verstehen wir, dass Startups keine kleineren Versionen von großen Unternehmen sind. Und wir wissen, dass es ein fehlendes Bindeglied zwischen den Marktstrategien von Startups und den Entscheidungen der Stakeholder gibt.
+    box3-text3: Wir helfen Ihnen, Ihren Fokus zu definieren, zeigen Ihnen, wie Sie am Wettbewerb teilnehmen und wie Sie gewinnen können.
+    box4-title: USABILITY-TESTS UND -VERBESSERUNGEN
+    box4-text1: Jede hinreichend fortgeschrittene Technologie ist von Magie nicht zu unterscheiden. Und die beste Technologie, die es gibt, ist immer intuitiv.
+    box4-text2: Um die Erwartungen der Benutzer mit der von Ihnen gebotenen digitalen Funktionalität in Einklang zu bringen, werden unsere Usability-Tester eine gründliche Bewertung und Empfehlungen in Bezug auf Layouts und Workflows abgeben.
+    box4-text3: " "
+    box5-title: VISUELLES DESIGN UND BRANDING
+    box5-text1: Die Mischung aus Ihrer Idee und unserer Leidenschaft und Hingabe in einem eleganten, individuellen Design ist es, was Ihr Projekt zu einem Erfolg macht.
+    box5-text2: Wir bieten ein strategisches Strukturdesign, das die Benutzerfreundlichkeit digitaler Produkte unterstützt und Ihren Markenauftritt in das digitale Medium integriert. Und das tun wir mit interaktiven Wireframes, HiFi-Mockups und Design-Prototypen.
+    box5-text3: " "
+    box6-title: ERWEITERTE DEVOPS
+    box6-text1: Wir verfolgen diesen Ansatz, um Betrieb und Entwicklung zu vereinheitlichen. Ziel ist es, die Dauer der Systementwicklung zu verkürzen und gleichzeitig Funktionen, Korrekturen und Updates regelmäßig bereitzustellen.
+    box6-text2: Effektive DevOps führen zu niedrigeren Betriebskosten. Und wir haben die technologische Kompetenz, um sie zu unterstützen.
+    box6-text3: " "
+    box7-title: TECHNOLOGIE-AUDITS
+    box7-text1: Bei digitalen Startups ist es leicht, sich von der Technologie mitreißen zu lassen. Vor allem in Bezug auf Benutzerfreundlichkeit, Leistung und Verfügbarkeit. Außerdem besteht ein großer Bedarf an Datenschutz und Datensicherheit.
+    box7-text2: Unser Team von Software-Ingenieuren führt technische Audits durch, die auf Ihr Unternehmen zugeschnitten sind, und präsentiert Lösungen zur Risikominderung und Produktivitätssteigerung.
+    box7-text3: " "
+    box8-title: TEAMERWEITERUNG
+    box8-text1: Technologien können schnell ausgewählt werden - mit Wissen und technischer Erfahrung ist das einfach.
+    box8-text2: Aber das richtige Team zu finden, das in jeder Phase durchhält und liefern kann, ist eine Herausforderung. Wir sind stolz auf unser Ingenieurswissen, unseren multidisziplinären und funktionsübergreifenden Ansatz.
+    box8-text3: Mit uns an Ihrer Seite haben Sie ein Tech-Force-Team, auf das Sie sich verlassen können und eine wertvolle Ergänzung zu Ihrem Kernteam.
+
+error:
+  img-alt: Bedankende Frau
+  title: Entschuldigung, aber wir können diese Seite nicht finden.
+  text: Sie können die Ingsoftware Homepage besuchen.
+  link: zurück zur Homepage
+
+privacy-policy:
+  meta:
+    title: Datenschutzerklärung - Ingsoftware
+    description: Diese Datenschutzerklärung informiert Sie darüber, wie wir mit Ihren personenbezogenen Daten umgehen, wenn Sie unsere Website besuchen, und informiert Sie über Ihre Datenschutzrechte.
+    link: https://www.ingsoftware.ch/datenschutzerklaerung
+  title: Ingsoftware GMBH Datenschutzerklärung
+  text-part1: Ingsoftware GmbH respektiert Ihre Privatsphäre und verpflichtet sich zum Schutz Ihrer persönlichen Daten.
+  text-part2: Diese Datenschutzerklärung informiert Sie darüber, wie wir mit Ihren personenbezogenen Daten umgehen, wenn Sie unsere Website besuchen (unabhängig davon, von wo aus Sie sie besuchen) und informiert Sie über Ihre Datenschutzrechte und wie das Gesetz Sie schützt.
+  section-title1: Wir stellen vor
+  section-title2: Welche Art von Daten wir über unsere Website erfassen
+  section-title3: Wie wir Daten sammeln
+  section-title4: Wie wir Ihre personenbezogenen Daten verwenden, zu welchem Zweck und auf welcher Rechtsgrundlage
+  section-title5: Cookie-Richtlinie
+  section-title6: Weitergabe Ihrer personenbezogenen Daten
+  section-title7: Internationale Transfers
+  section-title8: Ihre gesetzlichen Rechte
+  section-title9: Datensicherheit
+  section-title10: Datenspeicherung
+  text-2-part1: "Sie können diese Datenschutzerklärung auch als PDF PDF-Dokument herunterladen, indem Sie "
+  text-2-link: /ingsoftware-datenschutzerklärung.pdf
+  text-2-link-text: hier
+  text-2-part2: " klicken."
+  section-1:
+    title: 1. Wir stellen vor.
+    text-1-part1: "Diese Website wird von INGSOFTWARE GmbH. Wir sind registriert und haben unseren Sitz in der Schweiz, Gemeinde Zug, Dammstrasse 16. Sie können uns über unser Kontaktformular auf der Website oder über die Telefonnummer erreichen: "
+    text-1-link: tel:+410762820432
+    text-1-link-text: +41 (0) 76 282 04 32
+    text-1-part2: ", oder per E-Mail an: "
+    text-1-link2: mailto:zug.office@ingsoftware.ch
+    text-1-link2-text: zug.office@ingsoftware.ch
+    text-1-part3: .
+    text-2: Diese Datenschutzerklärung soll Sie darüber informieren, wie Ingsoftware GmbH Ihre personenbezogenen Daten durch Ihre Nutzung dieser Website und durch die Interaktion mit Ihnen erhebt und verarbeitet.
+    text-3: Diese Website ist nicht für Kinder bestimmt und wir sammeln nicht wissentlich Daten über Kinder!
+    text-4: Ingsoftware GmbH ist der Verwalter und verantwortlich für Ihre persönlichen Daten (in dieser Datenschutzerklärung gemeinsam als "wir", "uns" oder "unser" bezeichnet).
+    text-5: Wir verarbeiten personenbezogene Daten und Kommunikationsdaten nur für die in dieser Datenschutzerklärung erläuterten Zwecke und diese Daten werden gelöscht, sobald sie für diesen Zweck nicht mehr benötigt werden. Die einzige Ausnahme hiervon ist, wenn wir gesetzlich zur Aufbewahrung bestimmter Daten verpflichtet sein können.
+    text-6-part1: "Wir haben einen Datenschutzbeauftragten ernannt, der für die Überwachung von Fragen im Zusammenhang mit dieser Datenschutzerklärung zuständig ist. Wenn Sie Fragen zu dieser Datenschutzerklärung haben, einschließlich der Aufforderung zur Ausübung Ihrer gesetzlichen Rechte, wenden Sie sich bitte an den Datenschutzbeauftragten über die folgenden Kontaktdaten: E-Mail-Adresse- "
+    text-6-link: mailto:zug.office@ingsoftware.ch
+    text-6-link-text: zug.office@ingsoftware.ch
+    text-6-part2: .
+  section-2:
+    title: 2. Welche Art von Daten wir über unsere Website erfassen.
+    point-1-bold: Identitätsdaten
+    point-1-text: " zu denen Vorname, Geburtsname, Nachname, Benutzername oder ähnlicher Identifikator, Familienstand, Titel, Geburtsdatum und Geschlecht gehören;"
+    point-2-bold: Kontaktdaten
+    point-2-text: " zu denen Emailadressen und Telefonnummern gehören;"
+    point-3-bold: Technischen Daten
+    point-3-text: " zu denen die IP-Adresse, Ihre Anmeldedaten, Browsertyp und -version, Zeitzoneneinstellung und -standort, Browser-Plugin-Typen und -Versionen, Betriebssystem und Plattform sowie andere Technologien auf den Geräten, die Sie für den Zugriff auf diese Website verwenden, gehören;"
+    point-4-bold: Nutzungsdaten
+    point-4-text: " zu denen Informationen darüber, wie Sie unsere Website nutzen, gehören;"
+    point-5-bold: Marketing- und Kommunikationsdaten
+    point-5-text: " die Ihre Präferenzen beim Erhalt von Marketing von uns und unseren Dritten sowie Ihre Kommunikationspräferenzen, umfassen."
+    text-part1: "Wir sammeln keine "
+    text-bold: besonderen Kategorien von personenbezogenen Daten
+    text-part2: " über Sie (dazu gehören Angaben zur Rasse oder ethnischen Zugehörigkeit, religiöse oder philosophische Überzeugungen, Sexualleben, sexuelle Orientierung, politische Meinungen, Gewerkschaftszugehörigkeit, Informationen über Ihre Gesundheit sowie genetische und biometrische Daten). Auch sammeln wir keine Informationen über strafrechtliche Verurteilungen und Straftaten."
+  section-3:
+    title: 3. Wie wir Daten sammeln.
+    text-1: Wir verwenden zwei verschiedene Methoden der Datenerhebung.
+    text-2-part1: "Erstens, "
+    text-2-bold: durch direkte Interaktionen mit Ihnen
+    text-2-part2: ", und Sie können uns Ihre Identität und Kontaktdaten mitteilen, indem Sie Formulare ausfüllen oder mit uns per Post, Telefon, E-Mail oder anderweitig korrespondieren. Dazu gehören auch personenbezogene Daten, die Sie uns zur Verfügung stellen, wenn Sie: Marketing-Anfragen an uns stellen, unsere Fragebögen ausfüllen, uns Feedback geben, etc."
+    text-3-part1: "Und zweitens, "
+    text-3-bold: über automatisierte Technologien oder Ihre Interaktionen über Drittanbieterdienste, die in unsere Website integriert sind
+    text-3-part2: ". Während Sie mit unserer Website interagieren, können wir automatisch technische Daten über Ihre Geräte, Aktionen und Muster sammeln. Wir erheben diese personenbezogenen Daten mit Hilfe von Cookies, Serverprotokollen und anderen ähnlichen Technologien. Wir können auch technische Daten über Sie erhalten, wenn Sie andere Websites besuchen, die unsere Cookies verwenden."
+    text-3-part3: "Weitere Informationen finden Sie in unserer "
+    text-3-em: “Cookie-Richtlinie”
+    text-3-part4: .
+  section-4:
+    title: 4. Wie wir Ihre personenbezogenen Daten verwenden, zu welchem Zweck und auf welcher Rechtsgrundlage.
+    text-1: Wir werden Ihre personenbezogenen Daten nur dann verwenden, wenn es das Gesetz erlaubt. Genauer gesagt, werden wir Ihre personenbezogenen Daten verwenden, wenn es für unsere legitimen Interessen (oder die eines Dritten) erforderlich ist und Ihre Interessen und Grundrechte diese Interessen nicht außer Kraft setzen, und wenn wir einer gesetzlichen oder behördlichen Verpflichtung nachkommen müssen.
+    text-2: Grundsätzlich sind wir nicht auf die Einwilligung als Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten angewiesen, außer in Bezug auf den Versand von Direktmarketing-Mitteilungen Dritter an Sie per E-Mail oder SMS. Sie haben das Recht, die Zustimmung zum Marketing jederzeit zu widerrufen, indem Sie uns kontaktieren.
+    text-3: Nachfolgend beschreiben wir in tabellarischer Form, wie wir Ihre personenbezogenen Daten verwenden und auf welche Rechtsgrundlagen wir uns dabei stützen. Wir haben auch festgestellt, was unsere legitimen Interessen sind, wo dies angemessen ist, und wir haben den Zweck der Datenerfassung festgelegt, wenn Ihre Zustimmung die Rechtsgrundlage für die Datenerhebung ist.
+    th-1: Zweck/Aktivität
+    th-2: Art der Daten
+    th-3: Rechtliche Grundlagen für die Verarbeitung
+    th-4: Grundlage des berechtigten Interesses und Zweck der Datenerhebung
+    th-5: Aufbewahrungsfrist
+    row1-1: Um unsere Beziehung zu Ihnen zu pflegen.
+    row1-2-a: (a) Identitätsdaten
+    row1-2-b: (b) Kontaktdaten
+    row1-3: Notwendig für unsere legitimen Interessen oder notwendig für die Erfüllung eines Vertrages mit Ihnen oder zur Vorbereitung eines solchen Vertrages.
+    row1-4: Um unsere Aufzeichnungen auf dem neuesten Stand zu halten, oder um einen Vertrag mit Ihnen zu erfüllen oder vorzubereiten.
+    row1-5: ...
+    row2-1: zur Verwaltung und zum Schutz unseres Unternehmens und dieser Website (einschließlich Fehlerbehebung, Datenanalyse, Test, Systemwartung, Support, Reporting und Hosting von Daten).
+    row2-2-a: (a) Identitätsdaten
+    row2-2-b: (b) Kontaktdaten
+    row2-2-c: (c) technische Daten
+    row2-3: Notwendig für unsere legitimen Interessen.
+    row2-4: für die Führung unseres Unternehmens, die Bereitstellung von Verwaltungs- und IT-Services, Netzwerksicherheit, um Betrug vorzubeugen
+    row2-5: ...
+    row3-1: Um Ihnen relevante Website-Inhalte und Werbung zu liefern und die Wirksamkeit der Werbung zu messen oder zu verstehen die wir Ihnen anbieten.
+    row3-2-a: (a) Identitätsdaten
+    row3-2-b: (b) Kontaktdaten
+    row3-2-c: (c) Profildaten
+    row3-2-d: (d) Nutzungsdaten
+    row3-2-e: (e) Marketing- und Kommunikationsdaten
+    row3-2-f: (f) technische Daten
+    row3-3: Ihre Zustimmung.
+    row3-4: zu untersuchen, wie Kunden unsere Produkte/Dienstleistungen nutzen, sie weiterzuentwickeln, unser Geschäft auszubauen und unsere Marketingstrategie zu erläutern
+    row3-5: ...
+    row4-1: Um Datenanalyse zur Verbesserung unserer Website, Dienstleistungen, Marketing, Kundenbeziehungen und Erfahrungen zu nutzen.
+    row4-2-a: (a) technische Daten
+    row4-2-b: (b) Nutzungsdaten
+    row4-3: Ihre Zustimmung.
+    row4-4: Kundentypen für unsere Dienstleistungen zu definieren, unsere Website aktuell und relevant zu halten, unser Geschäft zu entwickeln und unsere Marketingstrategie zu erläutern
+    row4-5: ...
+    row5-1: Um Ihnen Vorschläge und Empfehlungen zu Waren oder Dienstleistungen zu machen, die für Sie von Interesse sein könnten.
+    row5-2-a: (a) Identitätsdaten
+    row5-2-b: (b) Kontaktdaten
+    row5-2-c: (c) technische Daten
+    row5-2-d: (d) Nutzungsdaten
+    row5-2-e: (e) Profildaten
+    row5-3: Ihre Zustimmung.
+    row5-4: um unsere Dienstleistungen weiterzuentwickeln und unser Geschäft zu erweitern
+    row5-5: ...
+    text-4: Wir können Ihre Identitäts-, Kontakt-, technischen, Nutzungs- und Profildaten verwenden, um uns einen Überblick darüber zu verschaffen, was Sie unserer Meinung nach wünschen oder benötigen oder was für Sie von Interesse sein könnte. So entscheiden wir, welche Produkte, Dienstleistungen und Angebote für Sie relevant sein können (wir nennen das Marketing). Sie erhalten Marketingmitteilungen von uns, wenn Sie Informationen von uns angefordert oder Waren oder Dienstleistungen von uns gekauft haben und sich in jedem Fall nicht gegen den Erhalt dieses Marketings entschieden haben. Sie können uns oder Dritte auffordern, Ihnen jederzeit keine Marketing-Nachrichten mehr zuzusenden, indem Sie ein Abmeldeformular verwenden oder uns jederzeit kontaktieren.
+  section-5:
+    title: 5. Cookie-Richtlinie.
+    text-part1: "Weitere Informationen finden Sie in unserer "
+    text-link: /cookie-policy
+    text-link-text: “Cookie-Richtlinie”
+    text-part2: .
+  section-6:
+    title: 6. Weitergabe Ihrer personenbezogenen Daten.
+    text-1: Möglicherweise müssen wir Ihre personenbezogenen Daten an Dritte weitergeben, deren Dienste in unsere Website eingebettet sind.
+    text-2: Wir verlangen von allen Dritten, dass sie die Sicherheit Ihrer personenbezogenen Daten respektieren und gesetzeskonform behandeln. Wir erlauben unseren Drittanbietern nicht, Ihre personenbezogenen Daten für ihre eigenen Zwecke zu verwenden und erlauben ihnen nur, Ihre personenbezogenen Daten für bestimmte Zwecke und in Übereinstimmung mit unseren Anweisungen zu verarbeiten.
+  section-7:
+    title: 7. Internationale Transfers.
+    text-1-part1: "Einige unserer externen Dritten haben ihren Sitz außerhalb des Europäischen Wirtschaftsraums ("
+    text-1-bold: EWR
+    text-1-part2: "), so dass ihre Verarbeitung Ihrer personenbezogenen Daten eine Übermittlung von Daten nach außerhalb des EWR erfordert."
+    text-2: "Wann immer wir Ihre personenbezogenen Daten nach außerhalb des EWRs übertragen, stellen wir sicher, dass ein ähnliches Schutzniveau gewährleistet ist, indem wir sicherstellen, dass mindestens eine der folgenden Sicherheitsvorkehrungen getroffen wird:"
+    point-1: "Wir werden Ihre personenbezogenen Daten nur in Länder übermitteln, die von der Europäischen Kommission als angemessenes Schutzniveau für personenbezogene Daten angesehen wurden. Weitere Informationen finden Sie unter Europäische Kommission: Angemessenheit des Schutzes personenbezogener Daten in Nicht-EU Ländern: "
+    point-1-link: https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en
+    point-2: "Wenn wir bestimmte Dienstleister in Anspruch nehmen, können wir auf von der Europäischen Kommission genehmigte spezifische Verträge zurückgreifen, die personenbezogene Daten den gleichen Schutz bieten, den sie in Europa genießen. Weitere Informationen finden Sie unter Europäische Kommission: Musterverträge für die Übermittlung personenbezogener Daten in Drittländer: "
+    point-2-link: https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en
+    point-3: "Wenn wir Anbieter mit Sitz in den USAbeauftragen, können wir Daten an sie übermitteln, wenn sie Teil des Privacy Shield sind, der von ihnen einen ähnlichen Schutz wie die zwischen Europa und den USAgeteilten personenbezogenen Daten verlangt. Weitere Informationen finden Sie unter Europäische Kommission: EU-US-Datenschutzschild: "
+    point-3-link: https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en
+  section-8:
+    title: 8. Ihre gesetzlichen Rechte.
+    text-1: Unter bestimmten Umständen haben Sie datenschutzrechtliche Rechte in Bezug auf Ihre personenbezogenen Daten.
+    text-2: Wenn Sie eines der unten aufgeführten Rechte ausüben möchten, kontaktieren Sie uns bitte.
+    text-3-bold: Beantragung des Zugangs
+    text-3: " zu Ihren personenbezogenen Daten (allgemein bekannt als  “Antrag auf Zugang zum Datensubjekt”). Auf diese Weise können Sie eine Kopie der von uns über Sie gespeicherten personenbezogenen Daten erhalten und überprüfen, ob wir diese rechtmäßig verarbeiten."
+    text-4-bold: Beantragung einer Korrektur
+    text-4: " der personenbezogenen Daten, die wir über Sie gespeichert haben. Dies ermöglicht es Ihnen, unvollständige oder ungenaue Daten, die wir über Sie gespeichert haben, korrigieren zu lassen, obwohl wir möglicherweise die Richtigkeit der neuen Daten, die Sie uns zur Verfügung stellen, überprüfen müssen."
+    text-5-bold: Beantragung der Löschung
+    text-5: " Ihrer personenbezogenen Daten. Auf diese Weise können Sie uns auffordern, personenbezogene Daten zu löschen oder zu entfernen, wenn kein triftiger Grund für eine weitere Verarbeitung besteht. Sie haben auch das Recht, von uns die Löschung oder Entfernung Ihrer personenbezogenen Daten zu verlangen, wenn Sie Ihr Recht, der Verarbeitung zu widersprechen, erfolgreich ausgeübt haben (siehe unten), wenn wir Ihre Daten möglicherweise unrechtmäßig verarbeitet haben oder wenn wir aufgrund lokaler Gesetze verpflichtet sind, Ihre personenbezogenen Daten zu löschen. Beachten Sie jedoch, dass wir aus bestimmten rechtlichen Gründen, die Ihnen gegebenenfalls zum Zeitpunkt Ihrer Anfrage mitgeteilt werden, nicht immer in der Lage sein werden, Ihrer Bitte um Löschung nachzukommen."
+    text-6-bold: Widerspruch gegen die Verarbeitung
+    text-6: " Ihrer personenbezogenen Daten, wenn wir uns auf ein berechtigtes Interesse (oder das eines Dritten) stützen, und wenn an Ihrer besonderen Situation etwas dran ist, das Sie veranlasst, der Verarbeitung aus diesem Grund zu widersprechen, da Sie der Meinung sind, dass sie sich auf Ihre Grundrechte und -freiheiten auswirkt. Sie haben auch das Recht zu widersprechen, wenn wir Ihre personenbezogenen Daten für Direktmarketingzwecke verarbeiten. In einigen Fällen können wir nachweisen, dass wir zwingende legitime Gründe für die Verarbeitung Ihrer Daten haben, die Ihre Rechte und Freiheiten außer Kraft setzen."
+    text-7-bold: Beantragung einer Einschränkung
+    text-7: " der Verarbeitung Ihrer personenbezogenen Daten. Dies ermöglicht es Ihnen, uns in den folgenden Szenarien zu bitten, die Verarbeitung Ihrer personenbezogenen Daten auszusetzen: (a) wenn Sie möchten, dass wir die Richtigkeit der Daten nachweisen; (b) wenn unsere Verwendung der Daten rechtswidrig ist, Sie aber nicht wollen, dass wir sie löschen; (c) wenn Sie möchten, dass wir die Daten aufbewahren, auch wenn wir sie nicht mehr benötigen, wie Sie es zur Begründung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen; oder (d) wenn Sie gegen unsere Verwendung Ihrer Daten Einspruch erhoben haben, aber wir überprüfen müssen, ob wir überwiegende berechtigte Gründe für ihre Verwendung haben."
+    text-8-bold: Fordern Sie die Übermittlung
+    text-8: " Ihrer personenbezogenen Daten an Sie oder einen Dritten an. Wir werden Ihnen oder einem von Ihnen ausgewählten Dritten Ihre personenbezogenen Daten in einem strukturierten, allgemein gebräuchlichen, maschinenlesbaren Format zur Verfügung stellen. Beachten Sie, dass dieses Recht nur für automatisierte Informationen gilt, die Sie uns ursprünglich zur Verfügung gestellt haben oder bei denen wir die Informationen zur Erfüllung eines Vertrages mit Ihnen verwendet haben."
+    text-9-bold: Widerrufen der Einwilligung
+    text-9: " zu jedem Zeitpunkt, an dem wir uns auf die Einwilligung zur Verarbeitung Ihrer personenbezogenen Daten verlassen. Dies hat jedoch keinen Einfluss auf die Rechtmäßigkeit einer Verarbeitung, die vor dem Widerruf Ihrer Zustimmung durchgeführt wurde. Wenn Sie Ihre Zustimmung widerrufen, sind wir möglicherweise nicht in der Lage, Ihnen bestimmte Produkte oder Dienstleistungen anzubieten. Wir werden Sie darüber informieren, wenn dies zum Zeitpunkt des Widerrufs Ihrer Einwilligung der Fall ist."
+    text-10: Für den Zugriff auf Ihre personenbezogenen Daten (oder die Ausübung eines der anderen Rechte) müssen Sie keine Gebühr zahlen. Wir können jedoch eine angemessene Gebühr erheben, wenn Ihre Anfrage offensichtlich unbegründet, wiederholend oder übertrieben ist. Alternativ können wir uns unter diesen Umständen weigern, Ihrer Aufforderung nachzukommen.
+    text-11: Möglicherweise müssen wir von Ihnen spezifische Informationen anfordern, die uns helfen, Ihre Identität zu bestätigen und Ihr Recht auf Zugang zu Ihren personenbezogenen Daten (oder die Ausübung eines Ihrer anderen Rechte) zu gewährleisten. Dies ist eine Sicherheitsmaßnahme, um sicherzustellen, dass personenbezogene Daten nicht an Personen weitergegeben werden, die kein Recht darauf haben. Wir können uns auch mit Ihnen in Verbindung setzen, um Sie um weitere Informationen im Zusammenhang mit Ihrer Anfrage zu bitten, um unsere Antwort zu beschleunigen.
+    text-12: Wir versuchen, auf alle berechtigten Anfragen innerhalb eines Monats zu antworten. Gelegentlich kann es länger als einen Monat dauern, wenn Ihre Anfrage besonders komplex ist oder Sie eine Reihe von Anfragen gestellt haben. In diesem Fall werden wir Sie informieren und Sie auf dem Laufenden halten.
+  section-9:
+    title: 9. Datensicherheit.
+    text-1: Wir haben geeignete Sicherheitsmaßnahmen getroffen, um zu verhindern, dass Ihre personenbezogenen Daten versehentlich verloren gehen, verwendet oder auf unbefugte Weise abgerufen, verändert oder weitergegeben werden. Darüber hinaus beschränken wir den Zugriff auf Ihre personenbezogenen Daten auf Mitarbeiter, Vertreter, Auftragnehmer und andere Dritte, die einen geschäftlichen Bedarf haben zu wissen. Sie werden Ihre personenbezogenen Daten nur auf unsere Weisung hin verarbeiten und unterliegen der Geheimhaltungspflicht.
+    text-2: Wir haben Verfahren zur Behandlung von vermuteten Verstößen gegen personenbezogene Daten eingerichtet und werden Sie und alle zuständigen Behörden über einen Verstoß informieren, wenn wir gesetzlich dazu verpflichtet sind.
+  section-10:
+    title: 10. Datenspeicherung.
+    text-1: Wir speichern Ihre personenbezogenen Daten nur so lange, wie es zur Erfüllung der Zwecke, für die wir sie erhoben haben, erforderlich ist, einschließlich zur Erfüllung gesetzlicher, buchhalterischer oder berichtspflichtiger Anforderungen.
+    text-2: Um die angemessene Aufbewahrungsfrist für personenbezogene Daten festzulegen, berücksichtigen wir die Höhe, Art und Sensibilität der personenbezogenen Daten, das potenzielle Risiko eines Schadens durch unbefugte Nutzung oder Weitergabe Ihrer personenbezogenen Daten, die Zwecke, für die wir Ihre personenbezogenen Daten verarbeiten und ob wir diese Zwecke mit anderen Mitteln erreichen können, sowie die geltenden gesetzlichen Bestimmungen.
+    text-3: Die Aufbewahrungsfrist für jede Art von Daten, die wir verarbeiten, finden Sie im obigen Abschnitt.
+    text-4-part1: "Unter Umständen können Sie uns auffordern, Ihre Daten zu löschen. Weitere Informationen finden Sie oben unter "
+    text-4-em: “Löschung beantragen”
+    text-4-part2: .
+    text-5: Unter bestimmten Umständen können wir Ihre personenbezogenen Daten für Forschungs- oder statistische Zwecke anonymisieren (so dass sie nicht mehr mit Ihnen in Verbindung gebracht werden können). In diesem Fall können wir diese Informationen auf unbestimmte Zeit ohne weitere Benachrichtigung an Sie verwenden.
+
+cookie-policy:
+  meta:
+    title: Cookie-Richtlinie - Ingsoftware
+    description: Auf dieser Seite erfahren Sie, was Sie über Cookies wissen müssen und wie sie auf unserer Website verwendet werden.
+    link: https://www.ingsoftware.ch/cookie-richtlinie
+  title: Cookies-Richtlinie
+  section-title1: Wer wir sind?
+  section-title2: Was sind Cookies?
+  section-title3: Welche Art von Cookies nutzen wir?
+  section-title4: Wie lange bleiben Cookies auf meinem Gerät?
+  section-title5: Ihre Zustimmung und Einstellungen zu Cookies.
+  section-1:
+    title: 1. Wer wir sind?
+    text-1-part1: "Diese Website wird von INGSOFTWARE GmbH. Wir sind registriert und haben unseren Sitz in der Schweiz, Gemeinde Zug, Dammstrasse 16. Sie können uns über unser Kontaktformular auf der Website oder über die Telefonnummer erreichen: "
+    text-1-link: tel:+410762820432
+    text-1-link-text: +41 (0) 76 282 04 32
+    text-1-part2: ", oder per E-Mail an: "
+    text-1-link2: mailto:zug.office@ingsoftware.ch
+    text-1-link2-text: zug.office@ingsoftware.ch
+    text-1-part3: .
+  section-2:
+    title: 2. Was sind Cookies?
+    text-1: Cookies sind kleine Textdateien mit einer Reihe von Zeichen, die auf Ihrem Computer oder mobilen Gerät platziert werden können und die Ihren Browser oder Ihr Gerät eindeutig identifizieren. Genauer gesagt, ist ein Cookie eine Datei mit einer Kennung (eine Zeichenkette von Buchstaben und Zahlen), die von einem Webserver an einen Webbrowser gesendet und vom Browser gespeichert wird. Dauerhafte Cookies werden von einem Webbrowser gespeichert und bleiben bis zu ihrem eingestellten Verfallsdatum gültig, es sei denn, sie werden vom Benutzer vor dem Verfallsdatum gelöscht. Session-Cookies verfallen am Ende der Benutzersitzung, wenn der Webbrowser geschlossen wird.
+  section-3:
+    title: 3. Welche Art von Cookies nutzen wir?
+    text-1: Wir verwenden Cookies, um Ihr Browsererlebnis auf unserer Website zu verbessern, den Website-Verkehr zu analysieren, zu verstehen, woher unsere Besucher kommen, und um Ihnen personalisierte Inhalte und gezielte Anzeigen zu zeigen.
+    text-2-part1: "Wir verwenden "
+    text-2-bold: zwingend notwendige Cookies
+    text-2-part2: ". Diese Cookies sind unerlässlich, um Ihnen die über unsere Website verfügbaren Dienste zur Verfügung zu stellen und Ihnen die Nutzung bestimmter Funktionen unserer Website zu ermöglichen. Ohne diese Cookies können wir Ihnen bestimmte Dienstleistungen auf unserer Website nicht anbieten."
+    text-3-part1: "Wir verwenden "
+    text-3-bold: Funktionale-Cookies
+    text-3-part2: ". Diese Cookies werden verwendet, um Ihnen ein personalisierteres Erlebnis auf unserer Website zu ermöglichen und um Ihre Entscheidungen, die Sie bei der Nutzung unserer Website treffen, zu speichern. Beispielsweise können wir Funktionscookies verwenden, um Ihre Sprachpräferenzen oder Ihre Login-Daten zu speichern."
+    text-4-part1: "Wir verwenden "
+    text-4-bold: Tracking und Performance-Cookies
+    text-4-part2: ". Diese Cookies werden verwendet, um Informationen zu sammeln, um den Traffic auf unserer Website zu analysieren und um festzustellen, wie die Besucher unsere Website nutzen. Beispielsweise können diese Cookies Dinge verfolgen, wie z.B. wie lange Sie auf der Website sind oder welche Seiten Sie besuchen, was uns hilft zu verstehen, wie wir unsere Website für Sie verbessern können. Die durch diese Tracking und Performance Cookies gesammelten Informationen identifizieren keinen einzelnen Besucher. "
+    text-4-bold2: Für die Erfassung dieser Art von Cookies verwenden wir die Dienste von Drittanbietern - "Google Analytics" und "Hotjar".
+    text-5-part1: "Wir verwenden "
+    text-5-bold: Targeting und Werbe-Cookies
+    text-5-part2: ". Diese Cookies werden verwendet, um Werbung anzuzeigen, die für Sie aufgrund Ihrer Browserverhaltensweisen von Interesse sein könnte. Diese Cookies, die von unseren Inhalts- und/oder Werbeanbietern verwendet werden, können Informationen, die sie von unserer Website gesammelt haben, mit anderen Informationen kombinieren, die sie unabhängig voneinander im Zusammenhang mit den Aktivitäten Ihres Webbrowsers über ihr Netzwerk von Websites gesammelt haben. Wenn Sie sich dafür entscheiden, diese Targeting- oder Werbe-Cookies zu entfernen oder zu deaktivieren, werden Sie weiterhin Anzeigen sehen, die jedoch für Sie möglicherweise nicht relevant sind. "
+    text-5-bold2: Für die Erfassung dieser Art von Cookies verwenden wir Dienste von Drittanbietern - "Facebook Pixel".
+  section-4:
+    title: 4. Wie lange bleiben Cookies auf meinem Gerät?
+    text: "Die Verweildauer eines Cookies auf Ihrem Computer oder mobilen Gerät hängt davon ab, ob es sich um ein “persistentes” oder “Session”-Cookie handelt. Session-Cookies bleiben nur so lange auf Ihrem Gerät, bis Sie mit dem Surfen aufhören. Persistente Cookies bleiben auf Ihrem Computer oder Mobilgerät, bis sie ablaufen oder gelöscht werden. "
+    text-bold: Das Ablaufdatum für jede Art von Cookies finden Sie im obigen Abschnitt.
+  section-5:
+    title: 5. Ihre Zustimmung und Einstellungen zu Cookies.
+    text-1: Wenn Sie unsere Website zum ersten Mal besuchen, bitten wir Sie um Ihre Zustimmung zum Sammeln von Cookies, aber gleichzeitig haben Sie die Möglichkeit, die Einstellungen für Cookies zu ändern, und Sie können Ihre Zustimmung nur für eine Art von Cookies geben. Während der zusätzlichen Nutzung der Website können Sie durch Anklicken des Links "Cookies Einwilligung und Präferenzen" in der Fußzeile Ihre Einwilligung ENTZIEHEN oder ÄNDERN.
+    text-2-link-text: Zustimmung und Einstellungen zu Cookies
+    text-3: "Ihr Webbrowser kann es Ihnen ermöglichen, Ihre Cookie-Einstellungen zu ändern, einschließlich des Löschens und Deaktivierens von Cookies. Bitte konsultieren Sie den Hilfe-Bereich Ihres Webbrowsers oder folgen Sie den untenstehenden Links, um Ihre Optionen zu verstehen, aber beachten Sie bitte, dass, wenn Sie sich dafür entscheiden, die Cookies zu deaktivieren, einige Funktionen unserer Website oder unserer Dienste möglicherweise nicht wie vorgesehen funktionieren. "
+    text-3-bold: Auf jeden Fall können Sie unsere Website jedoch so nutzen, dass sie ihren Kern und ihren grundlegenden Zweck erfüllt, unabhängig von der Art der von Ihnen gewählten Cookie-Einstellungen.

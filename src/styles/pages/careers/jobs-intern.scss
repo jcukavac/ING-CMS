@@ -1,0 +1,142 @@
+@import "~_variables.scss";
+@import "~_mixins.scss";
+
+.jobs-wrapper-headline,
+.jobs-tabs {
+  p {
+    line-height: 30px;
+  }
+}
+
+.jobs-wrapper-headline {
+  padding: 10px 0 25px;
+  p {
+    color: $text-headline;
+  }
+}
+
+.jobs-desc-item {
+  flex: 0 0 900px;
+}
+
+#jobs-pills-tab-content {
+  padding-top: 100px;
+}
+
+.jobs-tabs {
+  padding: 0 0 100px;
+  .row {
+    &>h2 {
+      margin-bottom: 50px;
+    }
+  }
+  .tab-pane {
+    h2 {
+      font-size: 24px;
+      line-height: 30px;
+    }
+    p {
+      margin-bottom: 50px;
+    }
+  }
+}
+
+.jobs-tab-item {
+  flex-basis: calc(50% - 30px);
+  h3 {
+    @include font($ff-os-extraBold, 800, normal, 18px, 30px, null);
+    margin-bottom: 30px;
+  }
+  &>div {
+    margin-bottom: 20px;
+    img {
+      height: 25px;
+    }
+    span {
+      @include font($ff-os-semiBold, 600, normal, 16px, 30px, null);
+      margin-left: 15px;
+      width: calc(100% - 40px);
+    }
+  }
+}
+
+.jobs-desc-wrapper {
+  padding: 100px 0 80px;
+  p {
+    line-height: 30px;
+  }
+  section {
+    h2+p {
+      font-weight: bold;
+      margin: 40px 0 50px;
+    }
+    &:last-child {
+      margin-top: 40px;
+    }
+  }
+  .fixed-model-blue-box {
+    padding: 60px 70px 45px;
+    margin: 60px 0;
+    p {
+      font-weight: bold;
+    }
+  }
+}
+
+.jobs-contact-wrapper {
+  padding: 100px 0;
+  h2 {
+    margin-bottom: 0;
+  }
+  p {
+    line-height: 30px;
+    &:last-child {
+      margin: 30px 0 0;
+    }
+  }
+  h2+p {
+    font-weight: bold;
+    margin: 30px 0 0;
+  }
+  a {
+    color: $btn-headline;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+    font-weight: bold;
+    font-family: $ff-os-bold;
+    &:hover {
+      color: $btn-gradient;
+    }
+  }
+}
+
+.internship-box {
+  padding: 100px 0;
+  .row>p {
+    margin: 30px 0 50px;
+    line-height: 30px;
+  }
+  section {
+    img {
+      height: 25px;
+    }
+    &>div {
+      margin-bottom: 20px;
+      &>span {
+        @include font($ff-os-semiBold, 600, normal, null, 30px, null);
+        margin-left: 15px;
+        width: calc(100% - 40px);
+      }
+    }
+  }
+}
+
+.jobs-desc-wrapper {
+  .bg-color {
+    padding: 60px 80px;
+    margin: 65px 0;
+    p {
+      @include font($ff-os-bold, bold, normal, null, 30px, null);
+    }
+  }
+}

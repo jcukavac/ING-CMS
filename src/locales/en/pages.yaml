@@ -1,0 +1,1048 @@
+---
+index:
+  intro:
+    main-heading-part1: A Full-Cycle
+    main-heading-part2: Software Development
+    main-heading-part3: Company
+    heading: And the ultimate technology partner for startups
+    img-alt: Office sketch
+  card-box:
+    box1:
+      title: We Deliver Transformative Digital Solutions
+      text1: Our talented pool of seasoned software engineers, designers and project managers have successfully transformed even the most complex visions into digital products.
+      text2: Whether it is developing an MVP for a startup or retrofitting an enterprise’s legacy system - we’ve already done it. How?
+    box2:
+      title: With a Solid Understanding of Business Dynamics
+      text1: At Ingsoftware we understand that a solid understanding of your business domain is equally important.
+      text2: The team’s technical excellence takes you halfway to success. And our goal is to increase the profitability and efficiency of your business/startup through the development and implementation of software and technology solutions.
+
+  citations:
+    section-title: We Focus on Product Engineering for...
+    box1:
+      title: Enterprises
+      text: Increasing profitability and efficiency of businesses through digitalization of processes. We design and construct the cornerstone of your digital transformation.
+      citation: “We use reliable, cutting-edge technologies under security tested practices.”
+    box2:
+      title: Startups
+      text: From developing an MVP to a fully integrated product, our startup services deliver end-to-end. And we value outcomes over output.
+      citation: “We operate what we build. We build for growth. And we have been doing IT for a decade now.”
+    box3:
+      title: MSMEs
+      text: We are result-driven, and our mission resonates with MSMEs looking for a technology partner to elevate and transform their business.
+      citation: “We build business and tech empires through digitalization and digital transformations.”
+  
+  client-citations:
+    section-title: A Decade of Work and Great Clients
+    testimonial-Peter: Ingsoftware has been, and continues to be, a valued resource. Skilled and knowledgeable developers. High level of quality, responsiveness, and communication. Ability to scale to demands as needed. Very much recommended.
+    testimonial-Tony: We engaged Ingsoftware team on a strategic project that was complex both in terms of data and interface requirements. We were very happy with their team’s collaboration and with the end results. I greatly value their ability to quickly provide fully functional solutions with minimal supervision from our team. Ingsoftware offers highly professional development services, scalable teams and on-time deliverables at competitive prices.
+    testimonial-Gina: Peryton.com has worked with the Ingsoftware team for well over a year. Our experience can be summed up in one word - Awesome. This team is not only creative and incredibly responsive, but they have a “can do/will do” approach to projects - especially complex ones. They always figure things out.
+    testimonial-Dimitrije: Ingsoftware team has been and still is a valuable partner in our software development department. We needed a resourceful, hard-working and responsible team of developers capable of creating and handling robust, scalable, multi-user systems and we found that in Ingsoftware. Project managers are amazing guys ready to accommodate all our needs and requests. They handle the teams efficiently requiring no supervision from our side. Highly recommended.
+    testimonial-Dragana: We were impressed by the active interest that Ingsoftware has/had, at first for our product, the industry that we are working in and the needs that our clients have or could have. They contributed much more than software development; they actively provided advice, the most appropriate new technologies and additional solutions. We felt like working with the colleagues and not just with a supplier. Ingsoftware continues to impress us by in-house expertise and adaptability that is result of constant investment in the education of the team.
+    testimonial-Paul: CEO, Miroljub Bosković and the Ingsoftware team have been a valuable partner in creating our on-line presence and marketing design. Ingsoftware worked quickly and efficiently to ensure that our marketing materials and website achieved the look we envisioned. The staff was knowledgeable and offered several creative quality design options throughout the process. I was also extremely pleased with their responsiveness and customer service. I look forward to working with them on future projects.
+    testimonial-Garin: Our project with Ingsoftware is a great success. They are skilled professionals in both software engineering, great design and project management, providing us with timely and detailed information, while communicating clearly and effectively. Would definitely recommend them.
+    testimonial-Sebastian: With Ingsoftware we, as a small Austrian Software Company, found the perfect partner to support us when building solutions that are beyond our capacities. We experienced the developers are fluent in English and master the technology they use. This proves us that we have the right partner for our projects. We are looking forward to our ongoing cooperation.
+  concept:
+    title: From Concept to Solution
+    text-part1: Our cross-functional team structure and multidisciplinary collaborative approach ensure that all reviews and feedback
+    text-part2: are incorporated into the development process.
+    item1:
+      title: Software Prototyping
+      text: Analog to classic engineering disciplines, the realization of software system prototyping contributes to a better understanding of functionality, detecting potential issues and setting right priorities.
+    item2:
+      title: Software Development
+      text: As one of the leading full-cycle software product development providers in Eastern Europe, we support our clients at any stage of the product evolution - from an idea stage to product implementation, support & maintenance.
+    item3:
+      title: Branding and design
+      text: Our passion, dedication and your idea blend into elegant customized design that turns your project into a success.
+    item4:
+      title: Tech force for Startups
+      text: Startups are not smaller versions of large companies. They require their own set of processes and tools to be successful. Our cross-functional team structure and multidisciplinary collaborative approach ensure deep skills, robust process and flexibility to develop paramount solutions.
+  get-started:
+    step1:
+      img-alt: Woman sitting
+      title: Discovery
+      text: Taking on a 360 degree view of your business - documentation, project requirements, business dynamics, goals and objectives to understand the project needs and limitations.
+    step2:
+      img-alt: Checklist with pen
+      title: Planning
+      text: Based on the data gathered, we structure the development roadmap and decide on technology stacks needed to develop a solid foundation for fast feature iterations, stable scaling, and easy integrations.
+    step3:
+      img-alt: Glasses on desk
+      title: Design
+      text: Strategic structural design that supports the software usability and integrates your brand style into the digital medium. And we do this with IA wireframes, hi-fi mockups, and design prototypes.
+    step4:
+      img-alt: Guy sitting
+      title: Development
+      text: The development process and approach is defined by the project scope and requirements. We are no strangers to Agile, Lean or Waterfall methods - as software engineers, we build for structure, quality, and meaning.
+    step5:
+      img-alt: Three man
+      title: Testing, QA & launch
+      text: QA team tests each feature based on the outlined requirements. Inconsistencies are noted and sent back to the development team for resolution. Each project iteration goes through an intensive testing procedure before it goes live.
+    step6:
+      img-alt: Computer
+      title: Ongoing upgrades & maintenance
+      text: Post-launch, we offer programs to ensure your product is always up-to-date and continues to evolve. There are no limits to our creativity. Just milestones in our progress.
+  partnerships:
+    title: A Decade of Work and Meaningful Partnerships
+
+company:
+  about-us:
+    meta:
+      title: Our Company - Ingsoftware
+      description: We have offices on three major continents and are a tech force that delivers end-to-end professional and transformative IT services.
+      link: https://www.ingsoftware.com/company
+    main-heading: Our Company
+    heading: We have offices on three major continents and are a tech force that delivers end-to-end professional and transformative IT services.
+    who-are-we:
+      title: Who are we?
+      text-part1: Ingsoftware is a full-cycle development agency and the ultimate technology partner for startups.
+      text-part2: We have offices on three major continents and pride ourselves as a tech force of 85 software engineers, UX designers, managers, and advisers that delivers end-to-end professional and transformative IT services.
+      text-part3: A decade of work across different industry verticals, challenging projects and long-lasting partnerships showed us that we are ready for the next big step.
+      check1: Established in 2009
+      check2: Providing services worldwide
+      check3: Serving hundreds of clients
+      check4: Across different industry verticals
+      check5: While working on disruptive and complex projects
+    citation: We started out as a software development company with a vision to provide state-of-the-art software solutions to our clients.
+    we-chose:
+      title: We chose...
+      box1:
+        img-alt: Transformation Icon
+        title: Digital Transformation
+        text: Over Digitalization
+      box2:
+        img-alt: Partnership Icon
+        title: Technology Partnerships
+        text: Over Offshore Outsourcing
+      box3:
+        img-alt: Full Cycle Icon
+        title: Full-cycle Development
+        text: Over Isolated Software Solutions
+    mission-vision:
+      mission-title: And Are on Mission...
+      mission-text: To make technology an asset in your business, not a problem. All with the goal of increasing profitability and efficiency of business through the development and implementation of software and technology solutions.
+      vision-title: With a Vision Set on...
+      vision-text: Continuous growth and development as a leading provider of IT services. In the future, we see ourselves synonymous to a provider of high-quality business solutions based on current state-of-the-art technologies
+    talent:
+      title: And Talent to Back it Up
+      text-1: Our strong recruitment process enables us to source and secure top talent. We don’t do outsourcing, nor offshoring.
+      text-2: We are continuously working on the development and nurturing of strong L&D culture and pride ourselves as a company with high employee retention and low turnover.
+      text-3: We continue to impress our clients with our in-house expertise and adaptability that is the result of constant investment in the education of our team.
+  faq:
+    meta:
+      title: FAQ - Ingsoftware
+      description: FAQ about our company and our processes - we will try to answer all of your questions before you even ask them.
+      link: https://www.ingsoftware.com/faq
+    main-heading: FAQ
+    heading: FAQ about our company and our processes - we will try to answer all of your questions before you even ask them.
+    question-letter: Q
+    answer-letter: A
+    general:
+      title: General
+      q-1: What are your work hours, which time zone are you in?
+      a-1-1: Serbia is located in UTC+1 (Central European Time) time zone which gives us little to no difference in time with the vast majority of European capitals. On top of that, our teams often adjust their working hours to best suit the client’s project goals.
+      a-1-link: " "
+      a-1-link-text: " "
+      a-1-2: " "
+      q-2: Who I will be talking to when we start working?
+      a-2-1: "Depending on "
+      a-2-link: how-to-engage
+      a-2-link-text: the type of engagement model
+      a-2-2: " you can choose to communicate closely with our management team, or speak directly with a project manager\/team leader assigned to deliver your project. The communication can be conducted via email, voice\/video conferencing, messengers and mobile/landlines. If required, personal visits can be arranged too."
+      q-3: I do not know how to define requirements, can you help me?
+      a-3-1: "Sure. "
+      a-3-link: contact
+      a-3-link-text:  Send us over any initial project information you have
+      a-3-2: " and our official will contact you to clarify the details. Together with our experts you will be able to create a clear and trackable plan on how to transform your idea into reality."
+      q-4: Do I have to know anything about software development?
+      a-4-1: "Not at all. You can "
+      a-4-link: contact
+      a-4-link-text:  contact us even when you have just an idea 
+      a-4-2: " of what you’d like to work for you. Use our free contact form to describe your idea in your own words. Our analysts will apply their expertise and skills to make a simulation and present a clear and visionary solution plan for your approval."
+    pricing:
+      title: Costs & Billing
+      q-1: How much do you charge?
+      a-1-1: "This depends on the type of your engagement with us. There are "
+      a-1-link: how-to-engage
+      a-1-link-text: three core engagement models according to which we charge
+      a-1-2: ": Project Based, Time & Material, Dedicated Team. Each engagement plan offers its benefits to our clients. In case of Project Based engagement, a collective amount is charged. If you plan to have a large team for a project, the best way of doing it is by choosing Dedicated Team because the fee is spread out and in return you will practically receive an extension of your own in-house staff. Last but not least, if you only plan to use our services on an infrequent basis, or if you’re not completely sure about your project requirements in advance, opting for Time and Material charges is probably the best suitable option for you."
+      q-2: How much will my project cost me?
+      a-2-1: "It is hard to answer this question in terms of FAQ section. For us each collaboration with a client is unique. We need to understand your idea, to gather complete information about the required product and its functionality specifications. Then we prepare a proposal document and send it for your verification and further modification, if necessary. When you give us the final approval to the functionality requirements, "
+      a-2-link: our-expertise
+      a-2-link-text: we estimate the cost based on included resources, modules and man power
+      a-2-2: . We answer the follow up questions, and provide past similar projects quotes for costing guidelines.
+      q-3: How do you bill?
+      a-3-1: "The billing process can vary "
+      a-3-link: how-to-engage
+      a-3-link-text: based on your engagement model
+      a-3-2: . In Time and Material model, we will track our time and invoice you bi-weekly as well as provide transparent and clear report about the hours spent working on your project. We feel this is the most transparent and straightforward way to bill you. If you choose a Dedicated Team model, we will bill you on a monthly basis. For Project Outsourcing with fixed budgets, after we make the final calculation of costs with you, we will invoice you 30% of the budget, leaving the remaining 70% to be invoiced after successful project delivery. In the end, there are no strict billing rules and we are ready to determine the preferred way of doing it together with you.
+      q-4: What methods of payment do you accept?
+      a-4-1: We accept the standard wire transfers via bank, as well as PayPal and Bitcoin payments. For your convenience we can also proceed with the payment via third-party services such as freelance platforms.
+      a-4-link: " "
+      a-4-link-text: " "
+      a-4-2: " "
+    projects:    
+      title: Projects
+      q-1: Can I see what you're doing on my project on a regular basis?
+      a-1-1: "Yes, we will provide daily and weekly status reports, share the necessary resources and communicate constantly in order for you to have clarity about what’s going on with your project. "
+      a-1-link: company
+      a-1-link-text: We care about transparency a lot
+      a-1-2: "."
+      q-2: Can I adjust plans, features, etc. as we go?
+      a-2-1: Sure. Staying flexible is one of our key priorities. We’ll make sure to keep you aware and updated about all the best feature mixes, as well as support you in evolving your current engagement plan with us if that proves to be the best solution for your adjusting business objectives.
+      a-2-link: " "
+      a-2-link-text: " "
+      a-2-2: " "
+      q-3: Who owns the code and designs you produce during the project?
+      a-3-1: You are the owner of everything. We are just service providers. Before we start our work together, we will sign contracting agreement that will declare your ownership of all deliverables.
+      a-3-link: " "
+      a-3-link-text: " "
+      a-3-2: " "
+      q-4: Do you offer project management?
+      a-4-1: Yes, within our Project Outsourcing engagement plan we will have assigned a project lead who will be constantly communicating the project status and report to you directly. You can choose that project manager to be your main contact person on our side.
+      a-4-link: " "
+      a-4-link-text: " "
+      a-4-2: " "
+    expertise:
+      title: Expertise & Stuff
+      q-1: Do all your developers speak fluent English?
+      a-1-1: Yes, they do!
+      a-1-link: " "
+      a-1-link-text: " "
+      a-1-2: " "
+      q-2: Can I bring your developers on-site?
+      a-2-1: If your project really requires to have a programming task force on-site, we can make the necessary arrangements. However, additional costs for travel, housing and food will apply.
+      a-2-link: " "
+      a-2-link-text: " "
+      a-2-2: " "
+      q-3: Can I hire a full-time programmer away from you and bring him into my company?
+      a-3-1: Unfortunately, no. However, if you take a look at our Dedicated Team engagement model, we are offering an option to virtually expand your in-house development team, which might be just the perfect answer to your needs.
+      a-3-link: " "
+      a-3-link-text: " "
+      a-3-2: " "
+      q-4: Do you have graphic designers?
+      a-4-1: "Oh yes. We offer "
+      a-4-link: branding-and-design
+      a-4-link-text: "branding and design services"
+      a-4-2: " via ‘Time and Material’ or per project delivery basis. When choosing a dedicated team, you can also select great graphic design from us to help you define the best branding for your project."
+      q-5: Do you use open source technology?
+      a-5-1: "Yes, we do gain an incredible leverage from open source frameworks, libraries, tools and indeed entire projects or our own proprietary libraries. We choose not to re-invent the wheel, especially when there are already existing tools suitable for solving a problem. However, we always "
+      a-5-link: custom-software-development
+      a-5-link-text: "code from scratch the unique parts that make your product custom and valuable"
+      a-5-2: "."
+  our-expertise:
+    meta:
+      title: Our Expertise - Ingsoftware
+      description: Our team can provide a wide range of mobile, web, desktop and  enterprise software technology expertise across all major development environments.
+      link: https://www.ingsoftware.com/our-expertise
+    main-heading: Our Expertise
+    heading: Our team can provide a wide range of mobile, web, desktop and enterprise software technology expertise across all major development environments, frameworks and platforms.
+    heading-img-alt: Glasses
+    ui-ux-design:
+      title: UI/UX Design
+      p-1-1: "We listen attentively, work creatively and take "
+      p-1-link: branding-and-design
+      p-1-link-text: a user-centric design approach to every product we develop
+      p-1-2: ". Be it web or mobile apps."
+      p-2-1: We firmly believe in the custom development approach and we reject cookie-cutter solutions to the design. Driven by design thinking we try to solve complex problems and find desirable solutions by employing logic, creativity, intuition and systemic reasoning.
+      p-2-link: " "
+      p-2-link-text: " "
+      p-2-2: " "
+    fe-technologies:
+      title: Front - End Technologies
+      p-1-1: Frontend is the final meeting point between the end user and our system. As we acknowledge the importance of it, we naturally take special care about frontend development.
+      p-1-link: " "
+      p-1-link-text: " "
+      p-1-2: " "
+      p-2-1: "Relying on a number of modern web development principles, "
+      p-2-link: custom-software-development
+      p-2-link-text: we are making beautiful and intuitive frontend apps
+      p-2-2: ". By utilizing new features provided by HTML5 and CSS3 coupled with JavaScript/jQuery and a number of popular frameworks (i.e. Bootstrap, HTML5 Boilerplate, AngularJS) we strive to use contemporary trends. In order to meet the goals set by our clients, we employ modular coding methodologies, such as OOCSS / BEM / SMACSS and provide them with responsive web apps available across browsers and platforms."
+    be-technologies:
+      title: Back - End Technologies
+      p-1-1: "Whether we’re developing a web app, custom back-end system or an API, "
+      p-1-link: software-prototyping
+      p-1-link-text: we create architectures that work best with your product
+      p-1-2: ". The technologies we use are well-documented, mainstream, secure and enable easy scaling."
+      p-2-1: It's all about building a product that works seamlessly, meet market needs and creating an enjoyable user experience. We work with a variety of clients and have a huge experience in developing back-end solutions for trading platforms and banking solutions, enterprise resource planning (ERP) systems, client relationship management (CRM) systems accounting solutions and back-ends for web and mobile applications.
+      p-2-link: " "
+      p-2-link-text: " "
+      p-2-2: " "
+    data-storage:
+      title: Data Storage
+      p-1-1: We consider databases to be the foundation of every application we create. This is why we put great effort in the process of database design.
+      p-1-link: " "
+      p-1-link-text: " "
+      p-1-2: " "
+      p-2-1: "Our database developers and programmers have deep knowledge and "
+      p-2-link: case-studies
+      p-2-link-text: extensive hands-on experience gained through successful completion of sophisticated projects
+      p-2-2: " that have incorporated various, stable and tested database engines."
+    infrastructure:
+      title: Infrastructure
+      p-1-1: We understand the importance of building a flexible and cost-effective IT infrastructure to move IT to an “as a service” model that can be scaled. This is why we take on a holistic approach to solving complexities and infrastructure issues.
+      p-1-link: " "
+      p-1-link-text: " "
+      p-1-2: " "
+      p-2-1: We help companies plan, architect, build, migrate and integrate IaaS solutions across different cloud environments. Be it private, public or multicloud, our deep expertise in working with major cloud infrastructure providers will help you elevate your IaaS solution and scale it seamlessly.
+      p-2-link: " "
+      p-2-link-text: " "
+      p-2-2: " "
+  how-to-engage:
+    meta:
+      title: How to Engage? - Ingsoftware
+      description: Our core engagement models can be customized and mixed, in order to provide the best solution to your project needs. Check out how we do IT.
+      link: https://www.ingsoftware.com/how-to-engage
+    main-heading: Engagement Models
+    heading: Our engagement models are flexible enough to be applied to any development project.
+    heading-img-alt: Three guys talking
+    scope-people-time:
+      title: Scope, People, and Time
+      text-1: These are the cornerstones of a good plan. Our core engagement models can be customized and mixed in
+      text-2: order to provide the best solution to your project needs.
+    q-1: What Are the Benefits?
+    and-text: "And Includes:"
+    q-2: How it Works?
+    boxes-title: Where to Use This Model?
+    fixed-model:
+      icon-alt: Fixed icon
+      title: Fixed price model
+      check1: Finalized Pricing
+      check2: Defined Deadlines
+      check3: Predictability of Development
+      check4: No management on your side
+      check5: Dedicated Project Manager
+      check6: Application Testing and Quality Assurance
+      check7: 30-day Warranty Period Once Your Project is Delivered.
+      p-1: The contract is based on a fixed estimate of work that needs to be done.
+      p-2-1: Before the project starts, the dedicated business analyst and project manager will discuss every aspect of the project in order to estimate requirements and the cost.
+      p-2-link: " "
+      p-2-link-text: " "
+      p-2-2: " "
+      p-3: Once the project requirements and estimates are set, our dedicated project manager will come up with a clear plan and define deadlines for the project.
+      p-4: Being that all project details are previously defined, project management can be passed down to the dedicated project manager. There will be no need for any excessive supervision on your part.
+      blue-boxes:
+        p-1-1: The fixed price model works best for small project scopes. For this model to work for your project, it requires in-depth planning and clear project requirements.
+        p-1-link: " "
+        p-1-link-text: " "
+        p-1-2: " "
+        box1: small projects
+        box2: mvps
+        box3: fixed deadlines
+        box4: limited budget
+        box5: clear requirements
+    time-model:
+      icon-alt: Time icon
+      title: Time and material model
+      check1: Flexible Requirements
+      check2: Hourly Rates
+      check3: Product Quality
+      check4: Transparency
+      check5: Dedicated Project Manager
+      check6: Application Testing and Quality Assurance
+      check7: " "
+      p-1: This model involves continuous work and ongoing payment. As our client, you will play a greater role in the development process.
+      p-2-1: The project is divided into sprints and results in an MVP as its first more significant milestone. Features can be discussed, visualized, prototyped, and added during the development process. Same goes for the removal.
+      p-2-link: " "
+      p-2-link-text: " "
+      p-2-2: " "
+      p-3: Multiple iterations, testing, and QA ensure the delivery of high-quality software.
+      p-4: The time and materials model offers transparency and will allow you to monitor the project progress. This includes regular reporting on the work done.
+      blue-boxes:
+        p-1-1: "The time and materials model works best on "
+        p-1-link: tech-force-for-startups
+        p-1-link-text: projects that require flexible procedures, agile execution, and continuous development with no set scope of work
+        p-1-2: ". For this model to work for you, you must be willing to get involved in the project - your vision and approval are a vital part of the development process."
+        box1: dynamic requirements
+        box2: unclear project scope
+        box3: flexibility is required
+        box4: willingness to manage the project
+        box5: long-term projects
+    dedicated-model:
+      icon-alt: Dedicated icon
+      title: Dedicated team model
+      check1: Skilled Developers Working Just for You
+      check2: Ability to Select and Manage the Team
+      check3: The Highest Level of Control and Flexibility
+      check4: Predictable Budget and Cost-optimization
+      check5: Fixed Monthly Cost per Programmer
+      check6: Direct Access to Each Team Member
+      check7: " "
+      p-1: This model allows setting up or extending your core team for low-risk operations.
+      p-2-1: "As our client, you will be given an option to screen and select a developer to work on your project. We don't hire freelancers. All of our developers are working full-time at Ingsoftware. We are continuously working on the development and nurturing of a strong L&D culture. We provide "
+      p-2-link: careers
+      p-2-link-text: a lean environment for developers to work
+      p-2-2: " on your project, which in turn enables us to be a company with high employee retention and low turnover. And you will be in direct contact with a team like that."
+      p-3: " "
+      p-4: " "
+      blue-boxes:
+        p-1-1: "The dedicated team model helps develop "
+        p-1-link: case-studies
+        p-1-link-text: long-term strategic partnerships
+        p-1-2: ". Over the years, we've made many of them."
+        box1: long partnership
+        box2: predictable budget
+        box3: trustworthy relationships
+        box4: devops cost optimization
+        box5: team augmentation
+
+how-we-do-it:
+  software-prototyping:
+    meta:
+      title: Software Prototyping - Ingsoftware
+      description: Software prototyping services - understanding functionality, detecting potential issues and setting right priorities with software system prototyping.
+      link: https://www.ingsoftware.com/software-prototyping
+      site-name: Ingsoftware - Software Development Unternehmen
+    main-heading: Software Prototyping
+    heading: The realization of software system prototyping contributes to a better understanding of functionality, detecting potential issues and setting right priorities.
+    heading-img-alt: Software Monitor
+    proto-knowledge:
+      title: How do You Know You Need Software Prototyping?
+      text: Start off by answering these questions
+      icon-alt: Question mark
+      q-1: Have you already performed usability testing and decided about what would be an intuitive path for your users to get the most out of your application?
+      q-2: Have you already done the usability testing and decided what would be an intuitive path for your users to get the most out of your application?
+      q-3: Did you examine your users’ needs enough in order to prevent high user frustration?
+      q-4: Have you already curated a list of all necessary features and functions for your product so that you can accurately estimate the costs and plan the launch on time?
+      text-2: If you’re hesitating to give a positive answer to any of these questions, you should consider building a software prototype before moving forward with your project.
+    proto-helps:
+      title: Making a Software Prototype Helps
+      icon-alt: Circle Checkmark
+      box-1-1: Simulate
+      box-1-2: Business Process
+      box-2-1: Minimize
+      box-2-2: Development Risks
+      box-3-1: Control Investments
+      box-3-2: " "
+    proto-project:
+      title: Move Your Project Forward
+      text-1-1: Don't assume. Visualize, prototype, and validate your idea. Aim for growth, optimize from the start and ideate
+      text-1-2: a product that's both useful and usable.
+      box-1-icon-alt: Requirements icon
+      box-1-title: Requirements management
+      box-1-text: Considering your software idea and objectives, we will help you identify the prototype’s most target conducive form and the best procedure for its realization.
+      box-2-icon-alt: Pointer Hand icon
+      box-2-title: Clickable wireframes
+      box-2-text: We develop prototypes for your software or product solution that allow to evaluate functionality and test the system with data samples by applying multiple scenario executions.
+      box-3-icon-alt: Mockups icon
+      box-3-title: Static mockups (sketches)
+      box-3-text: For conceptual designs and simple software systems, we prepare an extensive set of interface sketches for task/screen-flows that allow you to achieve full compliance with your vision.
+      box-4-icon-alt: Clock
+      box-4-title: Full product development estimation
+      box-4-text-1: "At last, we refine the prototype until both parties agree: this is the canonical “definition of done.” This allows both parties to assemble the most "
+      box-4-text-link: how-to-engage
+      box-4-text-link-text: accurate estimates of development time, cost and effort
+      box-4-text-2: "."
+      box-5-icon-alt: Visual icon
+      box-5-title: Applied visual
+      box-5-text-1: "Our dedicated team of graphic designers will provide an interactive GUI for your application during the final stage to give you a "
+      box-5-text-link: branding-and-design
+      box-5-text-link-text: complete look & feel of your future software or solution
+      box-5-text-2: "."
+  software-development:
+    meta:
+      title: Custom Software Development - Ingsoftware
+      description: Since 2009, we have been providing high-end custom software development services to our customers ranging from startups to multinational companies.
+      link: https://www.ingsoftware.com/custom-software-development
+    main-heading: Software Development
+    heading: Since 2009, we have been providing high-end software development services to our customers ranging from startups to multinational companies.
+    heading-img-alt: Tablet and glasses
+    ing-text-part1: Ingsoftware has a flexible, dynamic and quality-driven team that rolls out software development
+    ing-text-part2: solutions in line with the hottest industry trends. With us by your side, you stand a better
+    ing-text-part3: chance of enhancing your business productivity.
+    ing-expertise:
+      app-item-1-img-alt: Mobile Phone
+      app-item-1-title: Mobile applications
+      app-item-1-text: We build custom, well-optimized, and intuitive native mobile apps for Android and iOS.
+      app-item-1-check1: Building bold new products
+      app-item-1-check2: Solving real-world problems
+      app-item-1-check3: Enhancing business processes
+      app-item-2-img-alt: Monitor and Coffe Cup
+      app-item-2-title: Web applications
+      app-item-2-text: We deliver fast, secure and scalable web applications built with state-of-the-art, reliable web technologies.
+      app-item-2-check1: Intelligent and result driven business applications
+      app-item-2-check2: Beautiful and branded websites
+      app-item-2-check3: Efficient and secure e-commerce and web portals
+      app-item-3-img-alt: Smart Watch
+      app-item-3-title: Real-time applications
+      app-item-3-text: We build custom apps that process real-time data in strictly defined intervals upon processing.
+      app-item-3-check1: Sensor data monitoring
+      app-item-3-check2: Stream processing for IoT devices
+      app-item-3-check3: Detecting fraud and spam
+    get-started:
+      text-q: Do You Have an Idea for Your Next Big Project?
+      text-a: Let's Get You Started!
+    software-growth:
+      title: We Build Software Designed For Growth
+      text: Powerful web solutions aren’t built around specific technology or framework. They are built with a vision set on growth, to elevate your business/brand, and we know this well. That is exactly why we start off by taking a full 360 degree view of your business needs, goals and objectives. Our cross-functional team structure and multidisciplinary collaborative approach ensure deep skills, robust process and flexibility to develop paramount solutions.
+      box-1-title: Full custom software builds
+      box-1-text-1: "We provide full-cycle development services that go beyond basic project requirements. We are no strangers to Agile and linear development processes, and can create "
+      box-1-text-link: how-to-engage
+      box-1-text-link-text: a unique approach that best resonates your project specifications
+      box-1-text-2: "."
+      box-2-title: Enterprise software integrations
+      box-2-text-1: "When it comes to robust integrations that collect critical business information from various systems and "
+      box-2-text-link: branding-and-design
+      box-2-text-link-text: require consolidation and intuitive presentation
+      box-2-text-2: ", we are definitely your top choice for a technology partner."
+      box-3-title: Legacy software upgrade
+      box-3-text-1: "We provide software upgrades to existing legacy systems to modernize their look and feel without any loss of data. All with a goal of "
+      box-3-text-link: software-prototyping
+      box-3-text-link-text: improving its usability and usage
+      box-3-text-2: "."      
+      box-4-title: Technology consulting
+      box-4-text-1: "We empower clients throughout the development process with professional "
+      box-4-text-link: our-expertise
+      box-4-text-link-text: advice on the choice of technologies and application architecture
+      box-4-text-2: " to ensure consistent scalability and data protection."
+    get-started-2:
+      text-part1: We Tailor Our Approach Based on The Project and
+      text-part2: Requirements and Client's Needs.
+    ing-tech:
+      title-part1: We Use Tested, Reliable, Top-notch Technologies Under
+      title-part2: Security Tested Practices
+      item-1-icon-alt: Web Monitor
+      item-1-title: Web Front-End Technologies
+      item-2-icon-alt: Mobile
+      item-2-title: Mobile Front-End Technologies
+      item-3-icon-alt: Back End tech
+      item-3-title: Back-End Technologies
+      item-4-icon-alt: Data storage
+      item-4-title: Data Storage Technologies
+      item-5-icon-alt: Web infrastructure
+      item-5-title: Infrastructure Technologies
+  branding-and-design:
+    meta:
+      title: Branding and Design - Ingsoftware
+      description: Branding and design requires serious innovation & attention to detail. Our pixel perfect, UX driven team has the skills for both and more.
+      link: https://www.ingsoftware.com/branding-and-design
+    main-heading: Branding & Design
+    heading: Branding and design require serious innovation and attention to detail. Our pixel-perfect, UX-driven team has the skills for both and more.
+    heading-img-alt: Brand Mobile
+    ing-brand:
+      title: Branding is What Connects Your Company With People
+      text-part1: In a digitally-led communication landscape, design strategies that empower human interaction are evermore important. It’s more
+      text-part2: than just designing the right logo. It’s the entire strategic approach that fuels the design process to generate trust and recognition.
+    ing:
+      title: Your Brand - Front And Center
+      text-part1: We root ourselves in your brand strategy - its insides and outs. And by doing so, we learn more about your business and people
+      text-part2: that connect with you. Our goal is to visualize and tell a story that represents it all. To deliver a clear message that will be recognized
+      text-part3: regardless of the communication channel.
+    brand-design:
+      title: We do This by....
+      app-item-1-img-alt: Checklist
+      app-item-1-title: Enhancing an existing brand
+      app-item-1-text-1: Times change and brands evolve to adapt to new circumstances. And we’re here to help you refresh the connection with people that engage with your brand.
+      app-item-1-text-2: Our design team will help you create and communicate a clear, consistent, and cohesive picture of your brand to help align your actions in a digital communication landscape.
+      app-item-1-text-3: " "
+      app-item-2-img-alt: Forklift truck
+      app-item-2-title: Building new brand identities
+      app-item-2-text-1: Making that critical first step in establishing your visual identity, tone, and voice.
+      app-item-2-text-2: Our design team will help establish a cohesive and consistent brand experience in your multichannel communication strategy.
+      app-item-2-text-3: We will do this by identifying the style, tone, and voice of your brand that needs to be enhanced with the right visual that resonates with your target audience. We design with growth in mind.
+      app-item-3-img-alt: Airplane
+      app-item-3-title: Elevating your creative advertising
+      app-item-3-text-1: Telling your story in a transformative way is what leads to meaningful interactions and higher conversion rates.
+      app-item-3-text-2: We help elevate your creative power without missing a beat.
+      app-item-3-text-3: And we do so by providing creative services with the benefit of an outside perspective.
+    get-started:
+      text-part1: Let’s Start off With a Conversation.
+      text-part2: To Visualize, Design, Build and Tell a Great Story.
+    brand-design-team:
+      title: Our Branding and Design Team
+      title-left: Will help you with
+      check-left-1: Brand naming & visual identity
+      check-left-2: Defining tone, voice & strategic messaging
+      check-left-3: Brand books and extensive style guides
+      check-left-4: Content direction and recommendations
+      title-right: And provide you with
+      check-right-1: Beautiful microsites
+      check-right-2: Flawless & intuitive app designs
+      check-right-3: Creative marketing collateral
+      check-right-4: Custom one-off digital designs
+
+case-studies:
+  meta:
+    title: Case Studies - Ingsoftware
+    description: We measure our success in terms of the success of our clients. That is why we are committed to work hard with our business partners and collaborators.
+    link: https://www.ingsoftware.com/case-studies
+  main-heading: Case Studies
+  heading: We measure our success in terms of the success of our clients. That is why we are committed to work hard with our business partners and collaborators.
+  heading-img-alt: Glasses
+  solution-title: The Solution Ingsoftware Provided
+  technology-title: Technology Used
+  team-title: Team Roster
+  dev: Developers
+  designer: Web designer
+  designers: Web designers
+  nav-link-more: and more...
+  gbi:
+    text-bold: Gold Bullion International
+    text: " is a leading institutional precious metals provider to individual investors and the wealth management industry. GBI’s technology platform allows clients to acquire and manage their precious metal assets directly through GBI or through their existing wealth management account relationships."
+    problem-title: The Problem GBI Faced
+    problem-text-part1: GBI was in need of a professional and skilled team that could develop and maintain a high-quality trading platform while also being able to scale easily to meet the requirements of multiple partners worldwide.
+    problem-text-part2: Ingsoftware was tasked with challenges of implementation, management and organization of various integrations that needed to happen often in short time-frames.
+    solution-text-part1: Ingsoftware helped modify the platform to be fully integrated into existing customer platforms. While supporting the integration features, we’ve also created and provided support for the GBI’s precious metal Trading Portal and Direct to Client Portal (e-commerce solution), where all orders, funding, and instructions are placed electronically by the end client.
+    solution-text-part2: Platform improved operations automation, enabled integration with banks and is an online e-commerce platform. It increased overall reach to the clients’ increasing sales and lowered the costs of operation.
+    quote: "ING has been, and continues to be, a valued resource. Skilled and knowledgeable developers. High level of quality, responsiveness, and communication. "
+    quote-bold: Ability to scale to demands as needed. Very much recommended.
+  beyond-pulse:
+    text-bold: Beyond Pulse
+    text: " is the ultimate soccer coaching diagnostic tool, empowering coaches with critical health data, resulting in better training, improved player health and performance. Beyond Pulse believes every single player and coach across the game should have access to affordable wearable technology. This data can be used to support the continued development of both player and coach from an educational and health perspective."
+    problem-title: The Problem Beyond Pulse Faced
+    problem-text-part1: As an early-stage startup with no internal tech team, Beyond Pulse had a need for a development partner that could meet a challenging list of requirements - proven track record in idea-to-production product development, breadth and versatility in terms of skills, scalability in terms of team size, and agility in the face of highly dynamic startup world.
+    problem-text-part2: " "
+    solution-text-part1: Ingsoftware was initially contracted to develop an iOS app for capturing heart rate and movement metrics from youth soccer players.
+    solution-text-part2: The partnership has quickly expanded to encompass the development of a comprehensive platform spanning many digital assets - from web apps for both coaches and players, through mobile app counterparts (Android and iOS) to the educational platform for coaches. Simply put, Ingsoftware is the tech force behind the Beyond Pulse product.
+    quote: "Our project with Ingsoftware is a great success. They are skilled professionals in both software engineering, great design and project management, providing us with timely and detailed information, while communicating clearly and effectively. "
+    quote-bold: Would definitely recommend them.
+  auvere:
+    text-bold: Auvere
+    text: " creates sculptural and refined 22K and 24K gold jewelry for people who seek pieces that represent the beauty of gold. Co-founded by accessories designer Gina Love, and her partner Steven Feldman, Auvere celebrates the art of hand-crafted gold jewelry in its purest forms."
+    problem-title: The Problem Auvere Faced
+    problem-text-part1: Auvere was just starting out. Gina, as the brand’s Chief Creative Officer, was working on the look, feel and voice of Auvere. She needed help with presenting her brand online, to raise awareness, promote and sell their products.
+    problem-text-part2: " "
+    solution-text-part1: Ingsoftware was there from the start. We designed, developed and launched an e-commerce store for Auvere and are continuously working on its improvement. Together with Gina as its CCO, we’ve designed a beautiful e-commerce experience for the shoppers. We are continuously working on the elevation of their creative advertising by supplying marketing collateral and optimizing their newsletter campaigns.
+    solution-text-part2: " "
+    quote: "Peryton.com has worked with the Ingsoftware team for well over a year. Our experience can be summed up in one word: Awesome. This team is not only creative and incredibly responsive, but they have a “can do/will do” approach to projects - especially complex ones. "
+    quote-bold: They always figure things out.
+  familipay:
+    text-bold: Familipay
+    text: " is envisioned as a comprehensive solution to solve shared parenting challenges - a digital toolset for conflict-free shared parenting. An online, cross-device solution that will alleviate the stress that lack of parental communication may cause to their children."
+    problem-title: The Problem We Identified
+    problem-text-part1: We continue to see a large number of couples with children that separate or divorce in the first few years of marriage. This is especially true for the western world, where fewer parents of children are getting married. The crude marriage ratio for parents has fallen by almost 50% in both the EU and the US since 2000.
+    problem-text-part2: The divorce rate, on the other hand, continues at approximately 50% for all marriages. And we’re on a mission to resolve this.
+    solution-text-part1: We’re building Familipay with and for families.
+    solution-text-part2: We’ve already visualized some features such as parental calendar and reimbursement payment methods as these are the most common problems and topics shared by the parents. Our core team of software engineers and UX designers will be working closely with parents to develop and launch Familipay by the end of 2019 in the UK. And we are looking for additional investors to help post-launch efforts - primarily marketing distribution and mentorship to guide the US market penetration.
+    quote: "We are going to build this project in public. We encourage people to apply for our pre-alpha user test group and help us build "
+    quote-bold: FamiliPay.
+  be-energised:
+    text-bold: be.Energised
+    text: " is the leading complete solution for the operation of e-charging infrastructure. The software takes over almost all tasks which involve the management of charging stations."
+    problem-title: The problem Has-to-be faced
+    problem-text-part1: Has-to-be was in need of professional and experienced developers to help them develop and maintain their e-mobility platform. They had a major problem with sourcing developers in Radstadt and had deep concerns about working with remote teams.
+    problem-text-part2: " "
+    solution-text-part1: Ingsoftware provided a rigorous selection of senior developers to work remotely as a part of the be.Energised team to maintain and further develop their e-mobility platform following their company standards and procedures. They were able to work with multiple company branches other than the Development team, like Marketing Team, Support Team, Design Team.
+    solution-text-part2: " "
+    quote: " "
+    quote-bold: " "
+  profit-optics:
+    text-bold: ProfitOptics Inc
+    text: " was founded in 2008. in Richmond, VA, USA, and has around 40 employees currently. They are transforming distribution companies’ data to value by analyzing data, providing pricing and margin solutions, presenting opportunities and developing solutions that deliver sustainable value."
+    problem-title: The Problem ProfitOptics Faced
+    problem-text-part1: As ProfitOptics grew they were in high demand of a professional team which would be able to maintain, upgrade and build new solutions for the ever-growing number of their business partners, as well as build in-house core solutions for their future projects.
+    problem-text-part2: They needed an independent team of project managers, designers, and developers that who would be able to keep up with the ever-growing client demand.
+    solution-text-part1: We re-designed, re-developed, configured and launched an updated version of the existing platform for distribution and sales - Margin Bridge. It covers the management of employees, products, prices, discounts, orders, reporting, invoicing, retail, etc.
+    solution-text-part2: In addition, we were engaged in R&D and developed advanced algorithms that helped customers to understand and optimize their sales margins and optimize their pricing. This enabled their clients to recover millions of dollars of valid, but previously unclaimed rebates.
+    quote: "We engaged Ingsoftware team on a strategic project that was complex both in terms of data and interface requirements. We were very happy with their team’s collaboration and with the end results. Each team member possesses a high level of dedication and initiative, as well as, a wealth of specialized industry knowledge that has been directed towards providing exceptional service to our company. I greatly value their ability to quickly provide fully functional solutions with minimal supervision from our team. "
+    quote-bold: "Ingsoftware offers highly professional development services, scalable teams and on-time deliverables at competitive prices."
+  more:
+    title: And Many More...
+    eft: Since its establishment back in 2000, the EFT Group has been the premier electricity trading and investment group in south-east Europe. Ingsoftware has developed their bank switching, ATM management, and Loyalty Card systems now used in 22 African countries.
+    activio: Activio is a forerunner within heart rate and power group training, being the first in its field to offer systems that are specifically developed for group training. Ingsoftware helped develop Activio Fitness System that utilizes wireless communication between most common chest belts on the market and other Bluetooth wearables with the user’s smart device to report on the level of physical intensity of their training continuously and in real-time.
+    vistair: Vistair is an aviation software company that provides document and safety management technology solutions for the aviation industry. Ingsoftware is engaged as a full technology provider for one of their most important clients, Delta Airlines. We helped in the maintenance and upgrade of existing solutions, as well as in development of new ASI module and Single Event feature.
+    swissWide: SwissWide Holding AG is a FinTech company with headquarters in Zug, Switzerland and with competencies in Finance, Marketing, Law, Software Development, Web and App Development, Blockchain Development, and much more. Ingsoftware helped develop SmartFinancing.io - a cutting edge FinTech platform for creating, issuing, analyzing, and investing into Smart Bonds and Shares.
+    findologic: Findologic has been developing advanced search solutions for online stores since 2008 and is one of the leading providers. Ingsoftware has helped with the development of their lightning-fast search module and has been working on its integration on other platforms ever since.
+    asseco: The Asseco SEE Group (ASEE Group) is the largest operator in South-Eastern Europe in terms of revenue derived from sales of its software and services and a top player in banking. Ingsoftware helped develop “Experience Scoring” - application that helps banks automate important operational decisions with predictive models.
+    saltcreek: Saltcreek's Fuel Card Management System (FCMS) is an intelligent and comprehensive software solution which provides services for companies in the fuel industry. Ingsoftware helped develop Saltcreek FCMS and is continuously working on its integrations on various legacy fuel management platforms.
+    asi: Asset Strategies International is a full service, tangible asset dealer specializing in precious metals, foreign currency, rare tangible assets, and much more. Ingsoftware built a long-term trading platform for ASI’s back-office and middle-office departments, processing trades of precious metals. We have also provided dedicated support to maintain and develop new features in the trading system.
+    orion: Orion Telekom was founded in 2010 with the merger of the largest wireless providers in Serbia. Ingsoftware has built the CRM system used to manage the company’s customers, company services and offers, manage invoices and payments, and reporting, thus improving company operations and reducing costs.
+    brenton-point: Brenton Point Wealth Advisors LLC is a financial advisory firm with headquarters in New York, NY serving the financial needs of clients across 14 states. Ingsoftware helped Brenton Point develop their brand identity and designed and developed their corporate website on the Wordpress CMS.
+    intorel: Intorel is a world-class developer of advanced monitoring and control solutions for broadcast enterprises and satellite communications. Ingsoftware developed and integrated new modules for an existing product - Visionic. We’ve designed and tested new features to improve its overall stability and reliability.
+    banksurance: Banksurance is a centralized repository of banking insurance systems and products. It automates the tracking of insurance agent licensing requirements, client appointments and referrals, and fee income and receivables. Ingsoftware helped to develop and implement new features to their existing legacy system and has provided continuous maintenance.
+    peryton: Peryton is a fine leather goods brand designed by Gina Love. Ingsoftware was there from the start - we helped Peryton develop their brand identity. We’ve launched a small, well-designed, custom webshop based on WooCommerce, and continuously worked on the design of marketing collateral.
+    nutraCosmetic: NutraCosmetic is manufacturing and selling quality, safe, reliable, and innovative products in the cosmetics industry. Ingsoftware developed a landmark detection algorithm based on a neural network to detect wanted facial features (lips, nose, forehead) and an edge detection algorithm which applies make-up effects to these regions and produces an image with the simulated make-up.
+    webelinx: Webelinx is one of the leading producers of free-to-play mobile games and apps of top-notch performance used by millions of users around the world. As a strategic partner, we are responsible for a back-end server support and web development of Webelinx’s products. We have built and are continuously improving platforms for ads management, multiplayer support, and core business logic.
+    atto-verticale: Atto VERTICALE is an eccentric concept by Masera Design born from a unique idea - a wristwatch with a mechanical hand-wound movement assembled on an anodized aluminum case. Ingsoftware was hired by Masera Design to develop a webshop for their products based on Magento CMS.
+    farma: Farm@ is a revolutionary system for cow farm management system designed and developed together with our partners, Eurogenyx. The system enables farmers to access and store all the required data of their cattle in one place, monitor and adjust microclimate conditions, and use it to manage milking and nutrition processes.
+    monicom: Monicom d.o.o. is one of the most successful family-owned companies in Serbia, headquartered in Niš, with manufacturing facilities positioned across the south of the country. Ingsoftware was in charge of complete website design, branding, and development.
+    seavus: Seavus is an international software development and consulting company headquartered in Malmö, Sweden. Ingsoftware has a dedicated team working under Seavus management on mobile application development for their clients.
+    mihajlovic-soft: Mihajlovic Soft is leading Serbian provider of accounting, bookkeeping, inventory management, loyalty program and similar custom-made business software solutions. Ingsoftware was involved in development and maintenance of loyalty systems, document management systems, and fuel distribution automation platforms that helped customers to optimize their business and reduce operational costs.
+    shareTV: ShareTV is an online community for fans of network television and an official distribution partner of HULU, ABC, Fox, NBC, Syfy and Showtime networks. Ingosftware was involved in their website maintenance and CMS development that was based on vanilla PHP.
+    iteo-spin: Iteo Spin doo is the reference provider of the most comprehensive solutions and services in the field of information support of the investment activities of financial institutions. Ingsoftware was hired to develop an incident reporting and management platform for households where users could easily report a problem and request maintenance support from household maintenance service providers.
+
+contact:
+  meta:
+    title: Contact Us - Ingsoftware
+    description: Tell us about your project and let's make it happen. Find contact details for our worldwide offices on this page. Get in touch, we are just an email away.
+    link: https://www.ingsoftware.com/contact
+  main-heading: Contact Us
+  heading: Tell us about your project and let's make it happen. Find contact details for our worldwide offices on this page. Get in touch, we are just an email away.
+  heading-img-alt: Modem
+  form:
+    title: Send Us an Email...
+    field-name: Name
+    placeholder-name: Enter your name
+    validation-name: Please enter your name...
+    field-email: Email
+    placeholder-email: Enter your business email
+    validation-email: Please enter business email...
+    field-company: Company name
+    placeholder-company: Enter your company name
+    validation-company: Please enter company name...
+    dropdown: What do you need help with?
+    dropdown-option1: Software Development
+    dropdown-option2: Software Prototyping
+    dropdown-option3: Branding and design
+    dropdown-option4: Startups
+    dropdown-option5: Press/Media
+    dropdown-option6: Basic inquiry
+    validation-dropdown: Please choose an option...
+    field-message: Message
+    placeholder-message: Type your message here
+    validation-message: Please enter your text...
+    mandatory: means mandatory field
+
+startups:
+  meta:
+    title: Tech Force for Startups - Ingsoftware
+    description: From developing an MVP to a fully integrated product, our startup services deliver end-to-end.
+    link: https://www.ingsoftware.com/tech-force-for-startups
+  main-heading: Tech Force for Startups
+  heading: From developing an MVP to a fully integrated product, our startup services deliver end-to-end.
+  heading-img-alt: Power up man
+  desc:
+    left-title: We Work Well With Startups
+    left-text-1: Startups are not smaller versions of large companies. They require their own set of processes and tools to be successful.
+    left-text-2: Our cross-functional team structure and multidisciplinary collaborative approach ensure deep skills, robust process and flexibility to develop paramount solutions.
+    right-title: As an Ultimate Technology Partner
+    right-text-1: We help you ideate, design, prototype, develop and launch digital solutions that are engaging and people enjoy using. We understand the need for rapid iteration and scaling growth.
+    right-text-2-part1: "And we are no strangers to Agile and Lean methods - as software engineers, "
+    right-text-2-link: /case-studies
+    right-text-2-link-text: we build for structure, quality, and meaning
+    right-text-2-part2: .
+  force-forwarding:
+    title: To Move Them Forward With
+    force-step1:
+      img-alt: Leaves of grass in hand
+      title: Minimal Viable product (MVP)
+      text-1-part1: Rapid ideation and development of your MVP. As a tech force of senior software engineers UX designers, PMs and other IT professionals, we can deliver a polished MVP fast with optimal expenses and move straight to securing your funding round.
+      text-1-link1: " "
+      text-1-link1-text: " "
+      text-1-part2: " "
+      text-1-link2: " "
+      text-1-link2-text: " "
+      text-1-part3: " "
+      text-1-link3: " "
+      text-1-link3-text: " "
+      text-1-part4: " "
+      text-2-part1: Most startups never reach beta stage due to the absence of technology partners, undefined goals or poor implementation or integration of DevOps. With an established MVP, you can measure early and fine-tune your product to help pivot or adapt to the market needs.
+      text-2-link: " "
+      text-2-link-text: " "
+      text-2-part2: " "
+    force-step2:
+      img-alt: Cycle
+      title: Full Cycle Product Engineering
+      text-1-part1: "We provide end-to-end product engineering for startups. We aim to design and deploy digital products set on growth and durability. Dedicated design and development team will guide your product from its "
+      text-1-link1: branding-and-design
+      text-1-link1-text: concept design
+      text-1-part2: " over to "
+      text-1-link2: software-prototyping
+      text-1-link2-text: working prototype
+      text-1-part3: " and "
+      text-1-link3: custom-software-development
+      text-1-link3-text: " customized digital solution"
+      text-1-part4: .
+      text-2-part1: Your case is examined with a 360 degree view of your startup and business requirements.
+      text-2-link: " "
+      text-2-link-text: " "
+      text-2-part2: " "
+    force-step3:
+      img-alt: Handshake
+      title: Product Advisory for Startups
+      text-1-part1: We provide guidance and advisory for startups at every stage. Our dedicated startup team will help you visualize a concept, create a prototype, validate the assumption and develop custom solution according to startup requirements and feedback, with an emphasis on cost optimization.
+      text-1-link1: " "
+      text-1-link1-text: " "
+      text-1-part2: " "
+      text-1-link2: " "
+      text-1-link2-text: " "
+      text-1-part3: " "
+      text-1-link3: " "
+      text-1-link3-text: " "
+      text-1-part4: " "
+      text-2-part1: "We build for growth, meaning we define concepts and set up strategies for design, development, and optimization early on. After all, "
+      text-2-link: /
+      text-2-link-text: we are your ultimate technology partner
+      text-2-part2: .
+    force-step4:
+      img-alt: Arrows
+      title: Technology Migration & Re-engineering
+      text-1-part1: As your startup evolves, you will begin to target new markets. Technology migration has a distinct set of problems that may arise and hurt your business productivity. At Ingsoftware, we help you mitigate those problems by running a detailed analysis of the system and recommend effective solutions to alleviate the transition impact and meet your startup requirements.
+      text-1-link1: " "
+      text-1-link1-text: " "
+      text-1-part2: " "
+      text-1-link2: " "
+      text-1-link2-text: " "
+      text-1-part3: " "
+      text-1-link3: " "
+      text-1-link3-text: " "
+      text-1-part4: " "
+      text-2-part1: " "
+      text-2-link: " "
+      text-2-link-text: " "
+      text-2-part2: " "
+  force-steps:
+    title: By Empowering Them at Each Stage
+  force-optimization:
+    title: Led by Growth, Optimizing Each Step of The Way
+    box1-title: Discovery
+    box1-text1: The cornerstone of any digital startup is found in the discovery stage. We start off by defining the problem, and proceed with exploring existing solutions for them.
+    box1-text2: We build prototypes to help discover the best one with the most promising usability and usage. People don’t just look for usable products, but ones that are meaningful and useful.
+    box1-text3: " "
+    box2-title: MVP (Minimum Viable Product)
+    box2-text1: Our dedicated startup team will help develop the MVP as the most promising, polished, and usable version of the product to be released on the market. We are oriented towards growth, and spend time to learn and understand your goals, mission, and vision.
+    box2-text2: This strategy helps build value into the product and retain early users - all with the aim of optimizing the future development and adoption for low costs.
+    box2-text3: " "
+    box3-title: Go to Market Strategy
+    box3-text1: Your startup team’s technical brilliance can only take you halfway to success.
+    box3-text2: At Ingsoftware, we understand that startups are not smaller versions of large companies. And we know there is a missing link between startup’s market strategies and stakeholder’s decision-making.
+    box3-text3: We will help guide your focus, show you were to compete and how to win.
+    box4-title: Usability Testing and Improvement
+    box4-text1: Any sufficiently advanced technology is indistinguishable from magic. And the best technology out there is always intuitive.
+    box4-text2: To match users’ expectations with the digital experience you provided, our usability testers will make a thorough assessment and recommendations in terms of layouts and workflows.
+    box4-text3: " "
+    box5-title: Visual Design and Branding
+    box5-text1: The blend of your idea and our passion and dedication in an elegant customized design is what will turn your project into a success.
+    box5-text2: We provide a strategic structural design that supports digital product usability and integrates your brand style into the digital medium. And we do this with interactive wireframes, hi-fi mockups, and design prototypes.
+    box5-text3: " "
+    box6-title: Extending DevOps
+    box6-text1: We take on this approach to unify operations and development. The goal is to shorten the systems development life cycle while delivering features, fixes, and updates frequently.
+    box6-text2: Effective DevOps lead to lower operational costs. And we have the tech excellence to back it up.
+    box6-text3: " "
+    box7-title: Technology Audits
+    box7-text1: With digital startups, it’s easy to get carried away with technology. Especially in terms of ease of use, performance, and availability. Plus, there is a strong need for information privacy and data protection.
+    box7-text2: Our team of software engineers will make technical audits customized to your business and present solutions to mitigate risks and improve productivity.
+    box7-text3: " "
+    box8-title: Team Augmentation
+    box8-text1: Technologies can be chosen fast - with knowledge and engineering experience, this comes easy.
+    box8-text2: But finding the right team that can stick and deliver throughout each stage is challenging. We pride ourselves with engineering knowledge, multidisciplinary and cross-functional approach.
+    box8-text3: With us by your side, you will have a tech force team to be reckoned with as well as a valuable extension to your core team.
+
+error:
+  img-alt: Thank you lady
+  title: Sorry, we can’t find that page.
+  text: You can visit the Ingsoftware home page.
+  link: return to home page
+
+privacy-policy:
+  meta:
+    title: Privacy Policy - Ingsoftware
+    description: This privacy notice will inform you as to how we look after your personal data when you visit our website and tell you about your privacy rights.
+    link: https://www.ingsoftware.com/privacy-policy
+  title: Ingsoftware DOO privacy policy
+  text-part1: Ingsoftware DOO respects your privacy and is committed to protecting your personal data. This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
+  text-part2: "Each of the sections below will explain our processing activities as well as your related rights as a data subject, in plain English:"
+  section-title1: Introducing
+  section-title2: What kind of data we collect through our website
+  section-title3: How we collect data
+  section-title4: How we use your personal data, in what purposes, and on what legal basis
+  section-title5: Cookies Policy
+  section-title6: Disclosures of your personal data
+  section-title7: International transfers
+  section-title8: Your legal rights
+  section-title9: Data security
+  section-title10: Data retention
+  text-2-part1: "You can also download this Privacy Notice as a PDF document by clicking "
+  text-2-link: /ingsoftware-privacy.pdf
+  text-2-link-text: here
+  text-2-part2: .
+  section-1:
+    title: 1. Introducing.
+    text-1-part1: "This website is operated by INGSOFTWARE DOO NIŠ. We are registered and located in Republic of Serbia, City of Niš, Tolstojeva Str. No. 44. You could contact us by using our website contact form, or by tel. number: "
+    text-1-link: tel:+381600777888
+    text-1-link-text: +381 60 0777 888
+    text-1-part2: ", or by email address: "
+    text-1-link2: mailto:rs.office@ingsoftware.com
+    text-1-link2-text: rs.office@ingsoftware.com
+    text-1-part3: .
+    text-2: This privacy notice aims to give you information on how Ingsoftware DOO collects and processes your personal data through your use of this website, and through interaction with you.
+    text-3: This website is not intended for children and we do not knowingly collect data relating to children!
+    text-4: Ingsoftware DOO is the controller and responsible for your personal data (collectively referred to as “we”, “us” or “our” in this privacy notice).
+    text-5: We only process Personal Data and Communications Data for the specific purposes explained in this privacy notice, and as soon as that data is no longer needed for that purpose it is deleted. The only exception to this is where we may be required to keep certain data by law.
+    text-6-part1: "We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the data privacy manager using the contact details that follows: email address- "
+    text-6-link: mailto:contact@ingsoftware.com
+    text-6-link-text: contact@ingsoftware.com
+    text-6-part2: .
+  section-2:
+    title: 2. What kind of data we collect through our website.
+    point-1-bold: Identity Data
+    point-1-text: " includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender;"
+    point-2-bold: Contact Data
+    point-2-text: " includes email address and telephone numbers;"
+    point-3-bold: Technical Data
+    point-3-text: " includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website;"
+    point-4-bold: Usage Data
+    point-4-text: " includes information about how you use our website;"
+    point-5-bold: Marketing and Communications Data
+    point-5-text: " includes your preferences in receiving marketing from us and our third parties and your communication preferences."
+    text-part1: "We do not collect any "
+    text-bold: Special Categories of Personal Data
+    text-part2: " about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences."
+  section-3:
+    title: 3. How we collect data.
+    text-1: We use two different methods of data collecting.
+    text-2-part1: "First, "
+    text-2-bold: through Direct Interactions with you
+    text-2-part2: ", and you may give us your Identity and Contact data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you: request marketing to be sent to you; complete our questionnaires; give us some feedback; ect."
+    text-3-part1: "And second, "
+    text-3-bold: via Automated technologies or your interactions through Third Party Services embedded in our website
+    text-3-part2: ". As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies."
+    text-3-part3: "Please see our "
+    text-3-em: “Cookies Policy”
+    text-3-part4: " for further details."
+  section-4:
+    title: 4. How we use your personal data, in what purposes, and on what legal basis
+    text-1: We will only use your personal data when the law allows us to. To be more precise, we will use your personal data where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests, and where we need to comply with a legal or regulatory obligation.
+    text-2: Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by contacting us.
+    text-3: We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate, and we have identified purpose of data collecting, where your consent are legal base for data collection.
+    th-1: Purpose/Activity
+    th-2: Type of data
+    th-3: Legal basis for processing
+    th-4: Basis of legitimate interest and purpose of data collecting
+    th-5: Period of retention
+    row1-1: To manage our relationship with you.
+    row1-2-a: (a) Identity
+    row1-2-b: (b) Contact
+    row1-3: Necessary for our legitimate interests, or Necessary for the performance of a contract with you, or to prepare such a contract.
+    row1-4: To keep our records updated, or to perform or prepare contract with you
+    row1-5: ...
+    row2-1: To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data).
+    row2-2-a: (a) Identity
+    row2-2-b: (b) Contact
+    row2-2-c: (c) Technical
+    row2-3: Necessary for our legitimate interests.
+    row2-4: for running our business, provision of administration and IT services, network security, to prevent fraud
+    row2-5: ...
+    row3-1: To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you.
+    row3-2-a: (a) Identity
+    row3-2-b: (b) Contact
+    row3-2-c: (c) Profile
+    row3-2-d: (d) Usage
+    row3-2-e: (e) Marketing and Communications
+    row3-2-f: (f) Technical
+    row3-3: Your consent.
+    row3-4: to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy
+    row3-5: ...
+    row4-1: To use data analytics to improve our website, services, marketing, customer relationships and experiences.
+    row4-2-a: (a) Technical
+    row4-2-b: (b) Usage
+    row4-3: Your consent.
+    row4-4: to define types of customers for our services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy	
+    row4-5: ...
+    row5-1: To make suggestions and recommendations to you about goods or services that may be of interest to you.
+    row5-2-a: (a) Identity
+    row5-2-b: (b) Contact
+    row5-2-c: (c) Technical
+    row5-2-d: (d) Usage
+    row5-2-e: (e) Profile
+    row5-3: Your consent.
+    row5-4: to develop our services and grow our business
+    row5-5: ...
+    text-4: We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing). You will receive marketing communications from us if you have requested information from us or purchased goods or services from us and, in each case, you have not opted out of receiving that marketing. You can ask us or third parties to stop sending you marketing messages at any time, by using an unsubscribe form, or by contacting us at any time.
+  section-5:
+    title: 5. Cookies Policy
+    text-part1: "Please see our "
+    text-link: /cookie-policy
+    text-link-text: “Cookies Policy”
+    text-part2: " for further details."
+  section-6:
+    title: 6. Disclosures of your personal data.
+    text-1: We may have to share your personal data with the third parties, which services are embedded in our website.
+    text-2: We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+  section-7:
+    title: 7. International transfers.
+    text-1-part1: "Some of our external third parties are based outside the European Economic Area ("
+    text-1-bold: EEA
+    text-1-part2: ") so their processing of your personal data will involve a transfer of data outside the EEA."
+    text-2: "Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:"
+    point-1: "We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries:"
+    point-1-link: https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en
+    point-2: "Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see European Commission: Model contracts for the transfer of personal data to third countries:"
+    point-2-link: https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en
+    point-3: "Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. For further details, see European Commission: EU-US Privacy Shield:"
+    point-3-link: https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en
+  section-8:
+    title: 8. Your legal rights.
+    text-1: Under certain circumstances, you have rights under data protection laws in relation to your personal data.
+    text-2: If you wish to exercise any of the rights set out below, please contact us.
+    text-3-bold: Request access
+    text-3: " to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it."
+    text-4-bold: Request correction
+    text-4: " of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us."
+    text-5-bold: Request erasure
+    text-5: " of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request."
+    text-6-bold: Object to processing
+    text-6: " of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms."
+    text-7-bold: Request restriction
+    text-7: " of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it."
+    text-8-bold: Request the transfer
+    text-8: " of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you."
+    text-9-bold: Withdraw consent
+    text-9: " at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent."
+    text-10: You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+    text-11: We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+    text-12: We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+  section-9:
+    title: 9. Data security.
+    text-1: We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+    text-2: We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so
+  section-10:
+    title: 10. Data retention.
+    text-1: We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+    text-2: To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+    text-3: The retention period for each kind of data that we are processing, you could find in the section above.
+    text-4-part1: "In some circumstances you can ask us to delete your data. See "
+    text-4-em: “Request erasure”
+    text-4-part2: " above for further information."
+    text-5: In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+cookie-policy:
+  meta:
+    title: Cookie Policy - Ingsoftware
+    description: This page tells you what you need to know about cookies and how they are used on our website.
+    link: https://www.ingsoftware.com/cookie-policy
+  title: Cookies Policy
+  section-title1: Who we are?
+  section-title2: What are cookies?
+  section-title3: What kind of cookies do we use?
+  section-title4: How long will cookies stay on my device?
+  section-title5: Your cookies consent and preferences.
+  section-1:
+    title: 1. Who we are?
+    text-1-part1: "This website is operated by INGSOFTWARE DOO NIŠ. We are registered and located in Republic of Serbia, City of Niš, Tolstojeva Str. No. 44. You could contact us by using our website contact form, or by tel. number: "
+    text-1-link: tel:+381600777888
+    text-1-link-text: +381 60 0777 888
+    text-1-part2: ", or by email address: "
+    text-1-link2: mailto:rs.office@ingsoftware.com
+    text-1-link2-text: rs.office@ingsoftware.com
+    text-1-part3: .
+  section-2:
+    title: 2. What are cookies?
+    text-1: Cookies are small text files containing a string of characters that can be placed on your computer or mobile device that uniquely identify your browser or device. More detailed, cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. Persistent cookies will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date. Session cookies will expire at the end of the user session, when the web browser is closed.
+  section-3:
+    title: 3. What kind of cookies do we use?
+    text-1: We use cookies to improve your browsing experience on our website, to analyze website traffic, to understand where our visitors are coming from, and to show you personalized content and targeted ads
+    text-2-part1: "We use "
+    text-2-bold: Strictly necessary cookies
+    text-2-part2: ". These cookies are essential to provide you with services available through our website and to enable you to use certain features of our website. Without these cookies, we cannot provide you certain services on our website."
+    text-3-part1: "We use "
+    text-3-bold: Functionality cookies
+    text-3-part2: ". These cookies are used to provide you with a more personalized experience on our website and to remember choices you make when you use our website. For example, we may use functionality cookies to remember your language preferences or remember your login details."
+    text-4-part1: "We use "
+    text-4-bold: Tracking and performance cookies
+    text-4-part2: ". These cookies are used to collect information to analyze the traffic to our website and how visitors are using our website. For example, these cookies may track things such as how long you spend on the website or the pages you visit which helps us to understand how we can improve our website site for you. The information collected through these tracking and performance cookies do not identify any individual visitor. "
+    text-4-bold2: For collecting these kind of cookies, we are using third party services - "Google Analytics" and „Hotjar“.
+    text-5-part1: "We use "
+    text-5-bold: Targeting and advertising cookies
+    text-5-part2: ". These cookies are used to show advertising that is likely to be of interest to you based on your browsing habits. These cookies, as served by our content and/or advertising providers, may combine information they collected from our website with other information they have independently collected relating to your web browser's activities across their network of websites. If you choose to remove or disable these targeting or advertising cookies, you will still see adverts but they may not be relevant to you. "
+    text-5-bold2: For collecting these kind of cookies, we are using third party services - "Facebook Pixel".
+  section-4:
+    title: 4. How long will cookies stay on my device?
+    text: "The length of time a cookie will stay on your computer or mobile device depends on whether it is a “persistent” or “session” cookie. Session cookies will only stay on your device until you stop browsing. Persistent cookies stay on your computer or mobile device until they expire or are deleted. "
+    text-bold: The expiration date for each kind of cookies, you could find in the section above.
+  section-5:
+    title: 5. Your cookies consent and preferences.
+    text-1: When you visit our website for the first time, we ask you for consent regarding collecting cookies, but in the same time, you have option to change cookies preferences, and you could give your consent just to some sort of cookies. During additionally use of web site, by clicking "Cookies consent and preferences" link in the footer, you could WITHDRAW or CHANGE your consent.
+    text-2-link-text: Cookies consent and preferences
+    text-3: "Your web browser may allow You to change Your cookie preferences, including to delete and disable cookies. Please consult the help section of your web browser or follow the links below to understand your options, but please note that if you choose to disable the cookies, some features of our website or services may not operate as intended. "
+    text-3-bold: But in any case, you will be able to use our website with fulfilling its core and basic purpose, regardless to kind of cookies settings you chose.

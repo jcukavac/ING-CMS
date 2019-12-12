@@ -1,0 +1,16 @@
+// Importing Bootstrap v.4.2.1 SCSS files
+// @import '~bootstrap/scss/bootstrap';
+
+// Import Slick v.1.8.1 SCSS files
+// @import '~slick-carousel/slick/slick';
+// Import AOS v.2.3.4 SCSS files
+// @import '~aos/src/sass/aos';
+// Import fonts
+@import 'fonts';
+// Importing local SCSS files
+@import './base/import-base.module';
+@import 'helpers/import-helpers';
+@import 'elements/import-elements';
+// @import 'components/import-components';
+// @import 'pages/import-pages';
+@import 'responsive/import-responsive';

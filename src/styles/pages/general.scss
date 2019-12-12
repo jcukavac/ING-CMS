@@ -1,0 +1,62 @@
+@import '~_variables.scss';
+@import '~_mixins.scss';
+
+.home-bg-image {
+  &:after {
+    content: '';
+    // background: url("../images/bg.png") no-repeat;
+    background-image: url("./bg.png");
+    background-repeat:  no-repeat;
+    box-sizing: border-box;
+    display: block;
+    height: 1127px;
+    left: 50%;
+    position: absolute;
+    top: 0;
+    transform: translateX(-50%);
+    width: 2880px;
+    z-index: -1;
+    overflow: hidden;
+  }
+}
+
+.sub-menu {
+  a {
+    @include font($ff-os-bold, bold, normal, 14px, 24px, null);
+    color: $nav-pills;
+    position: relative;
+    transition: color 0.3s ease-in-out;
+    margin: 0 25px;
+    padding: 15px 0;
+    &:hover {
+      color: $main-text;
+    }
+    &.active {
+      background-color: transparent !important;
+      color: $main-text !important;
+      border-radius: 0;
+      transition: all 0.3s ease-in-out;
+      &:after {
+        content: '';
+        position: absolute;
+        height: 4px;
+        width: 100%;
+        background-color: $btn-headline;
+        top: 93%;
+        left: 0;
+      }
+    }
+  }
+}
+
+// thank-you.html & 404.html
+.thank-you-wrapper {
+  &:after {
+    background-color: $bg-color;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .row {
+    @include viewport-unit(height, 75vh);
+  }
+}
