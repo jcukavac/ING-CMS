@@ -31,7 +31,7 @@
     "gatsby-transformer-yaml": "^2.2.17",
     "jsnpm": "^0.3.7",
     "lazysizes": "^5.2.0-beta1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
     "react-bootstrap": "^1.0.0-beta.16",
